@@ -1,732 +1,428 @@
-Date/Time of Update: 2016-10-27 10:01:16 AM,#Player ID,#LastName,#FirstName,#Jersey Num,#Position,#Height,#Weight,#Birth Date,#Age,#Birth City,#Birth Country,#Rookie,#Team ID,#Team Abbr.,#Team City,#Team Name,#GamesPlayed,#Points
-,5576,McDavid,Connor,97,C,"6'1""",195,1997-01-13,19,"Richmond Hill, ON",Canada,N,24,EDM,Edmonton,Oilers,7,11
-,4692,Marchand,Brad,63,LW,"5'9""",183,1988-05-11,28,"Hammonds Plains, NS",Canada,N,11,BOS,Boston,Bruins,7,10
-,9627,Matthews,Auston,34,C,"6'2""",210,1997-12-09,18,"Scottsdale, AZ",USA,Y,12,TOR,Toronto,Maple Leafs,6,10
-,4620,Anisimov,Artem,15,C,"6'4""",198,1988-05-24,28,Yaroslavl,Russia,N,20,CHI,Chicago,Blackhawks,7,9
-,15,Burns,Brent,88,D,"6'5""",230,1985-03-09,31,"Barrie, ON",Canada,N,26,SJS,San Jose,Sharks,7,9
-,5418,Nylander,William,29,C,"6'0""",190,,,"Calgary, AB",Canada,Y,12,TOR,Toronto,Maple Leafs,6,9
-,4136,Pavelski,Joe,8,C,"5'11""",190,1984-07-11,32,"Plover, WI",USA,N,26,SJS,San Jose,Sharks,7,9
-,4457,Stamkos,Steven,91,C,"6'0""",190,,,"Markham, ON",Canada,N,1,TBL,Tampa Bay,Lightning,6,9
-,3846,Weber,Shea,6,D,"6'4""",233,1985-08-14,31,"Sicamous, BC",Canada,N,14,MTL,Montreal,Canadiens,7,9
-,3623,Getzlaf,Ryan,15,C,"6'4""",221,1985-05-10,31,"Regina, SK",Canada,N,29,ANA,Anaheim,Ducks,7,8
-,4394,Giroux,Claude,28,RW,"5'11""",172,1988-01-12,28,"Hearst, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,8
-,4265,Kane,Patrick,88,RW,"5'11""",181,1988-11-19,27,"Buffalo, NY",USA,N,20,CHI,Chicago,Blackhawks,7,8
-,5473,Marchessault,Jonathan,81,C,"5'8""",184,1990-12-27,25,"Cap-Rouge, QC",Canada,N,4,FLO,Florida,Panthers,6,8
-,5026,Nyquist,Gustav,14,C,"5'11""",185,1989-09-01,27,Halmstad,Sweden,N,16,DET,Detroit,Red Wings,7,8
-,5167,Panik,Richard,14,RW,"6'1""",208,,,Martin,Slovakia,N,20,CHI,Chicago,Blackhawks,7,8
-,5437,Pastrnak,David,88,RW,"6'0""",167,1996-05-25,20,Havirov,Czech Republic,N,11,BOS,Boston,Bruins,7,8
-,5135,Tarasenko,Vladimir,91,RW,"6'0""",219,1991-12-13,24,Yaroslavl,Russia,N,17,STL,St. Louis,Blues,7,8
-,3632,Vanek,Thomas,62,LW,"6'0""",217,1984-01-19,32,Vienna,Austria,N,16,DET,Detroit,Red Wings,7,8
-,4497,Voracek,Jakub,93,RW,"6'2""",214,1989-08-15,27,Kladno,Czechoslovakia,N,6,PHI,Philadelphia,Flyers,7,8
-,4800,Fowler,Cam,4,D,"6'1""",207,1991-12-05,24,"Windsor, ON",Canada,N,29,ANA,Anaheim,Ducks,8,7
-,5149,Gallagher,Brendan,11,RW,"5'9""",178,1992-05-06,24,"Edmonton, AB",Canada,N,14,MTL,Montreal,Canadiens,7,7
-,925,Green,Mike,25,D,"6'1""",207,1985-10-12,31,"Calgary, AB",Canada,N,16,DET,Detroit,Red Wings,7,7
-,4660,Karlsson,Erik,65,D,"6'0""",180,1990-05-31,26,Landsbro,Sweden,N,13,OTT,Ottawa,Senators,6,7
-,5104,Kreider,Chris,20,LW,"6'3""",226,1991-04-30,25,"Boxford, MA",USA,N,9,NYR,New York,Rangers,5,7
-,5300,Kucherov,Nikita,86,RW,"5'11""",171,1993-06-17,23,Moscow,Russia,N,1,TBL,Tampa Bay,Lightning,6,7
-,5458,Rask,Victor,49,C,"6'2""",200,1993-03-01,23,Leksand,Sweden,N,3,CAR,Carolina,Hurricanes,6,7
-,5003,Scheifele,Mark,55,C,"6'2""",195,1993-03-15,23,"Kitchener, ON",Canada,N,47,WPJ,Winnipeg,Jets,6,7
-,4019,Stastny,Paul,26,C,"6'0""",205,1985-12-27,30,"Quebec City, QC",Canada,N,17,STL,St. Louis,Blues,7,7
-,3713,Steen,Alexander,20,LW,"5'11""",212,1984-03-01,32,"Winnipeg, MB",Canada,N,17,STL,St. Louis,Blues,7,7
-,3714,Suter,Ryan,20,D,"6'1""",200,1985-01-21,31,"Madison, WI",USA,N,25,MIN,Minnesota,Wild,7,7
-,5000,Zibanejad,Mika,93,C,"6'1""",200,1993-04-18,23,Stockholm,Sweden,N,9,NYR,New York,Rangers,7,7
-,4185,Brouwer,Troy,36,RW,"6'3""",213,1985-08-17,31,"Vancouver, BC",Canada,N,23,CGY,Calgary,Flames,8,6
-,257,Cullen,Matt,7,C,"6'1""",200,1976-11-02,39,"Virgina, MN",USA,N,10,PIT,Pittsburgh,Penguins,7,6
-,5417,Draisaitl,Leon,29,C,"6'1""",210,1995-10-27,21,Cologne,Germany,N,24,EDM,Edmonton,Oilers,7,6
-,5895,Dzingel,Ryan,18,LW,"6'0""",190,1992-03-09,24,"Wheaton, IL",USA,N,13,OTT,Ottawa,Senators,6,6
-,4505,Eberle,Jordan,14,RW,"5'11""",184,1990-05-15,26,"Regina, SK",Canada,N,24,EDM,Edmonton,Oilers,7,6
-,4846,Hall,Taylor,9,LW,"6'1""",195,1991-11-14,24,"Calgary, AB",Canada,N,7,NJD,New Jersey,Devils,6,6
-,4404,Helm,Darren,43,C,"6'0""",192,1987-01-21,29,"Winnipeg, MB",Canada,N,16,DET,Detroit,Red Wings,7,6
-,3715,Keith,Duncan,2,D,"6'1""",200,1983-07-16,33,"Winnipeg, MB",Canada,N,20,CHI,Chicago,Blackhawks,7,6
-,5165,Killorn,Alex,17,C,"6'2""",205,1989-09-14,27,"Halifax, NS",Canada,N,1,TBL,Tampa Bay,Lightning,6,6
-,5619,Konecny,Travis,11,C,"5'10""",175,1997-03-11,19,"London, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,6
-,9628,Laine,Patrik,29,RW,"6'4""",206,1998-12-04,17,Tampere,Finland,Y,47,WPJ,Winnipeg,Jets,6,6
-,3652,Malkin,Evgeni,71,C,"6'3""",195,1986-07-31,30,Magnitogorsk,Russia,N,10,PIT,Pittsburgh,Penguins,7,6
-,4852,McDonagh,Ryan,27,D,"6'1""",213,1989-06-13,27,"St. Paul, MN",USA,N,9,NYR,New York,Rangers,7,6
-,5161,Miller,J.T.,10,C,"6'1""",205,1993-03-14,23,"East Palestine, OH",USA,N,9,NYR,New York,Rangers,7,6
-,4703,O'Reilly,Ryan,90,LW,,200,1991-02-07,25,"Clinton, ON",Canada,N,15,BUF,Buffalo,Sabres,5,6
-,4603,Pacioretty,Max,67,LW,"6'2""",217,1988-11-20,27,"New Canaan, CT",USA,N,14,MTL,Montreal,Canadiens,7,6
-,5292,Pearson,Tanner,70,LW,"6'0""",193,1992-08-10,24,"Kitchener, ON",Canada,N,28,LAK,Los Angeles,Kings,4,6
-,3626,Perry,Corey,10,RW,"6'3""",212,1985-05-16,31,"Peterborough, ON",Canada,N,29,ANA,Anaheim,Ducks,8,6
-,4828,Pirri,Brandon,73,C,"6'3""",183,,,"Toronto, ON",Canada,N,9,NYR,New York,Rangers,7,6
-,5253,Ristolainen,Rasmus,55,D,"6'4""",207,1994-10-27,22,Turku,Finland,N,15,BUF,Buffalo,Sabres,5,6
-,4875,Seguin,Tyler,91,C,"6'1""",182,1992-01-31,24,"Brampton, ON",Canada,N,27,DAL,Dallas,Stars,6,6
-,5850,Shore,Devin,17,C,"6'1""",205,1994-07-19,22,"Ajax, ON",Canada,N,27,DAL,Dallas,Stars,6,6
-,4514,Simmonds,Wayne,17,RW,"6'2""",183,1988-08-26,28,"Scarborough, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,6
-,4876,Skinner,Jeff,53,LW,"5'11""",200,1992-05-16,24,"Toronto, ON",Canada,N,3,CAR,Carolina,Hurricanes,5,6
-,3720,Stempniak,Lee,21,RW,"5'11""",196,,,"West Seneca, NY",USA,N,3,CAR,Carolina,Hurricanes,6,6
-,4680,Tavares,John,91,C,"6'1""",205,1990-09-20,26,"Mississauga, ON",Canada,N,8,NYI,New York,Islanders,7,6
-,5158,Vatanen,Sami,45,D,"5'10""",183,1991-06-03,25,Jyvaskyla,Finland,N,29,ANA,Anaheim,Ducks,8,6
-,5630,Aho,Sebastian,20,RW,"5'11""",176,1997-07-26,19,Rauma,Finland,Y,3,CAR,Carolina,Hurricanes,6,5
-,4527,Bailey,Joshua,12,LW,"6'1""",190,1989-10-02,27,"Bowmanville, ON",Canada,N,8,NYI,New York,Islanders,7,5
-,5241,Barkov,Aleksander,16,C,"6'3""",213,1995-09-02,21,Tampere,Finland,N,4,FLO,Florida,Panthers,6,5
-,5623,Beauvillier,Anthony,72,LW,"5'10""",176,1997-06-08,19,"Sorel-Tracy, QC",Canada,Y,8,NYI,New York,Islanders,6,5
-,5415,Bennett,Sam,93,C,"6'1""",178,1996-06-20,20,"Holland Landing, ON",Canada,N,23,CGY,Calgary,Flames,8,5
-,277,Brown,Dustin,23,LW,"6'0""",207,1984-11-04,31,"Ithaca, NY",USA,N,28,LAK,Los Angeles,Kings,6,5
-,4943,Byron,Paul,41,C,"5'7""",153,1989-04-27,27,"Ottawa, ON",Canada,N,14,MTL,Montreal,Canadiens,7,5
-,568,Campbell,Brian,51,D,"5'10""",190,1979-05-23,37,"Strathroy, ON",Canada,N,20,CHI,Chicago,Blackhawks,7,5
-,4715,Couture,Logan,39,C,"6'1""",200,1989-03-28,27,"Guelph, ON",Canada,N,26,SJS,San Jose,Sharks,7,5
-,5124,Coyle,Charlie,3,RW,"6'3""",221,1992-03-02,24,"E. Weymouth, MA",USA,N,25,MIN,Minnesota,Wild,7,5
-,5230,Drouin,Jonathan,27,LW,"5'11""",186,1995-03-28,21,"Ste-Agathe, QC",Canada,N,1,TBL,Tampa Bay,Lightning,6,5
-,4663,Duchene,Matt,9,C,"5'11""",200,1991-01-16,25,"Haliburton, ON",Canada,N,22,COL,Colorado,Avalanche,5,5
-,5009,Faulk,Justin,27,D,"6'0""",215,1992-03-20,24,"South St. Paul, MN",USA,N,3,CAR,Carolina,Hurricanes,6,5
-,3813,Filppula,Valtteri,51,C,"6'0""",195,1984-03-20,32,Vantaa,Finland,N,1,TBL,Tampa Bay,Lightning,6,5
-,4278,Foligno,Nick,71,LW,"6'0""",210,1987-10-31,28,"Buffalo, NY",USA,N,19,CBJ,Columbus,Blue Jackets,5,5
-,5210,Forsberg,Filip,9,C,"5'11""",186,1994-08-13,22,Ostervala,Sweden,N,18,NSH,Nashville,Predators,6,5
-,5127,Galchenyuk,Alex,27,C,"6'1""",196,1994-02-12,22,"Milwaukee, WI",USA,N,14,MTL,Montreal,Canadiens,7,5
-,5383,Gaudreau,Johnny,13,LW,"5'8""",155,1993-08-13,23,"Carney's Point, NJ",USA,N,23,CGY,Calgary,Flames,8,5
-,3861,Giordano,Mark,5,D,"6'0""",200,1983-10-03,33,"Toronto, ON",Canada,N,23,CGY,Calgary,Flames,8,5
-,5600,Hanifin,Noah,5,D,"6'3""",205,1997-01-25,19,"Boston, MA",USA,N,3,CAR,Carolina,Hurricanes,6,5
-,4523,Hornqvist,Patric,72,RW,"5'11""",189,1987-01-01,29,Sollentuna,Sweden,N,10,PIT,Pittsburgh,Penguins,7,5
-,4033,Kopitar,Anze,11,C,"6'3""",224,1987-08-24,29,Jesenice,Slovenia,N,28,LAK,Los Angeles,Kings,6,5
-,4299,Lucic,Milan,27,LW,"6'4""",220,1988-06-07,28,"Vancouver, BC",Canada,N,24,EDM,Edmonton,Oilers,7,5
-,5231,MacKinnon,Nathan,29,C,"6'0""",182,1995-09-01,21,"Halifax, NS",Canada,N,22,COL,Colorado,Avalanche,5,5
-,5087,Manning,Brandon,23,D,"6'1""",195,,,"Prince George, BC",Canada,N,6,PHI,Philadelphia,Flyers,7,5
-,4512,Martinez,Alec,27,D,"6'1""",206,1987-07-26,29,"Rochester Hills, MI",USA,N,28,LAK,Los Angeles,Kings,6,5
-,5495,Martinook,Jordan,48,LW,"6'0""",202,1992-07-25,24,"Brandon, MB",Canada,N,30,ARI,Arizona,Coyotes,6,5
-,319,Nash,Rick,61,LW,"6'4""",213,1984-06-16,32,"Brampton, ON",Canada,N,9,NYR,New York,Rangers,7,5
-,5226,Nelson,Brock,29,C,"6'3""",196,1991-10-15,25,"Warroad, MN",USA,N,8,NYI,New York,Islanders,7,5
-,3495,Ovechkin,Alex,8,LW,"6'3""",230,1985-09-17,31,Moscow,Russia,N,5,WSH,Washington,Capitals,6,5
-,5811,Panarin,Artemi,72,LW,"5'11""",170,1991-10-30,24,Korkino,Russia,N,20,CHI,Chicago,Blackhawks,7,5
-,3502,Parise,Zach,11,LW,"5'11""",197,1984-07-28,32,"Minneapolis, MN",USA,N,25,MIN,Minnesota,Wild,7,5
-,4929,Petry,Jeff,26,D,"6'3""",195,1987-12-09,28,"Ann Arbor, MI",USA,N,14,MTL,Montreal,Canadiens,6,5
-,4100,Radulov,Alexander,47,RW,"6'1""",200,1986-07-05,30,Nizhny Tagil,Russia,N,14,MTL,Montreal,Canadiens,7,5
-,5005,Read,Matt,24,RW,"5'10""",185,1986-06-14,30,"Ilderton, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,5
-,3634,Seabrook,Brent,7,D,"6'3""",221,1985-04-20,31,"Richmond, BC",Canada,N,20,CHI,Chicago,Blackhawks,7,5
-,439,Sedin,Henrik,33,C,"6'2""",188,1980-09-26,36,Ornskoldsvik,Sweden,N,21,VAN,Vancouver,Canucks,7,5
-,4901,Shattenkirk,Kevin,22,D,"5'11""",207,1989-01-29,27,"New Rochelle, NY",USA,N,17,STL,St. Louis,Blues,7,5
-,247,Staal,Eric,12,C,"6'4""",205,,,"Thunder Bay, ON",Canada,N,25,MIN,Minnesota,Wild,7,5
-,4885,Stepan,Derek,21,C,"6'0""",196,1990-06-18,26,"Hastings, MN",USA,N,9,NYR,New York,Rangers,7,5
-,5105,Stone,Mark,61,RW,"6'2""",205,1992-05-13,24,"Winnipeg, MB",Canada,N,13,OTT,Ottawa,Senators,6,5
-,3665,Streit,Mark,32,D,"5'11""",191,1977-12-11,38,Bern,Switzerland,N,6,PHI,Philadelphia,Flyers,7,5
-,4997,Strome,Ryan,18,C,"6'1""",188,1993-07-11,23,"Mississauga, ON",Canada,N,8,NYI,New York,Islanders,7,5
-,4671,Subban,P.K.,76,D,"6'0""",217,1989-05-13,27,"Toronto, ON",Canada,N,18,NSH,Nashville,Predators,6,5
-,4490,Sutter,Brandon,20,C,"6'3""",183,1989-02-14,27,"Huntington, NY",USA,N,21,VAN,Vancouver,Canucks,7,5
-,82,Thornton,Joe,19,C,"6'4""",220,1979-07-02,37,"London, ON",Canada,N,26,SJS,San Jose,Sharks,7,5
-,5191,Toffoli,Tyler,73,RW,"6'1""",196,1992-04-24,24,"Toronto, ON",Canada,N,28,LAK,Los Angeles,Kings,6,5
-,10062,Vesey,Jimmy,26,LW,"6'2""",201,1993-05-26,23,"Boston, MA",USA,Y,9,NYR,New York,Rangers,7,5
-,250,Vrbata,Radim,17,RW,"6'1""",194,1981-06-13,35,Mlada Boleslav,Czech Republic,N,30,ARI,Arizona,Coyotes,6,5
-,5449,Wennberg,Alexander,10,C,"6'1""",190,,,Stockholm,Sweden,N,19,CBJ,Columbus,Blue Jackets,5,5
-,5603,Werenski,Zach,8,D,"6'2""",214,1997-07-19,19,"Grosse Pointe, MI",USA,Y,19,CBJ,Columbus,Blue Jackets,5,5
-,4430,Wheeler,Blake,26,RW,"6'5""",205,1986-08-31,30,"Robbinsdale, MN",USA,N,47,WPJ,Winnipeg,Jets,6,5
-,4971,Wiercioch,Patrick,28,D,"6'5""",205,1990-09-12,26,"Burnaby, BC",Canada,N,22,COL,Colorado,Avalanche,5,5
-,4032,Zajac,Travis,19,C,"6'3""",205,1985-05-13,31,"Winnipeg, MB",Canada,N,7,NJD,New Jersey,Devils,6,5
-,4927,Zuccarello,Mats,36,LW,"5'7""",179,1987-09-01,29,Oslo,Norway,N,9,NYR,New York,Rangers,7,5
-,5093,Zucker,Jason,16,LW,"5'11""",186,1992-01-16,24,"Newport Beach, CA",USA,N,25,MIN,Minnesota,Wild,7,5
-,5538,Arvidsson,Viktor,38,LW,"5'9""",172,1993-04-08,23,Skelleftea,Sweden,N,18,NSH,Nashville,Predators,6,4
-,5011,Atkinson,Cam,13,RW,"5'7""",172,1989-06-05,27,"Riverside, CT",USA,N,19,CBJ,Columbus,Blue Jackets,5,4
-,4179,Backes,David,42,C,"6'3""",221,1984-05-01,32,"Minneapolis, MN",USA,N,11,BOS,Boston,Bruins,5,4
-,4609,Backlund,Mikael,11,C,"6'0""",198,1989-03-17,27,Vasteras,Sweden,N,23,CGY,Calgary,Flames,8,4
-,5075,Barrie,Tyson,4,D,"5'10""",190,1991-07-26,25,"Victoria, BC",Canada,N,22,COL,Colorado,Avalanche,5,4
-,4707,Benn,Jamie,14,LW,"6'2""",210,1989-07-18,27,"Victoria, BC",Canada,N,27,DAL,Dallas,Stars,6,4
-,4373,Boychuk,Johnny,55,D,"6'2""",225,1984-01-19,32,"Edmonton, AB",Canada,N,8,NYI,New York,Islanders,7,4
-,4354,Brassard,Derick,19,C,"6'1""",202,1987-09-22,29,"Hull, QC",Canada,N,13,OTT,Ottawa,Senators,6,4
-,5123,Brodin,Jonas,25,D,"6'1""",191,1993-07-12,23,Karlstad,Sweden,N,25,MIN,Minnesota,Wild,7,4
-,3874,Byfuglien,Dustin,33,D,"6'5""",265,1985-03-27,31,"Minneapolis, MN",USA,N,47,WPJ,Winnipeg,Jets,6,4
-,3488,Carter,Jeff,77,C,"6'4""",212,1985-01-01,31,"London, ON",Canada,N,28,LAK,Los Angeles,Kings,6,4
-,4318,Clutterbuck,Cal,15,RW,"5'11""",213,1987-11-18,28,"Welland, ON",Canada,N,8,NYI,New York,Islanders,7,4
-,4284,Cogliano,Andrew,7,C,"5'10""",181,1987-06-14,29,"Toronto, ON",Canada,N,29,ANA,Anaheim,Ducks,8,4
-,4980,Colborne,Joe,8,C,"6'5""",213,1990-01-30,26,"Calgary, AB",Canada,N,22,COL,Colorado,Avalanche,5,4
-,4995,Couturier,Sean,14,C,"6'3""",197,1992-12-07,23,"Phoenix, AZ",USA,N,6,PHI,Philadelphia,Flyers,7,4
-,5487,Danault,Phillip,24,C,"6'0""",201,,,"Victoriaville, QC",Canada,N,14,MTL,Montreal,Canadiens,7,4
-,4739,Desharnais,David,51,C,"5'7""",177,1986-09-14,30,"Laurier-Station, QC",Canada,N,14,MTL,Montreal,Canadiens,7,4
-,5412,Domi,Max,16,C,"5'9""",197,1995-03-02,21,"Winnipeg, MB",Canada,N,30,ARI,Arizona,Coyotes,6,4
-,5125,Dumba,Matthew,24,D,"6'0""",183,1994-07-25,22,"Regina, SK",Canada,N,25,MIN,Minnesota,Wild,7,4
-,3733,Eaves,Patrick,18,RW,"6'0""",187,1984-05-01,32,"Calgary, AB",Canada,N,27,DAL,Dallas,Stars,5,4
-,4866,Ekman-Larsson,Oliver,23,D,"6'2""",190,1991-07-17,25,Karlskrona,Sweden,N,30,ARI,Arizona,Coyotes,6,4
-,4020,Eriksson,Loui,21,LW,"6'2""",196,1985-07-17,31,Gothenburg,Sweden,N,21,VAN,Vancouver,Canucks,7,4
-,5615,Eriksson-Ek,Joel,14,C,"6'2""",184,1997-01-29,19,Karlstad,Sweden,Y,25,MIN,Minnesota,Wild,3,4
-,5257,Fast,Jesper,19,RW,"6'0""",185,1991-12-02,24,Nassjo,Sweden,N,9,NYR,New York,Rangers,7,4
-,5478,Ferland,Micheal,79,LW,"6'2""",215,1992-04-20,24,"Swan River, MB",Canada,N,23,CGY,Calgary,Flames,8,4
-,850,Fisher,Mike,12,C,"6'1""",215,1980-06-05,36,"Peterborough, ON",Canada,N,18,NSH,Nashville,Predators,5,4
-,4507,Frolik,Michael,67,C,"6'1""",198,1988-02-17,28,Kladno,Czechoslovakia,N,23,CGY,Calgary,Flames,8,4
-,5006,Gardiner,Jake,51,D,"6'2""",184,1990-07-04,26,"Minnetonka, MN",USA,N,12,TOR,Toronto,Maple Leafs,6,4
-,5268,Glendening,Luke,41,C,"5'11""",195,1989-04-28,27,"Grand Rapids, MI",USA,N,16,DET,Detroit,Red Wings,7,4
-,4402,Goligoski,Alex,33,D,"5'11""",181,1985-07-30,31,"Grand Rapids, MN",USA,N,30,ARI,Arizona,Coyotes,6,4
-,5440,Gostisbehere,Shayne,53,D,"5'11""",160,,,"Pembroke Pines, FL",USA,N,6,PHI,Philadelphia,Flyers,7,4
-,4685,Hedman,Victor,77,D,"6'6""",233,1990-12-18,25,Ornskoldsvik,Sweden,N,1,TBL,Tampa Bay,Lightning,6,4
-,219,Hossa,Marian,81,RW,"6'1""",210,1979-01-12,37,Stara Lubovna,Czechoslovakia,N,20,CHI,Chicago,Blackhawks,6,4
-,5010,Johansen,Ryan,92,C,"6'3""",203,1992-07-31,24,"Vancouver, BC",Canada,N,18,NSH,Nashville,Predators,6,4
-,4882,Johansson,Marcus,90,C,"6'1""",205,1990-10-06,26,Landskrona,Sweden,N,5,WSH,Washington,Capitals,6,4
-,5042,Josi,Roman,59,D,"6'1""",192,1990-06-01,26,Bern,Switzerland,N,18,NSH,Nashville,Predators,6,4
-,4766,Kadri,Nazem,43,C,"6'0""",188,1990-10-06,26,"London, ON",Canada,N,12,TOR,Toronto,Maple Leafs,6,4
-,5039,Kassian,Zack,44,RW,"6'3""",214,,,"Windsor, ON",Canada,N,24,EDM,Edmonton,Oilers,7,4
-,787,Kesler,Ryan,17,C,"6'2""",202,1984-08-31,32,"Livonia, MI",USA,N,29,ANA,Anaheim,Ducks,8,4
-,4008,Kessel,Phil,81,RW,,202,1987-10-02,29,"Madison, WI",USA,N,10,PIT,Pittsburgh,Penguins,7,4
-,4730,Letestu,Mark,55,C,"5'11""",195,1985-02-04,31,"Elk Point, AB",Canada,N,24,EDM,Edmonton,Oilers,7,4
-,5921,Matheson,Michael,19,D,,,,,,,N,4,FLO,Florida,Panthers,6,4
-,10070,Motte,Tyler,64,C,"5'9""",188,1995-03-10,21,"St. Clair, MI",USA,Y,20,CHI,Chicago,Blackhawks,7,4
-,4322,Moulson,Matt,26,LW,"6'1""",200,1983-11-01,32,"North York, ON",Canada,N,15,BUF,Buffalo,Sabres,5,4
-,5136,Namestnikov,Vladislav,90,C,"5'11""",171,1992-11-22,23,Zhukovskiy,Russia,N,1,TBL,Tampa Bay,Lightning,6,4
-,4868,Niederreiter,Nino,22,RW,"6'2""",209,1992-08-09,24,Chur,Switzerland,N,25,MIN,Minnesota,Wild,7,4
-,4300,Niskanen,Matt,2,D,"6'0""",209,1986-12-06,29,"Virginia, MN",USA,N,5,WSH,Washington,Capitals,6,4
-,4993,Nugent-Hopkins,Ryan,93,C,"6'1""",185,1993-04-12,23,"Burnaby, BC",Canada,N,24,EDM,Edmonton,Oilers,7,4
-,4406,Okposo,Kyle,21,RW,"6'0""",212,1988-04-16,28,"St. Paul, MN",USA,N,15,BUF,Buffalo,Sabres,4,4
-,5178,Palat,Ondrej,18,LW,"6'0""",180,1991-03-28,25,Frydek-Mistek,Czechoslovakia,N,1,TBL,Tampa Bay,Lightning,6,4
-,4307,Perron,David,57,LW,"6'0""",205,,,"Sherbrooke, QC",Canada,N,17,STL,St. Louis,Blues,7,4
-,4548,Pietrangelo,Alex,27,D,"6'3""",201,1990-01-18,26,"King City, ON",Canada,N,17,STL,St. Louis,Blues,7,4
-,3694,Pouliot,Benoit,67,LW,"6'3""",197,1986-09-29,30,"Alfred, ON",Canada,N,24,EDM,Edmonton,Oilers,7,4
-,5602,Provorov,Ivan,9,D,"6'1""",201,1997-01-13,19,Yaroslavl,Russia,Y,6,PHI,Philadelphia,Flyers,7,4
-,3789,Richardson,Brad,15,RW,"6'0""",197,1985-02-04,31,"Belleville, ON",Canada,N,30,ARI,Arizona,Coyotes,6,4
-,5261,Rielly,Morgan,44,D,"6'1""",205,1994-03-09,22,"Vancouver, BC",Canada,N,12,TOR,Toronto,Maple Leafs,6,4
-,4270,Ryan,Bobby,9,RW,"6'2""",200,1987-03-17,29,"Cherry Hill, NJ",USA,N,13,OTT,Ottawa,Senators,6,4
-,438,Sedin,Daniel,22,LW,"6'1""",187,1980-09-26,36,Ornskoldsvik,Sweden,N,21,VAN,Vancouver,Canucks,7,4
-,5453,Severson,Damon,28,D,"6'2""",205,1994-08-07,22,"Brandon, MB",Canada,N,7,NJD,New Jersey,Devils,6,4
-,590,Stajan,Matt,18,C,"6'1""",192,1983-12-19,32,"Mississauga, ON",Canada,N,23,CGY,Calgary,Flames,8,4
-,4579,Stewart,Chris,7,RW,"6'2""",231,1987-10-30,28,"Toronto, ON",Canada,N,25,MIN,Minnesota,Wild,7,4
-,4420,Turris,Kyle,7,C,"6'1""",191,1989-08-14,27,"New Westminster, BC",Canada,N,13,OTT,Ottawa,Senators,6,4
-,4683,van Riemsdyk,James,25,LW,"6'3""",200,1989-05-04,27,"Middletown, NJ",USA,N,12,TOR,Toronto,Maple Leafs,6,4
-,4346,Versteeg,Kris,10,LW,"5'11""",183,1986-05-13,30,"Lethbridge, AB",Canada,N,23,CGY,Calgary,Flames,8,4
-,3672,Wideman,Dennis,6,D,"6'0""",200,1983-03-20,33,"Kitchener, ON",Canada,N,23,CGY,Calgary,Flames,5,4
-,5119,Yakupov,Nail,64,RW,"5'11""",184,1993-10-06,23,Nizhnekamsk,Russia,N,17,STL,St. Louis,Blues,7,4
-,10057,Zaitsev,Nikita,22,D,"6'2""",196,1991-10-29,24,Moscow,Russia,Y,12,TOR,Toronto,Maple Leafs,6,4
-,309,Zetterberg,Henrik,40,LW,"5'11""",197,1980-10-09,36,Njurunda,Sweden,N,16,DET,Detroit,Red Wings,7,4
-,5853,Athanasiou,Andreas,72,C,"6'2""",192,1994-08-06,22,"London, ON",Canada,N,16,DET,Detroit,Red Wings,5,3
-,4264,Backstrom,Nicklas,19,C,"6'1""",208,1987-11-23,28,Gavle,Sweden,N,5,WSH,Washington,Capitals,6,3
-,4545,Berglund,Patrik,21,C,"6'3""",217,1988-06-02,28,V?ster?s,Sweden,N,17,STL,St. Louis,Blues,7,3
-,4686,Bozak,Tyler,42,C,"6'1""",195,1986-03-19,30,"Regina, SK",Canada,N,12,TOR,Toronto,Maple Leafs,6,3
-,5451,Burakovsky,Andre,65,LW,"6'1""",178,1995-02-09,21,Klagenfurt,Austria,N,5,WSH,Washington,Capitals,6,3
-,218,Chara,Zdeno,33,D,"6'9""",255,1977-03-18,39,Trencin,Czechoslovakia,N,11,BOS,Boston,Bruins,7,3
-,388,Chimera,Jason,25,LW,"6'3""",213,1979-05-02,37,"Edmonton, AB",Canada,N,8,NYI,New York,Islanders,7,3
-,9642,Chychrun,Jakob,6,D,"6'2""",215,1998-03-31,18,"Boca Raton, FL",USA,Y,30,ARI,Arizona,Coyotes,5,3
-,5083,Cizikas,Casey,53,C,"5'11""",189,1991-02-27,25,"Toronto, ON",Canada,N,8,NYI,New York,Islanders,7,3
-,4684,Cracknell,Adam,27,RW,"6'2""",210,1985-06-15,31,"Prince Albert, SK",Canada,N,27,DAL,Dallas,Stars,6,3
-,4805,Dalpe,Zac,27,C,"6'1""",195,,,"Paris, ON",Canada,N,25,MIN,Minnesota,Wild,7,3
-,547,Doan,Shane,19,RW,"6'1""",223,1976-10-10,40,"Halkirk, AB",Canada,N,30,ARI,Arizona,Coyotes,6,3
-,4510,Doughty,Drew,8,D,"6'1""",213,1989-12-08,26,"London, ON",Canada,N,28,LAK,Los Angeles,Kings,6,3
-,5017,Emelin,Alexei,74,D,"6'2""",224,1986-04-25,30,Togliatti,Russia,N,14,MTL,Montreal,Canadiens,7,3
-,5434,Fabbri,Robby,15,C,"5'10""",170,1996-01-22,20,"Mississauga, ON",Canada,N,17,STL,St. Louis,Blues,7,3
-,4217,Gilbert,Tom,14,D,"6'2""",206,1983-01-10,33,"Bloomington, MN",USA,N,28,LAK,Los Angeles,Kings,4,3
-,100,Gionta,Brian,12,RW,"5'7""",176,1979-01-18,37,"Rochester, NY",USA,N,15,BUF,Buffalo,Sabres,5,3
-,4688,Grabner,Michael,40,RW,"6'1""",186,1987-10-05,29,Villach,Austria,N,9,NYR,New York,Rangers,7,3
-,5338,Granlund,Markus,60,C,"5'11""",185,,,Oulu,Finland,N,21,VAN,Vancouver,Canucks,7,3
-,5126,Granlund,Mikael,64,C,"5'10""",186,1992-02-26,24,Oulu,Finland,N,25,MIN,Minnesota,Wild,7,3
-,5108,Grigorenko,Mikhail,25,C,"6'3""",209,1994-05-16,22,Khabarovsk,Russia,N,22,COL,Colorado,Avalanche,5,3
-,4994,Hamilton,Dougie,27,D,"6'5""",199,,,"Toronto, ON",Canada,N,23,CGY,Calgary,Flames,8,3
-,4320,Hansen,Jannik,36,RW,"6'1""",195,1986-03-15,30,Herlev,Denmark,N,21,VAN,Vancouver,Canucks,7,3
-,10081,Harper,Shane,38,RW,"5'11""",193,1989-02-01,27,"Valencia, CA",USA,Y,4,FLO,Florida,Panthers,6,3
-,356,Hartnell,Scott,43,LW,"6'2""",210,1982-04-18,34,"Regina, SK",Canada,N,19,CBJ,Columbus,Blue Jackets,5,3
-,5461,Hayes,Kevin,13,RW,"6'5""",225,1992-05-08,24,"Boston, MA",USA,N,9,NYR,New York,Rangers,7,3
-,5255,Hertl,Tomas,48,C,"6'2""",210,1993-11-12,22,Praha,Czechoslovakia,N,26,SJS,San Jose,Sharks,7,3
-,4426,Hoffman,Mike,68,C,"5'11""",176,1989-11-24,26,"Kitchener, ON",Canada,N,13,OTT,Ottawa,Senators,6,3
-,5233,Horvat,Bo,53,C,"6'0""",206,1995-04-05,21,"London, ON",Canada,N,21,VAN,Vancouver,Canucks,7,3
-,143,Jagr,Jaromir,68,RW,"6'3""",230,1972-02-15,44,Kladno,Czechoslovakia,N,4,FLO,Florida,Panthers,6,3
-,4268,Johnson,Erik,6,D,"6'4""",232,1988-03-21,28,"Bloomington, MN",USA,N,22,COL,Colorado,Avalanche,5,3
-,5187,Johnson,Tyler,9,C,"5'9""",182,1990-07-29,26,"Spokane, WA",USA,N,1,TBL,Tampa Bay,Lightning,6,3
-,5472,Jokipakka,Jyrki,3,D,"6'3""",205,,,Tampere,Finland,N,23,CGY,Calgary,Flames,6,3
-,5243,Jones,Seth,3,D,"6'4""",205,1994-10-03,22,"Arlington, TX",USA,N,19,CBJ,Columbus,Blue Jackets,5,3
-,3763,Koivu,Mikko,9,C,"6'3""",222,1983-03-12,33,Turku,Finland,N,25,MIN,Minnesota,Wild,7,3
-,4224,Krejci,David,46,C,"6'0""",188,1986-04-28,30,Sternberk,Czechoslovakia,N,11,BOS,Boston,Bruins,7,3
-,5344,Kuznetsov,Evgeny,92,C,"6'0""",172,1992-05-19,24,Chelyabinsk,Russia,N,5,WSH,Washington,Capitals,6,3
-,4986,Landeskog,Gabriel,92,LW,"6'0""",204,1992-11-23,23,Stockholm,Sweden,N,22,COL,Colorado,Avalanche,5,3
-,5829,Larkin,Dylan,71,LW,"6'1""",190,1996-07-30,20,"Waterford, MI",USA,N,16,DET,Detroit,Red Wings,7,3
-,4788,Larsen,Philip,63,D,"6'1""",185,1989-12-07,26,Esbjerg,Denmark,N,21,VAN,Vancouver,Canucks,7,3
-,10064,Lehkonen,Artturi,62,LW,"6'0""",174,1995-07-04,21,Piikkio,Finland,Y,14,MTL,Montreal,Canadiens,7,3
-,206,Markov,Andrei,79,D,"6'0""",201,1978-12-20,37,Voskresensk,Russia,N,14,MTL,Montreal,Canadiens,7,3
-,376,Marleau,Patrick,12,C,"6'2""",220,1979-09-15,37,"Aneroid, SK",Canada,N,26,SJS,San Jose,Sharks,7,3
-,5599,Marner,Mitchell,16,C,"5'11""",160,1997-05-05,19,"Markham, ON",Canada,Y,12,TOR,Toronto,Maple Leafs,6,3
-,4283,Mitchell,Torrey,17,RW,"5'11""",190,1985-01-30,31,"Greenfield Park, QC",Canada,N,14,MTL,Montreal,Canadiens,7,3
-,5242,Monahan,Sean,23,C,"6'2""",187,1994-10-12,22,"Brampton, ON",Canada,N,23,CGY,Calgary,Flames,8,3
-,5293,Murphy,Connor,5,D,"6'4""",212,1993-03-26,23,"Dublin, OH",USA,N,30,ARI,Arizona,Coyotes,6,3
-,4211,Nielsen,Frans,51,C,"6'1""",180,1984-04-24,32,Herning,Denmark,N,16,DET,Detroit,Red Wings,7,3
-,5464,Nurse,Darnell,25,D,"6'4""",205,1995-02-04,21,"Hamilton, ON",Canada,N,24,EDM,Edmonton,Oilers,7,3
-,4796,Palmieri,Kyle,21,RW,"5'11""",195,1991-02-01,25,"Smithtown, NY",USA,N,7,NJD,New Jersey,Devils,6,3
-,5826,Parayko,Colton,55,D,"6'5""",214,1993-05-12,23,"St. Albert, AB",Canada,N,17,STL,St. Louis,Blues,7,3
-,4231,Parenteau,Pierre-Alexandre,11,RW,"6'0""",193,1983-03-24,33,"Hull, QC",Canada,N,7,NJD,New Jersey,Devils,6,3
-,5274,Pitlick,Tyler,15,RW,"6'2""",192,1991-11-01,24,"Minneapolis, MN",USA,Y,24,EDM,Edmonton,Oilers,7,3
-,864,Plekanec,Tomas,14,C,"5'11""",196,1982-10-31,33,Kladno,Czechoslovakia,N,14,MTL,Montreal,Canadiens,7,3
-,10079,Point,Brayden,21,C,"5'10""",166,1996-03-13,20,"Calgary, AB",Canada,Y,1,TBL,Tampa Bay,Lightning,6,3
-,855,Pominville,Jason,29,RW,"6'0""",185,1982-11-30,33,"Repentigny, QC",Canada,N,25,MIN,Minnesota,Wild,7,3
-,4722,Pyatt,Tom,10,LW,"5'11""",188,1987-02-14,29,"Thunder Bay, ON",Canada,Y,13,OTT,Ottawa,Senators,6,3
-,440,Ribeiro,Mike,63,C,"6'0""",177,1980-02-10,36,"Montreal, QC",Canada,N,18,NSH,Nashville,Predators,6,3
-,5511,Ritchie,Brett,25,RW,"6'3""",220,,,"Orangeville, ON",Canada,N,27,DAL,Dallas,Stars,6,3
-,5432,Ritchie,Nick,37,LW,"6'2""",226,,,"Orangeville, ON",Canada,N,29,ANA,Anaheim,Ducks,8,3
-,5157,Roussel,Antoine,21,LW,"6'0""",180,1989-11-21,26,Roubaix,France,N,27,DAL,Dallas,Stars,6,3
-,4295,Russell,Kris,4,D,"5'10""",173,1987-05-02,29,"Caroline, AB",Canada,N,24,EDM,Edmonton,Oilers,7,3
-,4948,Sceviour,Colton,7,C,"6'0""",196,1989-04-20,27,"Red Deer, AB",Canada,N,4,FLO,Florida,Panthers,6,3
-,609,Schultz,Nick,55,D,"5'11""",203,1982-08-25,34,"Strasbourg, SK",Canada,N,6,PHI,Philadelphia,Flyers,6,3
-,4157,Sekera,Andrej,2,D,,201,1986-06-08,30,Bojnice,Czechoslovakia,N,24,EDM,Edmonton,Oilers,7,3
-,5892,Sheary,Conor,43,LW,"5'8""",174,1992-06-08,24,"Winchester, MA",USA,N,10,PIT,Pittsburgh,Penguins,4,3
-,5106,Silfverberg,Jakob,33,RW,"6'1""",200,1990-10-13,26,Gavle,Sweden,N,29,ANA,Anaheim,Ducks,8,3
-,4574,Smith,Zack,15,C,"6'2""",212,1988-04-05,28,"Maple Creek, SK",Canada,N,13,OTT,Ottawa,Senators,6,3
-,5215,Soderberg,Carl,34,C,"6'3""",216,1985-10-12,31,Malm?,Sweden,N,22,COL,Colorado,Avalanche,5,3
-,228,Spezza,Jason,90,C,"6'3""",220,1983-06-13,33,"Toronto, ON",Canada,N,27,DAL,Dallas,Stars,5,3
-,4029,Staal,Jordan,11,C,"6'4""",220,1988-09-10,28,"Thunder Bay, ON",Canada,N,3,CAR,Carolina,Hurricanes,6,3
-,5355,Teravainen,Teuvo,86,C,"5'11""",169,1994-09-11,22,Helsinki,Finland,N,3,CAR,Carolina,Hurricanes,6,3
-,5342,Trocheck,Vincent,21,C,"5'10""",182,1993-07-11,23,"Pittsburgh, PA",USA,N,4,FLO,Florida,Panthers,6,3
-,231,Vermette,Antoine,50,C,"6'1""",198,1982-07-20,34,"St. Agapit, QC",Canada,N,29,ANA,Anaheim,Ducks,8,3
-,5817,Wideman,Chris,6,D,"5'10""",174,1990-07-01,26,"St. Louis, MI",USA,N,13,OTT,Ottawa,Senators,6,3
-,5601,Zacha,Pavel,37,C,"6'3""",210,,,Brno,Czech Republic,N,7,NJD,New Jersey,Devils,6,3
+#Date/Time of Update: 2016-10-29 10:24:13 AM,#Player ID,#LastName,#FirstName,#Jersey Num,#Position,#Height,#Weight,#Birth Date,#Age,#Birth City,#Birth Country,#Rookie,#Team ID,#Team Abbr.,#Team City,#Team Name,#GamesPlayed,#Points
+,4419,Abdelkader,Justin,8,LW,"6'1""",219,1987-02-25,29,"Muskegon, MI",USA,N,16,DET,Detroit,Red Wings,6,1
 ,5927,Acciari,Noel,55,C,"5'10""",208,1991-12-01,24,"Johnston, RI",USA,N,11,BOS,Boston,Bruins,7,2
-,4554,Alzner,Karl,27,D,"6'2""",217,1988-09-24,28,"Burnaby, BC",Canada,N,5,WSH,Washington,Capitals,6,2
-,5513,Anderson,Josh,34,RW,"6'3""",212,1994-05-07,22,"Burlington, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,5,2
-,3703,Beauchemin,Francois,32,D,"6'1""",207,1980-06-04,36,"Sorel, QC",Canada,N,22,COL,Colorado,Avalanche,5,2
-,5002,Beaulieu,Nathan,28,D,"6'1""",182,1992-12-05,23,"Strathroy, ON",Canada,N,14,MTL,Montreal,Canadiens,7,2
-,5059,Benn,Jordie,24,D,"6'1""",200,1987-07-26,29,"Victoria, BC",Canada,N,27,DAL,Dallas,Stars,4,2
-,4775,Bonino,Nick,13,C,"6'1""",196,1988-04-20,28,"Hartford, CT",USA,N,10,PIT,Pittsburgh,Penguins,7,2
-,721,Cammalleri,Mike,13,C,"5'9""",190,1982-07-08,34,"Richmond Hill, ON",Canada,N,7,NJD,New Jersey,Devils,6,2
-,5632,Carlo,Brandon,25,D,"6'5""",196,1996-11-26,19,"Colorado Springs, CO",USA,Y,11,BOS,Boston,Bruins,7,2
-,4154,Comeau,Blake,14,LW,"6'1""",202,1986-02-18,30,"Meadow Lake, SK",Canada,N,22,COL,Colorado,Avalanche,5,2
-,5536,Cousins,Nick,25,C,"5'10""",169,,,"Belleville, ON",Canada,N,6,PHI,Philadelphia,Flyers,6,2
-,701,Daley,Trevor,6,D,"5'11""",198,1983-10-09,33,"Toronto, ON",Canada,N,10,PIT,Pittsburgh,Penguins,7,2
-,5899,Dauphin,Laurent,76,C,,,,,,,N,30,ARI,Arizona,Coyotes,5,2
-,5049,de Haan,Calvin,44,D,"6'1""",187,1991-05-09,25,"Carp, ON",Canada,N,8,NYI,New York,Islanders,7,2
-,5821,Donskoi,Joonas,27,RW,"6'0""",181,1992-04-13,24,Raahe,Finland,N,26,SJS,San Jose,Sharks,7,2
-,9007,Dowd,Nic,26,C,"6'1""",175,1990-05-27,26,"Huntsville, AL",USA,N,28,LAK,Los Angeles,Kings,4,2
-,10069,Dvorak,Christian,18,C,"6'1""",196,,,"Frankfort, IL",USA,Y,30,ARI,Arizona,Coyotes,5,2
-,5419,Ehlers,Nicholaj,27,LW,"6'0""",168,1996-02-14,20,Aalborg,Denmark,N,47,WPJ,Winnipeg,Jets,6,2
-,4869,Ellis,Ryan,4,D,"5'10""",175,1991-01-03,25,"Hamilton, ON",Canada,N,18,NSH,Nashville,Predators,6,2
-,4725,Engelland,Deryk,29,D,"6'2""",215,1982-04-03,34,"Edmonton, AB",Canada,N,23,CGY,Calgary,Flames,8,2
-,4728,Ennis,Tyler,63,C,"5'9""",169,1989-10-06,27,"Edmonton, AB",Canada,N,15,BUF,Buffalo,Sabres,5,2
-,4298,Enstrom,Tobias,39,D,"5'10""",180,1984-11-05,31,Nordingra,Sweden,N,47,WPJ,Winnipeg,Jets,6,2
-,4396,Ericsson,Jonathan,52,D,"6'4""",221,1984-03-02,32,Karlskrona,Sweden,N,16,DET,Detroit,Red Wings,7,2
-,5116,Faksa,Radek,12,C,"6'3""",203,1994-01-09,22,Opava,Czech Republic,N,27,DAL,Dallas,Stars,6,2
-,5438,Fiala,Kevin,56,LW,"5'10""",180,,,St. Gallen,Switzerland,N,18,NSH,Nashville,Predators,6,2
-,5055,Foligno,Marcus,82,LW,"6'3""",223,1991-08-10,25,"Buffalo, NY",USA,N,15,BUF,Buffalo,Sabres,5,2
-,4674,Franson,Cody,6,D,"6'5""",213,1987-08-08,29,"Sicamous, BC",Canada,N,15,BUF,Buffalo,Sabres,5,2
-,5079,Garbutt,Ryan,16,C,,190,,,"Winnipeg, MB",Canada,N,29,ANA,Anaheim,Ducks,8,2
-,4562,Garrison,Jason,5,D,"6'2""",218,1984-11-13,31,"White Rock, BC",Canada,N,1,TBL,Tampa Bay,Lightning,6,2
-,4223,Girardi,Daniel,5,D,"6'1""",203,1984-04-29,32,"Welland, ON",Canada,N,9,NYR,New York,Rangers,4,2
-,5254,Girgensons,Zemgus,28,C,"6'1""",190,1994-01-05,22,Riga,Latvia,N,15,BUF,Buffalo,Sabres,5,2
-,355,Hamhuis,Dan,2,D,"6'1""",209,1982-12-13,33,"Smithers, BC",Canada,N,27,DAL,Dallas,Stars,6,2
-,4915,Hamonic,Travis,3,D,"6'1""",206,1990-08-16,26,"St. Malo, MB",Canada,N,8,NYI,New York,Islanders,7,2
-,4282,Hanzal,Martin,11,C,"6'6""",230,1987-02-20,29,Pisek,Czechoslovakia,N,30,ARI,Arizona,Coyotes,6,2
-,5522,Hartman,Ryan,38,RW,"5'11""",191,,,"Hilton Head Isl, SC",USA,N,20,CHI,Chicago,Blackhawks,5,2
-,5301,Haula,Erik,56,LW,"5'11""",192,1991-03-23,25,Pori,Finland,N,25,MIN,Minnesota,Wild,4,2
-,4983,Henrique,Adam,14,C,"6'0""",195,1990-02-06,26,"Brantford, ON",Canada,N,7,NJD,New Jersey,Devils,6,2
-,4511,Hickey,Thomas,14,D,"5'11""",190,1989-02-08,27,"Calgary, AB",Canada,N,8,NYI,New York,Islanders,7,2
-,4401,Hjalmarsson,Niklas,4,D,"6'3""",207,1987-06-06,29,Eksjo,Sweden,N,20,CHI,Chicago,Blackhawks,6,2
-,4664,Holden,Nick,22,D,"6'4""",210,1987-05-15,29,"St. Albert, AB",Canada,N,9,NYR,New York,Rangers,7,2
-,3637,Jokinen,Jussi,36,LW,"5'11""",198,1983-04-01,33,Kalajoki,Finland,N,4,FLO,Florida,Panthers,4,2
-,5459,Karlsson,William,25,C,"6'0""",185,,,Marsta,Sweden,N,19,CBJ,Columbus,Blue Jackets,5,2
-,930,Kelly,Chris,22,C,"6'0""",198,1980-11-11,35,"Toronto, ON",Canada,N,13,OTT,Ottawa,Senators,6,2
-,5001,Klefbom,Oscar,77,D,"6'3""",210,,,Karlstad,Sweden,N,24,EDM,Edmonton,Oilers,7,2
-,5484,Klingberg,John,3,D,"6'2""",180,1992-08-14,24,Gothenburg,Sweden,N,27,DAL,Dallas,Stars,6,2
-,5140,Komarov,Leo,47,C,"5'10""",187,1987-01-23,29,Narva,Estonia,N,12,TOR,Toronto,Maple Leafs,6,2
-,4425,Korpikoski,Lauri,38,LW,"6'1""",205,1986-07-28,30,Turku,Finland,N,27,DAL,Dallas,Stars,6,2
-,4823,Kruger,Marcus,16,C,"6'0""",181,1990-05-27,26,Stockholm,Sweden,N,20,CHI,Chicago,Blackhawks,7,2
-,898,Kunitz,Chris,14,LW,"6'0""",195,1979-09-26,37,"Regina, SK",Canada,N,10,PIT,Pittsburgh,Penguins,7,2
-,5174,Larsson,Johan,22,LW,"5'11""",206,1992-07-25,24,Lau,Sweden,N,15,BUF,Buffalo,Sabres,5,2
-,4834,Leddy,Nick,2,D,"6'0""",191,1991-03-20,25,"Eden Prairie, MN",USA,N,8,NYI,New York,Islanders,6,2
-,4030,Letang,Kris,58,D,"6'0""",201,1987-04-24,29,"Montreal, QC",Canada,N,10,PIT,Pittsburgh,Penguins,4,2
-,517,Liles,John-Michael,26,D,"5'10""",185,,,"Indianapolis, IN",USA,N,11,BOS,Boston,Bruins,7,2
-,879,MacKenzie,Derek,17,C,"5'11""",181,1981-06-11,35,"Sudbury, ON",Canada,N,4,FLO,Florida,Panthers,6,2
-,5322,Marchenko,Alexey,53,D,"6'3""",210,1992-01-02,24,Moscow,Russia,N,16,DET,Detroit,Red Wings,7,2
-,4854,Maroon,Patrick,19,LW,"6'3""",230,,,"St. Louis, MO",USA,N,24,EDM,Edmonton,Oilers,7,2
-,4353,Matthias,Shawn,16,C,"6'4""",223,,,"Mississauga, ON",Canada,N,47,WPJ,Winnipeg,Jets,6,2
-,5331,McKegg,Greg,41,C,"6'0""",191,,,"St. Thomas, ON",Canada,N,4,FLO,Florida,Panthers,6,2
-,5470,McKenzie,Curtis,11,LW,"6'2""",210,,,"Golden, BC",Canada,N,27,DAL,Dallas,Stars,4,2
-,5041,McNabb,Brayden,3,D,"6'4""",208,1991-01-21,25,"Davidson, SK",Canada,N,28,LAK,Los Angeles,Kings,6,2
-,4240,Methot,Marc,3,D,"6'3""",231,1985-06-21,31,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,6,2
-,379,Michalek,Milan,18,RW,"6'2""",216,,,Jindrichuv Hradec,Czech Republic,N,12,TOR,Toronto,Maple Leafs,5,2
-,4261,Miller,Drew,20,LW,"6'2""",178,1984-02-17,32,"Dover, NJ",USA,N,16,DET,Detroit,Red Wings,7,2
-,733,Moore,Dominic,28,C,"6'0""",192,1980-08-03,36,"Thornhill, ON",Canada,N,11,BOS,Boston,Bruins,7,2
-,5251,Nordstrom,Joakim,42,C,"6'1""",160,1992-02-25,24,Stockholm,Sweden,N,3,CAR,Carolina,Hurricanes,6,2
-,4031,Oduya,Johnny,47,D,"6'0""",190,1981-10-01,35,Stockholm,Sweden,N,27,DAL,Dallas,Stars,6,2
-,5036,Orlov,Dmitry,9,D,"6'0""",210,1991-07-23,25,Novokuznetsk,Russia,N,5,WSH,Washington,Capitals,6,2
-,479,Orpik,Brooks,44,D,"6'2""",219,1980-09-26,36,"San Francisco, CA",USA,N,5,WSH,Washington,Capitals,6,2
-,4547,Oshie,T.J.,77,RW,"5'11""",189,1986-12-23,29,"Everett, WA",USA,N,5,WSH,Washington,Capitals,6,2
-,5207,Pageau,Jean-Gabriel,44,C,"5'9""",175,1992-11-11,23,Ottawa,Canada,N,13,OTT,Ottawa,Senators,6,2
-,5370,Paquette,Cedric,13,C,"6'1""",198,1993-08-13,23,"Gaspe, QC",Canada,N,1,TBL,Tampa Bay,Lightning,6,2
-,4720,Perreault,Mathieu,85,C,"5'10""",185,1988-01-05,28,"Drummondville, QC",Canada,N,47,WPJ,Winnipeg,Jets,6,2
-,5213,Petrovic,Alex,6,D,"6'4""",206,1992-03-03,24,"Edmonton, AB",Canada,N,4,FLO,Florida,Panthers,6,2
-,9630,Puljujarvi,Jesse,98,RW,"6'4""",203,1998-05-07,18,,,Y,24,EDM,Edmonton,Oilers,5,2
-,4326,Rask,Tuukka,40,G,"6'2""",185,1987-03-10,29,Savonlinna,Finland,N,11,BOS,Boston,Bruins,3,2
-,5416,Reinhart,Sam,23,C,"6'1""",185,1995-11-06,20,"North Vancouver, BC",Canada,N,15,BUF,Buffalo,Sabres,5,2
-,5482,Rieder,Tobias,8,C,"5'11""",185,1993-01-10,23,Landshut,Germany,N,30,ARI,Arizona,Coyotes,6,2
-,5014,Saad,Brandon,20,LW,"6'1""",202,1992-10-27,24,"Pittsburgh, PA",USA,N,19,CBJ,Columbus,Blue Jackets,5,2
-,5013,Savard,David,58,D,"6'2""",219,1990-10-22,26,"St. Hyacinthe, QC",Canada,N,19,CBJ,Columbus,Blue Jackets,5,2
-,5488,Schaller,Tim,59,C,"6'2""",206,1990-11-16,25,"Merrimack, NH",USA,N,11,BOS,Boston,Bruins,5,2
-,4712,Schenn,Brayden,10,LW,"6'1""",190,1991-08-22,25,"Saskatoon, SK",Canada,N,6,PHI,Philadelphia,Flyers,4,2
-,858,Seidenberg,Dennis,4,D,"6'1""",210,1981-07-18,35,Schwenningen,Germany,N,8,NYI,New York,Islanders,7,2
-,4316,Setoguchi,Devin,10,RW,"6'0""",205,1987-01-01,29,"Taber, AB",Canada,N,28,LAK,Los Angeles,Kings,6,2
-,5891,Skjei,Brady,76,D,"6'3""",206,1994-03-26,22,"Lakeville, MN",USA,N,9,NYR,New York,Rangers,7,2
-,5092,Smith,Reilly,18,RW,,185,1991-04-01,25,"Toronto, ON",Canada,N,4,FLO,Florida,Panthers,6,2
-,5112,Spooner,Ryan,51,C,"5'11""",181,1992-01-30,24,"Ottawa, ON",Canada,N,11,BOS,Boston,Bruins,6,2
-,5377,Sproul,Ryan,48,D,"6'4""",206,1993-01-13,23,"Mississauga, ON",USA,Y,16,DET,Detroit,Red Wings,3,2
-,4918,Spurgeon,Jared,46,D,"5'9""",185,1989-11-29,26,"Edmonton, AB",Canada,N,25,MIN,Minnesota,Wild,4,2
-,4292,Staal,Marc,18,D,"6'4""",207,,,"Thunder Bay, ON",Canada,N,9,NYR,New York,Rangers,7,2
-,5081,Stone,Michael,26,D,"6'3""",210,1990-06-07,26,"Winnipeg, MA",Canada,N,30,ARI,Arizona,Coyotes,3,2
-,4750,Stoner,Clayton,3,D,"6'4""",216,1985-02-19,31,"Port Mcneill, BC",Canada,N,29,ANA,Anaheim,Ducks,5,2
-,4311,Stralman,Anton,6,D,"5'11""",190,,,Tibro,Sweden,N,1,TBL,Tampa Bay,Lightning,6,2
-,5195,Sustr,Andrej,62,D,"6'8""",225,1990-11-29,25,Plzen,Czech Republic,N,1,TBL,Tampa Bay,Lightning,6,2
-,4864,Tatar,Tomas,21,LW,"5'10""",186,1990-12-01,25,Ilava,Czechoslovakia,N,16,DET,Detroit,Red Wings,7,2
-,9632,Tkachuk,Matthew,19,LW,"6'1""",195,1997-12-11,18,"Scottsdale, AZ",USA,Y,23,CGY,Calgary,Flames,6,2
-,4262,Toews,Jonathan,19,C,"6'2""",208,1988-04-29,28,"Winnipeg, MB",Canada,N,20,CHI,Chicago,Blackhawks,7,2
-,936,Tyutin,Fedor,51,D,"6'2""",212,1983-07-19,33,Izhevsk,Russia,N,22,COL,Colorado,Avalanche,4,2
-,723,Upshall,Scottie,10,RW,"6'0""",200,,,"Fort McMurray, AB",Canada,N,17,STL,St. Louis,Blues,7,2
-,4021,Vlasic,Marc-Edouard,44,D,"6'1""",205,1987-03-30,29,"Montreal, QC",Canada,N,26,SJS,San Jose,Sharks,7,2
-,5469,Wagner,Chris,21,RW,"6'0""",202,,,"Walpole, MA",USA,N,29,ANA,Anaheim,Ducks,8,2
-,4676,Wilson,Colin,33,LW,"6'1""",216,1989-10-20,27,"Greenwich, CT",USA,N,18,NSH,Nashville,Predators,6,2
-,5492,Wilson,Scott,23,C,"5'11""",183,1992-04-24,24,"Oakville, ON",Canada,N,10,PIT,Pittsburgh,Penguins,7,2
-,4281,Winnik,Daniel,26,C,"6'2""",207,,,"Toronto, ON",Canada,N,5,WSH,Washington,Capitals,6,2
-,5270,Zadorov,Nikita,16,D,"6'5""",220,1995-04-16,21,Moscow,Russia,N,22,COL,Colorado,Avalanche,5,2
-,4419,Abdelkader,Justin,8,LW,"6'1""",219,1987-02-25,29,"Muskegon, MI",USA,N,16,DET,Detroit,Red Wings,5,1
-,5505,Armia,Joel,40,RW,"6'3""",192,1993-05-31,23,Pori,Finland,N,47,WPJ,Winnipeg,Jets,5,1
-,10080,Auvitu,Yohann,33,D,"5'11""",191,,,Ivry-sur-Seine,France,N,7,NJD,New Jersey,Devils,6,1
-,4998,Baertschi,Sven,47,LW,"5'11""",190,1992-10-05,24,Bern,Switzerland,N,21,VAN,Vancouver,Canucks,7,1
-,10092,Baptiste,Nicholas,73,RW,"6'1""",206,1995-08-04,21,"Ottawa, ON",Canada,Y,15,BUF,Buffalo,Sabres,2,1
-,4456,Beagle,Jay,83,C,"6'3""",215,1985-10-16,31,"Calgary, AB",Canada,N,5,WSH,Washington,Capitals,6,1
-,5444,Bellemare,Pierre-Edouard,78,LW,"6'0""",198,1985-03-06,31,Le Blanc-Mesnil,France,N,6,PHI,Philadelphia,Flyers,7,1
-,78,Bergeron,Patrice,37,C,"6'2""",194,1985-07-24,31,"L'Ancienne-Lorette, QC",Canada,N,11,BOS,Boston,Bruins,4,1
-,4538,Boedker,Mikkel,89,LW,"6'0""",211,,,Brondby,Denmark,N,26,SJS,San Jose,Sharks,7,1
-,4296,Boll,Jared,40,RW,"6'2""",219,1986-05-13,30,"Charlotte, NC",USA,N,29,ANA,Anaheim,Ducks,7,1
-,5246,Boucher,Reid,15,C,"5'10""",190,1993-09-08,23,"Lansing, MI",USA,N,7,NJD,New Jersey,Devils,3,1
-,4949,Bouma,Lance,17,LW,"6'1""",210,1990-03-25,26,"Provost, AB",Canada,N,23,CGY,Calgary,Flames,8,1
-,3633,Bourque,Rene,17,LW,"6'2""",213,1981-12-10,34,"Lac La Biche, AB",Canada,N,22,COL,Colorado,Avalanche,3,1
-,255,Bouwmeester,Jay,19,D,"6'4""",212,1983-09-27,33,"Edmonton, AB",Canada,N,17,STL,St. Louis,Blues,7,1
-,4386,Boyle,Brian,11,C,"6'7""",244,1984-12-18,31,"Hingham, MA",USA,N,1,TBL,Tampa Bay,Lightning,6,1
-,4878,Brodie,T.J.,7,D,"6'1""",182,1990-06-07,26,"Chatham, ON",Canada,N,23,CGY,Calgary,Flames,8,1
-,8916,Brown,Connor,12,RW,,,,,,,N,12,TOR,Toronto,Maple Leafs,6,1
-,10075,Buchnevich,Pavel,89,LW,"6'2""",193,1995-04-17,21,Cherepovets,Russia,Y,9,NYR,New York,Rangers,2,1
-,4883,Burmistrov,Alexander,91,C,"6'1""",180,1991-10-21,25,Kazan,Russia,N,47,WPJ,Winnipeg,Jets,5,1
-,4935,Calvert,Matt,11,LW,"5'10""",187,1989-12-24,26,"Brandon, MB",Canada,N,19,CBJ,Columbus,Blue Jackets,5,1
-,3880,Carle,Matthew,25,D,"6'0""",205,1984-09-25,32,"Anchorage, AK",USA,N,18,NSH,Nashville,Predators,6,1
-,4735,Carlson,John,74,D,"6'3""",212,1990-01-10,26,"Natick, MA",USA,N,5,WSH,Washington,Capitals,6,1
-,5880,Carr,Daniel,43,LW,"6'0""",191,1991-11-01,24,"Sherwood Park, AB",Canada,N,14,MTL,Montreal,Canadiens,2,1
-,5252,Carrick,Connor,8,D,"5'11""",185,,,"Orland Park, IL",USA,N,12,TOR,Toronto,Maple Leafs,6,1
-,5307,Ceci,Cody,5,D,"6'3""",209,1993-12-21,22,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,6,1
-,5200,Chiasson,Alex,39,RW,"6'4""",205,1990-10-01,26,"Montreal, QC",Canada,N,23,CGY,Calgary,Flames,8,1
-,5448,Clendening,Adam,4,D,,190,,,"Wheatfield, NY",USA,N,9,NYR,New York,Rangers,5,1
-,3683,Coburn,Braydon,55,D,"6'5""",220,1985-02-27,31,"Shaunavon, SK",Canada,N,1,TBL,Tampa Bay,Lightning,6,1
-,4905,Cole,Ian,28,D,"6'1""",219,1989-02-21,27,"Ann Arbor, MI",USA,N,10,PIT,Pittsburgh,Penguins,7,1
-,5612,Connor,Kyle,81,LW,"6'1""",177,1996-12-09,19,"Shelby Township, MI",USA,Y,47,WPJ,Winnipeg,Jets,5,1
-,3490,Crosby,Sidney,87,C,"5'11""",200,1987-08-07,29,"Cole Harbour, NS",Canada,N,10,PIT,Pittsburgh,Penguins,1,1
-,10077,Czarnik,Austin,27,C,"5'9""",160,1992-12-12,23,"Detroit, MI",USA,Y,11,BOS,Boston,Bruins,3,1
-,5493,Dahlbeck,Klas,6,D,"6'3""",207,1991-07-06,25,Katrineholm,Sweden,N,3,CAR,Carolina,Hurricanes,4,1
-,5203,DeKeyser,Danny,65,D,"6'3""",190,1990-03-07,26,"Detroit, MI",USA,N,16,DET,Detroit,Red Wings,7,1
-,4699,Demers,Jason,55,D,"6'1""",195,1988-07-09,28,"Dorval, QC",Canada,N,4,FLO,Florida,Panthers,6,1
-,5103,Dillon,Brenden,4,D,"6'3""",228,1990-11-13,25,"New Westminster, BC",Canada,N,26,SJS,San Jose,Sharks,7,1
-,4438,Dorsett,Derek,15,RW,"6'0""",192,1986-12-20,29,"Kindersley, SK",Canada,N,21,VAN,Vancouver,Canucks,5,1
-,10105,Dowling,Justin,37,C,"5'10""",185,1990-10-01,26,"Calgary, AB",Canada,Y,27,DAL,Dallas,Stars,1,1
-,4245,Dubinsky,Brandon,17,C,"6'1""",210,1986-04-29,30,"Anchorage, AK",USA,N,19,CBJ,Columbus,Blue Jackets,5,1
-,4099,Edler,Alexander,23,D,"6'3""",215,1986-04-21,30,Ostersund,Sweden,N,21,VAN,Vancouver,Canucks,7,1
-,5823,Edmundson,Joel,6,D,"6'5""",208,1993-06-28,23,"Brandon,  MB",Canada,N,17,STL,St. Louis,Blues,7,1
-,5414,Ekblad,Aaron,5,D,"6'4""",216,1996-02-07,20,"Windsor, ON",Canada,N,4,FLO,Florida,Panthers,6,1
-,5022,Ekholm,Mattias,14,D,"6'4""",204,1990-05-24,26,Borlange,Sweden,N,18,NSH,Nashville,Predators,6,1
-,4723,Eller,Lars,20,C,"6'2""",209,1989-05-08,27,Rodovre,Denmark,N,5,WSH,Washington,Capitals,6,1
-,4914,Fayne,Mark,5,D,"6'3""",212,1987-05-15,29,"Nashua, NH",USA,N,24,EDM,Edmonton,Oilers,1,1
-,3819,Fehr,Eric,16,RW,"6'4""",212,1985-09-07,31,"Winkler, MB",Canada,N,10,PIT,Pittsburgh,Penguins,7,1
-,5177,Flynn,Brian,32,C,"6'1""",180,1988-07-26,28,"Lynnfield, MA",USA,N,14,MTL,Montreal,Canadiens,5,1
-,10072,Forsling,Gustav,42,D,"5'11""",186,1996-06-12,20,Linkoping,Sweden,Y,20,CHI,Chicago,Blackhawks,7,1
-,4275,Gagner,Sam,89,C,"5'11""",202,1989-10-10,27,"London, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,4,1
-,5847,Gaunce,Brendan,50,LW,"6'2""",207,1994-03-25,22,"Sudbury, ON",Canada,N,21,VAN,Vancouver,Canucks,7,1
-,139,Gordon,Boyd,27,C,,200,1983-10-19,33,"Unity, SK",Canada,N,6,PHI,Philadelphia,Flyers,7,1
-,4988,Gudbranson,Erik,44,D,"6'5""",216,1992-01-07,24,"Ottawa, ON",Canada,N,21,VAN,Vancouver,Canucks,7,1
-,5038,Hagelin,Carl,62,LW,"5'11""",186,,,Sodertalje,Sweden,N,10,PIT,Pittsburgh,Penguins,7,1
-,4790,Haley,Michael,38,C,"5'10""",205,1986-03-30,30,"Guelph, ON",Canada,N,26,SJS,San Jose,Sharks,2,1
-,4794,Holland,Peter,24,C,"6'2""",194,1991-01-14,25,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,6,1
-,4906,Holzer,Korbinian,5,D,"6'3""",205,,,Munich,Germany,N,29,ANA,Anaheim,Ducks,3,1
-,4331,Hunwick,Matt,2,D,"5'11""",190,1985-05-21,31,"Warren, MI",USA,N,12,TOR,Toronto,Maple Leafs,6,1
-,5825,Hutton,Ben,27,D,"6'2""",183,1993-04-20,23,"Prescott, ON",Canada,N,21,VAN,Vancouver,Canucks,7,1
-,5562,Hyman,Zach,11,C,"6'0""",197,,,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,6,1
-,411,Iginla,Jarome,12,RW,"6'1""",210,1977-07-01,39,"Edmonton, AB",Canada,N,22,COL,Colorado,Avalanche,5,1
-,5352,Jarnkrok,Calle,19,C,"5'11""",156,1991-09-25,25,Gavle,Sweden,N,18,NSH,Nashville,Predators,6,1
-,5212,Jaskin,Dmitrij,23,RW,"6'2""",196,,,Omsk,Russia,N,17,STL,St. Louis,Blues,5,1
-,5245,Jenner,Boone,38,C,"6'2""",204,1993-06-15,23,"Dorchester, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,5,1
-,5573,Johns,Stephen,28,D,"6'3""",229,,,"Ellwood City, PA",USA,N,27,DAL,Dallas,Stars,5,1
-,5468,Jooris,Josh,86,C,"6'0""",180,1990-07-14,26,"Burlington, ON",Canada,N,9,NYR,New York,Rangers,5,1
-,4893,Josefson,Jacob,16,C,"6'0""",190,1991-03-02,25,Stockholm,Sweden,N,7,NJD,New Jersey,Devils,3,1
-,5497,Karlsson,Melker,68,C,"6'0""",180,1990-07-18,26,Lycksele,Sweden,N,26,SJS,San Jose,Sharks,7,1
-,4913,King,Dwight,74,LW,"6'4""",232,1989-07-05,27,"Meadowlake, SK",Canada,N,28,LAK,Los Angeles,Kings,6,1
-,5907,Kuhnhackl,Tom,34,RW,,,,,,,N,10,PIT,Pittsburgh,Penguins,7,1
-,5554,Kulak,Brett,61,D,"6'1""",190,1994-01-06,22,"Edmonton, AB",Canada,N,23,CGY,Calgary,Flames,3,1
-,4549,Kulemin,Nikolai,86,LW,"5'11""",225,1986-07-14,30,Magnitogorsk,Russia,N,8,NYI,New York,Islanders,6,1
-,3658,Ladd,Andrew,16,LW,"6'3""",205,1985-12-12,30,"Maple Ridge, BC",Canada,N,8,NYI,New York,Islanders,7,1
-,5018,Lander,Anton,51,C,"6'0""",186,1991-04-24,25,Sundsvall,Sweden,N,24,EDM,Edmonton,Oilers,6,1
-,4989,Larsson,Adam,6,D,"6'3""",205,1992-11-12,23,Skelleftea,Sweden,N,24,EDM,Edmonton,Oilers,7,1
-,5199,Lee,Anders,27,C,"6'2""",225,1990-07-03,26,"Edina, MN",USA,N,8,NYI,New York,Islanders,7,1
-,5260,Lindholm,Elias,16,C,"6'1""",192,1994-12-02,21,Boden,Sweden,N,3,CAR,Carolina,Hurricanes,6,1
-,4297,Little,Bryan,18,C,"5'11""",185,1987-11-12,28,"Edmonton, AB",Canada,N,47,WPJ,Winnipeg,Jets,1,1
-,4583,Lovejoy,Ben,12,D,"6'2""",205,1984-02-20,32,"Canaan, NH",USA,N,7,NJD,New Jersey,Devils,6,1
-,5456,Lowry,Adam,17,LW,"6'5""",207,1993-03-29,23,"St. Louis, MO",USA,N,47,WPJ,Winnipeg,Jets,6,1
-,4630,MacDonald,Andrew,47,D,"6'0""",185,1986-09-07,30,"Judique, NS",Canada,N,6,PHI,Philadelphia,Flyers,7,1
-,5697,Malgin,Denis,62,C,"5'9""",176,1997-01-18,19,Olten,Switzerland,Y,4,FLO,Florida,Panthers,6,1
-,5477,Manson,Josh,42,D,"6'3""",217,,,"Prince Albert, SK",Canada,N,29,ANA,Anaheim,Ducks,8,1
-,5305,Marincin,Martin,52,D,"6'5""",200,1992-02-18,24,Kosice,Czechoslovakia,N,12,TOR,Toronto,Maple Leafs,3,1
-,97,Martin,Paul,7,D,"6'1""",200,1981-03-05,35,"Minneapolis, MN",USA,N,26,SJS,San Jose,Sharks,7,1
-,5854,Martinsen,Andreas,27,LW,"6'3""",220,1990-06-13,26,Berum,Norway,N,22,COL,Colorado,Avalanche,5,1
-,4439,Mason,Steve,35,G,"6'4""",217,1988-05-29,28,"Oakville, ON",Canada,N,6,PHI,Philadelphia,Flyers,6,1
-,5362,McCabe,Jake,29,D,"6'0""",195,1993-10-12,23,"Eau Claire, WI",USA,N,15,BUF,Buffalo,Sabres,5,1
-,4564,McGinn,Jamie,88,LW,"6'1""",210,,,"Fergus, ON",Canada,N,30,ARI,Arizona,Coyotes,1,1
-,5563,Miller,Colin,6,D,"6'1""",201,,,"Sault Ste. Marie, ON",Canada,N,11,BOS,Boston,Bruins,7,1
-,4645,Montoya,Al,35,G,"6'2""",203,1985-02-13,31,"Chicago, IL",USA,N,14,MTL,Montreal,Canadiens,4,1
-,4959,Moore,John,2,D,"6'3""",202,,,"Winnetka, IL",USA,N,7,NJD,New Jersey,Devils,6,1
-,5930,Morrissey,Joshua,44,D,,,,,,,N,47,WPJ,Winnipeg,Jets,6,1
-,4659,Myers,Tyler,57,D,"6'8""",219,1990-02-01,26,"Houston, TX",USA,N,47,WPJ,Winnipeg,Jets,6,1
-,4501,Neal,James,18,LW,"6'2""",208,1987-09-03,29,"Whitby, ON",Canada,N,18,NSH,Nashville,Predators,6,1
-,221,Neil,Chris,25,RW,"6'1""",215,1979-06-18,37,"Flesherton, ON",Canada,N,13,OTT,Ottawa,Senators,6,1
-,5407,Nestrasil,Andrej,15,C,"6'2""",210,1991-02-22,25,Prague,Czech Republic,N,3,CAR,Carolina,Hurricanes,3,1
-,71,Ott,Steve,29,C,"6'0""",189,1982-08-19,34,"Summerside, PEI",Canada,N,16,DET,Detroit,Red Wings,4,1
-,5272,Ouellet,Xavier,61,D,"6'1""",200,,,Bayonne,France,N,16,DET,Detroit,Red Wings,4,1
-,4865,Paajarvi,Magnus,56,LW,"6'3""",208,,,Norrkoping,Sweden,N,17,STL,St. Louis,Blues,3,1
-,5184,Pateryn,Greg,8,D,"6'2""",214,1990-06-20,26,"Sterling Heights, MI",USA,N,14,MTL,Montreal,Canadiens,5,1
-,5845,Pesce,Brett,22,D,"6'3""",200,1994-11-15,21,"Tarrytown, NY",USA,N,3,CAR,Carolina,Hurricanes,6,1
-,4052,Polak,Roman,46,D,"6'0""",236,,,Ostrava,Czech Republic,N,12,TOR,Toronto,Maple Leafs,3,1
-,5346,Pulkkinen,Teemu,17,LW,"5'11""",183,1992-01-02,24,Vantaa,Finland,N,25,MIN,Minnesota,Wild,7,1
-,5192,Pysyk,Mark,13,D,"6'1""",200,1992-01-11,24,"Sherwood Park, AB",Canada,N,4,FLO,Florida,Panthers,6,1
-,9080,Quine,Alan,10,C,,,,,,,N,8,NYI,New York,Islanders,5,1
-,5296,Raanta,Antti,32,G,,182,,,Rauma,Finland,N,9,NYR,New York,Rangers,2,1
-,5267,Raffl,Michael,12,LW,"6'0""",195,1988-12-01,27,Villach,Austria,N,6,PHI,Philadelphia,Flyers,3,1
-,5882,Rasmussen,Dennis,70,C,,,,,,,N,20,CHI,Chicago,Blackhawks,5,1
-,4535,Sbisa,Luca,5,D,"6'2""",198,1990-01-30,26,Ozieri,Italy,N,21,VAN,Vancouver,Canucks,7,1
-,10071,Schmaltz,Nick,8,C,"6'0""",177,1996-02-23,20,"Madison, WI",USA,Y,20,CHI,Chicago,Blackhawks,7,1
-,5269,Schmidt,Nate,88,D,"6'0""",194,1991-07-16,25,"St. Cloud, MN",USA,N,5,WSH,Washington,Capitals,6,1
-,5118,Schultz,Justin,4,D,"6'2""",185,,,"Kelowna, BC",Canada,N,10,PIT,Pittsburgh,Penguins,7,1
-,5088,Schwartz,Jaden,17,LW,"5'10""",190,1992-06-25,24,"Wikcox, SK",Canada,N,17,STL,St. Louis,Blues,3,1
-,5154,Sgarbossa,Michael,48,C,"5'11""",180,,,"Campbellville, ON",Canada,N,29,ANA,Anaheim,Ducks,3,1
-,838,Sharp,Patrick,10,LW,"6'1""",199,1981-12-27,34,"Winnipeg, MB",Canada,N,27,DAL,Dallas,Stars,4,1
-,5061,Shaw,Andrew,65,C,"5'10""",180,1991-07-20,25,"Belleville, ON",Canada,N,14,MTL,Montreal,Canadiens,7,1
-,5100,Sheahan,Riley,15,C,"6'3""",222,1991-12-07,24,"St. Catherines, ON",Canada,N,16,DET,Detroit,Red Wings,7,1
-,5514,Shore,Nick,21,C,"6'1""",188,1992-09-26,24,"Denver, CO",USA,N,28,LAK,Los Angeles,Kings,6,1
-,5866,Slavin,Jaccob,74,D,,,,,,,N,3,CAR,Carolina,Hurricanes,6,1
-,5812,Slepyshev,Anton,42,LW,"6'2""",218,1994-05-13,22,Penza,Russia,N,24,EDM,Edmonton,Oilers,3,1
-,5012,Smith,Craig,15,C,"6'1""",202,1989-09-05,27,"Madison, WI",USA,N,18,NSH,Nashville,Predators,5,1
-,5007,Smith-Pelly,Devante,25,RW,"6'0""",225,1992-06-14,24,"Scarborough, ON",Canada,N,7,NJD,New Jersey,Devils,6,1
-,10085,Sorensen,Nick,59,RW,"6'1""",182,1994-10-23,22,Farevejle,Denmark,Y,29,ANA,Anaheim,Ducks,5,1
-,4101,Stafford,Drew,12,RW,"6'2""",214,1985-10-30,30,"Milwaukee, WI",USA,N,47,WPJ,Winnipeg,Jets,6,1
-,4690,Stalberg,Viktor,25,LW,"6'3""",209,1986-01-17,30,Gothenburg,Sweden,N,3,CAR,Carolina,Hurricanes,5,1
-,5598,Strome,Dylan,20,C,"6'3""",185,1997-03-07,19,"Mississauga, ON",Canada,Y,30,ARI,Arizona,Coyotes,3,1
-,4939,Tanev,Christopher,8,D,"6'2""",185,1989-12-20,26,"Toronto, ON",Canada,N,21,VAN,Vancouver,Canucks,6,1
-,5900,Theodore,Shea,53,D,,,,,,,N,29,ANA,Anaheim,Ducks,3,1
-,5447,Tierney,Chris,50,C,"6'0""",195,1994-07-01,22,"Keswick, ON",Canada,N,26,SJS,San Jose,Sharks,7,1
-,4969,Vande Velde,Chris,76,C,"6'2""",190,1987-03-15,29,"Moorhead, MN",USA,N,6,PHI,Philadelphia,Flyers,7,1
-,4182,Ward,Joel,42,RW,"6'1""",226,1980-12-02,35,"North York, ON",Canada,N,26,SJS,San Jose,Sharks,7,1
-,4607,Weber,Yannick,7,D,"5'11""",200,1988-09-23,28,Morges,Switzerland,N,18,NSH,Nashville,Predators,5,1
-,196,Williams,Justin,14,RW,"6'1""",188,1981-10-04,35,"Cobourg, ON",Canada,N,5,WSH,Washington,Capitals,6,1
-,4879,Wingels,Tommy,57,C,"6'0""",200,1988-04-12,28,"Evanston, IL",USA,N,26,SJS,San Jose,Sharks,7,1
-,4051,Yandle,Keith,3,D,"6'1""",190,1986-09-09,30,"Boston, MA",USA,N,4,FLO,Florida,Panthers,6,1
 ,5353,Agostino,Kenny,51,LW,"6'0""",210,,,"Flanders, NJ",USA,N,23,CGY,Calgary,Flames,0,0
 ,5234,Agozzino,Andrew,28,LW,"5'10""",187,1991-01-03,25,"Kleinburg, ON",Canada,N,22,COL,Colorado,Avalanche,0,0
-,5107,Allen,Jake,34,G,"6'2""",195,1990-08-07,26,"Fredericton, NB",Canada,N,17,STL,St. Louis,Blues,5,0
-,5109,Andersen,Frederik,31,G,"6'4""",220,1989-10-02,27,Herning,Denmark,N,12,TOR,Toronto,Maple Leafs,5,0
+,5630,Aho,Sebastian,20,RW,"5'11""",176,1997-07-26,19,Rauma,Finland,Y,3,CAR,Carolina,Hurricanes,7,5
+,5107,Allen,Jake,34,G,"6'2""",195,1990-08-07,26,"Fredericton, NB",Canada,N,17,STL,St. Louis,Blues,6,0
+,4554,Alzner,Karl,27,D,"6'2""",217,1988-09-24,28,"Burnaby, BC",Canada,N,5,WSH,Washington,Capitals,6,2
+,5109,Andersen,Frederik,31,G,"6'4""",220,1989-10-02,27,Herning,Denmark,N,12,TOR,Toronto,Maple Leafs,6,0
 ,757,Anderson,Craig,41,G,"6'2""",180,1981-05-21,35,"Park Ridge, IL",USA,N,13,OTT,Ottawa,Senators,5,0
+,5513,Anderson,Josh,34,RW,"6'3""",212,1994-05-07,22,"Burlington, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,7,2
 ,5056,Andersson,Joakim,18,C,"6'2""",206,1989-02-05,27,Munkedal,Sweden,N,16,DET,Detroit,Red Wings,0,0
-,5465,Andreoff,Andy,15,LW,"6'1""",207,1991-05-17,25,"Pickering, ON",Canada,N,28,LAK,Los Angeles,Kings,6,0
+,5465,Andreoff,Andy,15,LW,"6'1""",207,1991-05-17,25,"Pickering, ON",Canada,N,28,LAK,Los Angeles,Kings,7,0
 ,5494,Andrighetto,Sven,42,RW,"5'9""",183,1993-03-21,23,Zurich,Switzerland,N,14,MTL,Montreal,Canadiens,0,0
 ,5070,Angelidis,Mike,10,LW,"6'1""",212,1985-06-27,31,"Woodbridge, ON",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
+,4620,Anisimov,Artem,15,C,"6'4""",198,1988-05-24,28,Yaroslavl,Russia,N,20,CHI,Chicago,Blackhawks,8,10
 ,5929,Archibald,Josh,45,RW,"5'10""",176,1992-10-06,24,"Regina, SK",Canada,N,10,PIT,Pittsburgh,Penguins,0,0
 ,5162,Arcobello,Mark,33,C,"5'8""",172,1988-08-12,28,"Milford, CT",USA,N,12,TOR,Toronto,Maple Leafs,0,0
+,5505,Armia,Joel,40,RW,"6'3""",192,1993-05-31,23,Pori,Finland,N,47,WPJ,Winnipeg,Jets,7,3
+,5538,Arvidsson,Viktor,38,LW,"5'9""",172,1993-04-08,23,Skelleftea,Sweden,N,18,NSH,Nashville,Predators,7,6
+,5853,Athanasiou,Andreas,72,C,"6'2""",192,1994-08-06,22,"London, ON",Canada,N,16,DET,Detroit,Red Wings,6,3
+,5011,Atkinson,Cam,13,RW,"5'7""",172,1989-06-05,27,"Riverside, CT",USA,N,19,CBJ,Columbus,Blue Jackets,7,4
+,10080,Auvitu,Yohann,33,D,"5'11""",191,,,Ivry-sur-Seine,France,N,7,NJD,New Jersey,Devils,7,2
 ,4922,Bachman,Richard,32,G,"5'10""",176,1987-07-25,29,"Salt Lake City, UT",USA,N,21,VAN,Vancouver,Canucks,0,0
+,4179,Backes,David,42,C,"6'3""",221,1984-05-01,32,"Minneapolis, MN",USA,N,11,BOS,Boston,Bruins,5,4
+,4609,Backlund,Mikael,11,C,"6'0""",198,1989-03-17,27,Vasteras,Sweden,N,23,CGY,Calgary,Flames,9,5
+,4264,Backstrom,Nicklas,19,C,"6'1""",208,1987-11-23,28,Gavle,Sweden,N,5,WSH,Washington,Capitals,6,3
 ,4037,Backstrom,Niklas,32,G,"6'1""",194,,,Helsinki,Finland,N,23,CGY,Calgary,Flames,0,0
+,4998,Baertschi,Sven,47,LW,"5'11""",190,1992-10-05,24,Bern,Switzerland,N,21,VAN,Vancouver,Canucks,8,1
+,4527,Bailey,Joshua,12,LW,"6'1""",190,1989-10-02,27,"Bowmanville, ON",Canada,N,8,NYI,New York,Islanders,8,5
 ,5913,Bailey,Justin,56,C,,,,,,,N,15,BUF,Buffalo,Sabres,0,0
+,10092,Baptiste,Nicholas,73,RW,"6'1""",206,1995-08-04,21,"Ottawa, ON",Canada,Y,15,BUF,Buffalo,Sabres,2,1
 ,5205,Barberio,Mark,45,D,"6'1""",185,1990-03-23,26,"Montreal, QC",Canada,N,14,MTL,Montreal,Canadiens,0,0
+,5241,Barkov,Aleksander,16,C,"6'3""",213,1995-09-02,21,Tampere,Finland,N,4,FLO,Florida,Panthers,7,5
+,5075,Barrie,Tyson,4,D,"5'10""",190,1991-07-26,25,"Victoria, BC",Canada,N,22,COL,Colorado,Avalanche,6,4
 ,4936,Bartkowski,Matt,44,D,"6'1""",196,1988-06-04,28,"Pittsburgh, PA",USA,N,21,VAN,Vancouver,Canucks,0,0
 ,5183,Bartley,Victor,20,D,"6'0""",203,,,"Ottawa, ON",Canada,N,14,MTL,Montreal,Canadiens,0,0
 ,5611,Barzal,Mathew,13,C,"6'0""",182,1997-05-26,19,"Coquitlam, BC",Canada,Y,8,NYI,New York,Islanders,2,0
 ,4339,Bass,Cody,16,C,"6'0""",210,1987-01-07,29,"Owen Sound, ON",Canada,N,18,NSH,Nashville,Predators,2,0
 ,5547,Baun,Kyle,39,RW,"6'2""",209,1992-05-04,24,"Toronto, ON",Canada,N,20,CHI,Chicago,Blackhawks,0,0
+,4456,Beagle,Jay,83,C,"6'3""",215,1985-10-16,31,"Calgary, AB",Canada,N,5,WSH,Washington,Capitals,6,1
 ,9639,Bean,Jake,,D,"6'0""",173,1998-07-09,18,"Calgary, AB",Canada,Y,3,CAR,Carolina,Hurricanes,0,0
+,3703,Beauchemin,Francois,32,D,"6'1""",207,1980-06-04,36,"Sorel, QC",Canada,N,22,COL,Colorado,Avalanche,6,2
+,5002,Beaulieu,Nathan,28,D,"6'1""",182,1992-12-05,23,"Strathroy, ON",Canada,N,14,MTL,Montreal,Canadiens,8,2
+,5623,Beauvillier,Anthony,72,LW,"5'10""",176,1997-06-08,19,"Sorel-Tracy, QC",Canada,Y,8,NYI,New York,Islanders,7,5
 ,5194,Beck,Taylor,56,LW,"6'2""",203,1991-05-13,25,"St. Catherines, ON",Canada,N,24,EDM,Edmonton,Oilers,0,0
 ,4459,Beleskey,Matt,39,LW,"6'0""",200,1988-06-07,28,"Windsor, ON",Canada,N,11,BOS,Boston,Bruins,7,0
+,5444,Bellemare,Pierre-Edouard,78,LW,"6'0""",198,1985-03-06,31,Le Blanc-Mesnil,France,N,6,PHI,Philadelphia,Flyers,8,1
 ,9645,Bellows,Keiffer,,LW,"6'0""",196,1998-06-10,18,"Edina, MN",USA,Y,8,NYI,New York,Islanders,0,0
-,5169,Bennett,Beau,8,RW,"6'2""",207,,,"Gardena, CA",USA,N,7,NJD,New Jersey,Devils,5,0
+,4707,Benn,Jamie,14,LW,"6'2""",210,1989-07-18,27,"Victoria, BC",Canada,N,27,DAL,Dallas,Stars,7,4
+,5059,Benn,Jordie,24,D,"6'1""",200,1987-07-26,29,"Victoria, BC",Canada,N,27,DAL,Dallas,Stars,5,3
+,5169,Bennett,Beau,8,RW,"6'2""",207,,,"Gardena, CA",USA,N,7,NJD,New Jersey,Devils,6,0
+,5415,Bennett,Sam,93,C,"6'1""",178,1996-06-20,20,"Holland Landing, ON",Canada,N,23,CGY,Calgary,Flames,9,6
 ,4958,Benoit,Andre,61,D,"5'11""",191,1984-01-06,32,"St. Albert, ON",Canada,N,17,STL,St. Louis,Blues,0,0
+,78,Bergeron,Patrice,37,C,"6'2""",194,1985-07-24,31,"L'Ancienne-Lorette, QC",Canada,N,11,BOS,Boston,Bruins,4,1
+,4545,Berglund,Patrik,21,C,"6'3""",217,1988-06-02,28,V?ster?s,Sweden,N,17,STL,St. Louis,Blues,8,4
 ,4271,Bernier,Jonathan,1,G,"6'0""",185,1988-08-07,28,"Laval, QC",Canada,N,29,ANA,Anaheim,Ducks,2,0
 ,3758,Bernier,Steve,16,RW,"6'3""",215,1985-03-31,31,"Quebec City, QC",Canada,N,8,NYI,New York,Islanders,0,0
 ,5286,Berra,Reto,20,G,"6'4""",194,1987-01-03,29,Bulach,Switzerland,N,4,FLO,Florida,Panthers,0,0
 ,5852,Bertschy,Christoph,47,C,"5'10""",190,1994-04-05,22,Le Mouret,Switzerland,N,25,MIN,Minnesota,Wild,0,0
 ,5404,Berube,Jean-Francois,30,G,"6'1""",177,1991-07-13,25,"Repentigny, QC",Canada,N,8,NYI,New York,Islanders,0,0
-,4258,Bickell,Bryan,29,LW,"6'4""",233,1986-03-09,30,"Bowmanville, ON",Canada,N,3,CAR,Carolina,Hurricanes,5,0
+,4258,Bickell,Bryan,29,LW,"6'4""",233,1986-03-09,30,"Bowmanville, ON",Canada,N,3,CAR,Carolina,Hurricanes,6,1
 ,5524,Biega,Alex,55,D,"5'10""",187,1988-04-04,28,"Montreal, QC",Canada,N,21,VAN,Vancouver,Canucks,1,0
-,3821,Bieksa,Kevin,2,D,"6'1""",198,1981-06-16,35,"Grimsby, ON",Canada,N,29,ANA,Anaheim,Ducks,8,0
+,3821,Bieksa,Kevin,2,D,"6'1""",198,1981-06-16,35,"Grimsby, ON",Canada,N,29,ANA,Anaheim,Ducks,9,0
 ,5236,Bigras,Chris,3,D,"6'1""",190,1995-02-22,21,"Orillia, ON",Canada,N,22,COL,Colorado,Avalanche,0,0
 ,5908,Binnington,Jordan,50,G,"6'1""",167,1993-07-11,23,"Richmond Hill, ON",Canada,N,17,STL,St. Louis,Blues,0,0
-,4561,Bishop,Ben,30,G,"6'7""",214,1986-11-21,29,"Denver, CO",USA,N,1,TBL,Tampa Bay,Lightning,4,0
+,4561,Bishop,Ben,30,G,"6'7""",214,1986-11-21,29,"Denver, CO",USA,N,1,TBL,Tampa Bay,Lightning,5,0
 ,5395,Bitetto,Anthony,2,D,"5'11""",210,1990-07-15,26,"Island Park, NY",USA,N,18,NSH,Nashville,Predators,1,0
 ,8913,Bjorkstrand,Oliver,28,RW,,,,,,,N,19,CBJ,Columbus,Blue Jackets,3,0
 ,5201,Bjugstad,Nick,27,C,"6'6""",218,1992-07-17,24,"Minneapolis, MN",USA,N,4,FLO,Florida,Panthers,0,0
 ,5884,Blandisi,Joseph,64,C,,,,,,,N,7,NJD,New Jersey,Devils,0,0
 ,4083,Blunden,Michael,46,RW,"6'4""",216,1986-12-15,29,"Toronto, ON",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
-,4890,Bobrovsky,Sergei,72,G,"6'2""",182,1988-09-20,28,Novokuznetsk,Russia,N,19,CBJ,Columbus,Blue Jackets,5,0
+,4890,Bobrovsky,Sergei,72,G,"6'2""",182,1988-09-20,28,Novokuznetsk,Russia,N,19,CBJ,Columbus,Blue Jackets,7,0
 ,4784,Bodnarchuk,Andrew,41,D,"5'11""",196,1988-07-11,28,"Drumheller, AB",Canada,N,22,COL,Colorado,Avalanche,0,0
-,4480,Bogosian,Zach,47,D,"6'3""",215,1990-07-15,26,"Massena, NY",USA,N,15,BUF,Buffalo,Sabres,5,0
+,4538,Boedker,Mikkel,89,LW,"6'0""",211,,,Brondby,Denmark,N,26,SJS,San Jose,Sharks,8,1
+,4480,Bogosian,Zach,47,D,"6'3""",215,1990-07-15,26,"Massena, NY",USA,N,15,BUF,Buffalo,Sabres,6,0
+,4296,Boll,Jared,40,RW,"6'2""",219,1986-05-13,30,"Charlotte, NC",USA,N,29,ANA,Anaheim,Ducks,8,1
 ,4082,Bolland,Dave,63,C,"6'0""",184,1986-06-05,30,"Mimico, ON",Canada,N,4,FLO,Florida,Panthers,0,0
 ,4819,Bollig,Brandon,52,LW,"6'2""",223,1987-01-31,29,"St. Charles, MO",USA,N,23,CGY,Calgary,Flames,0,0
+,4775,Bonino,Nick,13,C,"6'1""",196,1988-04-20,28,"Hartford, CT",USA,N,10,PIT,Pittsburgh,Penguins,8,2
 ,9649,Borgstrom,Henrik,,C,"6'3""",176,1997-08-06,19,Helsinki,Finland,Y,4,FLO,Florida,Panthers,0,0
-,5067,Borowiecki,Mark,74,D,"6'2""",205,1989-07-12,27,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,6,0
-,5030,Bortuzzo,Robert,41,D,"6'4""",215,1989-03-18,27,"Thunder Bay, ON",Canada,N,17,STL,St. Louis,Blues,3,0
+,5067,Borowiecki,Mark,74,D,"6'2""",205,1989-07-12,27,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,7,0
+,5030,Bortuzzo,Robert,41,D,"6'4""",215,1989-03-18,27,"Thunder Bay, ON",Canada,N,17,STL,St. Louis,Blues,4,0
+,5246,Boucher,Reid,15,C,"5'10""",190,1993-09-08,23,"Lansing, MI",USA,N,7,NJD,New Jersey,Devils,3,1
 ,730,Boulton,Eric,36,LW,"6'0""",224,1976-08-17,40,"Halifax, NS",Canada,N,8,NYI,New York,Islanders,0,0
+,4949,Bouma,Lance,17,LW,"6'1""",210,1990-03-25,26,"Provost, AB",Canada,N,23,CGY,Calgary,Flames,9,1
 ,5057,Bourque,Gabriel,57,LW,"5'10""",192,1990-09-23,26,"Rimouski, QC",Canada,N,22,COL,Colorado,Avalanche,5,0
+,3633,Bourque,Rene,17,LW,"6'2""",213,1981-12-10,34,"Lac La Biche, AB",Canada,N,22,COL,Colorado,Avalanche,4,1
+,255,Bouwmeester,Jay,19,D,"6'4""",212,1983-09-27,33,"Edmonton, AB",Canada,N,17,STL,St. Louis,Blues,8,1
+,4373,Boychuk,Johnny,55,D,"6'2""",225,1984-01-19,32,"Edmonton, AB",Canada,N,8,NYI,New York,Islanders,8,4
 ,975,Boyes,Brad,28,RW,"6'0""",195,1982-04-17,34,"Mississauga, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,4386,Boyle,Brian,11,C,"6'7""",244,1984-12-18,31,"Hingham, MA",USA,N,1,TBL,Tampa Bay,Lightning,7,1
 ,447,Boyle,Dan,22,D,"5'11""",190,1976-07-12,40,"Ottawa, ON",Canada,N,9,NYR,New York,Rangers,0,0
-,4916,Braun,Justin,61,D,"6'2""",205,1987-02-10,29,"Minneapolis, MN",USA,N,26,SJS,San Jose,Sharks,7,0
+,4686,Bozak,Tyler,42,C,"6'1""",195,1986-03-19,30,"Regina, SK",Canada,N,12,TOR,Toronto,Maple Leafs,7,5
+,4354,Brassard,Derick,19,C,"6'1""",202,1987-09-22,29,"Hull, QC",Canada,N,13,OTT,Ottawa,Senators,7,5
+,4916,Braun,Justin,61,D,"6'2""",205,1987-02-10,29,"Minneapolis, MN",USA,N,26,SJS,San Jose,Sharks,8,0
 ,5037,Brennan,TJ,29,D,"6'1""",213,1989-04-03,27,"Willingboro, NJ",USA,N,6,PHI,Philadelphia,Flyers,0,0
 ,5834,Brickley,Conner,86,LW,"6'2""",195,1992-02-05,24,"Everett, MA",USA,N,4,FLO,Florida,Panthers,0,0
-,3736,Brodziak,Kyle,28,C,"6'2""",209,1984-05-25,32,"St. Paul, AB",Canada,N,17,STL,St. Louis,Blues,6,0
+,4878,Brodie,T.J.,7,D,"6'1""",182,1990-06-07,26,"Chatham, ON",Canada,N,23,CGY,Calgary,Flames,9,2
+,5123,Brodin,Jonas,25,D,"6'1""",191,1993-07-12,23,Karlstad,Sweden,N,25,MIN,Minnesota,Wild,8,4
+,3736,Brodziak,Kyle,28,C,"6'2""",209,1984-05-25,32,"St. Paul, AB",Canada,N,17,STL,St. Louis,Blues,7,0
 ,5552,Brossoit,Laurent,1,G,"6'3""",202,,,"Port Alberni, BC",Canada,N,24,EDM,Edmonton,Oilers,0,0
+,4185,Brouwer,Troy,36,RW,"6'3""",213,1985-08-17,31,"Vancouver, BC",Canada,N,23,CGY,Calgary,Flames,9,6
 ,5179,Brown,Chris,67,C,"6'2""",215,1991-02-03,25,"Houston, TX",USA,N,5,WSH,Washington,Capitals,0,0
-,5095,Brown,J.T.,23,RW,"5'10""",170,1990-07-02,26,"Burnsville, MN",USA,N,1,TBL,Tampa Bay,Lightning,6,0
+,8916,Brown,Connor,12,RW,,,,,,,N,12,TOR,Toronto,Maple Leafs,7,1
+,277,Brown,Dustin,23,LW,"6'0""",207,1984-11-04,31,"Ithaca, NY",USA,N,28,LAK,Los Angeles,Kings,7,5
+,5095,Brown,J.T.,23,RW,"5'10""",170,1990-07-02,26,"Burnsville, MN",USA,N,1,TBL,Tampa Bay,Lightning,7,0
 ,9637,Brown,Logan,,C,"6'6""",222,1998-03-05,18,"Raleigh, NC",USA,Y,13,OTT,Ottawa,Senators,0,0
 ,1122,Brown,Mike,13,RW,"5'11""",202,,,"Chicago, IL",USA,N,14,MTL,Montreal,Canadiens,0,0
 ,5457,Brown,Patrick,36,C,"6'1""",210,,,"Bloomfield Hills, MI",USA,N,3,CAR,Carolina,Hurricanes,0,0
-,3635,Budaj,Peter,31,G,"6'1""",195,1982-09-18,34,Banska Bystrica,Slovakia,N,28,LAK,Los Angeles,Kings,4,0
+,10075,Buchnevich,Pavel,89,LW,"6'2""",193,1995-04-17,21,Cherepovets,Russia,Y,9,NYR,New York,Rangers,3,2
+,3635,Budaj,Peter,31,G,"6'1""",195,1982-09-18,34,Banska Bystrica,Slovakia,N,28,LAK,Los Angeles,Kings,5,0
 ,5015,Bulmer,Brett,54,RW,"6'2""",204,1992-04-26,24,"Prince George, BC",Canada,N,25,MIN,Minnesota,Wild,0,0
+,5451,Burakovsky,Andre,65,LW,"6'1""",178,1995-02-09,21,Klagenfurt,Austria,N,5,WSH,Washington,Capitals,6,3
+,4883,Burmistrov,Alexander,91,C,"6'1""",180,1991-10-21,25,Kazan,Russia,N,47,WPJ,Winnipeg,Jets,7,1
+,15,Burns,Brent,88,D,"6'5""",230,1985-03-09,31,"Barrie, ON",Canada,N,26,SJS,San Jose,Sharks,8,9
 ,3674,Burrows,Alexandre,14,RW,"6'1""",188,1981-04-11,35,"Pincourt, QC",Canada,N,21,VAN,Vancouver,Canucks,5,0
 ,4596,Butler,Chris,25,D,"6'1""",196,1986-10-27,30,"ST. Louis, MO",USA,N,17,STL,St. Louis,Blues,0,0
+,3874,Byfuglien,Dustin,33,D,"6'5""",265,1985-03-27,31,"Minneapolis, MN",USA,N,47,WPJ,Winnipeg,Jets,8,5
+,4943,Byron,Paul,41,C,"5'7""",153,1989-04-27,27,"Ottawa, ON",Canada,N,14,MTL,Montreal,Canadiens,8,5
 ,4145,Callahan,Ryan,24,RW,"5'11""",190,1985-03-21,31,"Rochester, NY",USA,N,1,TBL,Tampa Bay,Lightning,0,0
+,4935,Calvert,Matt,11,LW,"5'10""",187,1989-12-24,26,"Brandon, MB",Canada,N,19,CBJ,Columbus,Blue Jackets,7,1
+,721,Cammalleri,Mike,13,C,"5'9""",190,1982-07-08,34,"Richmond Hill, ON",Canada,N,7,NJD,New Jersey,Devils,7,2
 ,5363,Campbell,Andrew,48,D,"6'4""",206,,,"Caledonia, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,568,Campbell,Brian,51,D,"5'10""",190,1979-05-23,37,"Strathroy, ON",Canada,N,20,CHI,Chicago,Blackhawks,8,5
 ,663,Campbell,Gregory,9,C,,197,1983-12-17,32,"London, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,5271,Campbell,Jack,1,G,"6'3""",183,1992-01-10,24,"Port Huron, MI",USA,Y,28,LAK,Los Angeles,Kings,0,0
 ,5238,Carey,Paul,28,C,"6'1""",196,,,"Weymouth, MA",USA,N,5,WSH,Washington,Capitals,0,0
+,3880,Carle,Matthew,25,D,"6'0""",205,1984-09-25,32,"Anchorage, AK",USA,N,18,NSH,Nashville,Predators,6,1
+,5632,Carlo,Brandon,25,D,"6'5""",196,1996-11-26,19,"Colorado Springs, CO",USA,Y,11,BOS,Boston,Bruins,7,2
+,4735,Carlson,John,74,D,"6'3""",212,1990-01-10,26,"Natick, MA",USA,N,5,WSH,Washington,Capitals,6,1
 ,4891,Caron,Jordan,33,RW,"6'3""",204,1990-11-02,25,"Sayabec, QC",Canada,N,17,STL,St. Louis,Blues,0,0
 ,5886,Carpenter,Ryan,40,C,"6'1""",180,1991-01-18,25,"Oviedo, FL",USA,N,26,SJS,San Jose,Sharks,0,0
+,5880,Carr,Daniel,43,LW,"6'0""",191,1991-11-01,24,"Sherwood Park, AB",Canada,N,14,MTL,Montreal,Canadiens,2,1
+,5252,Carrick,Connor,8,D,"5'11""",185,,,"Orland Park, IL",USA,N,12,TOR,Toronto,Maple Leafs,7,1
 ,5479,Carrick,Sam,53,C,"6'0""",188,,,"Markham, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
 ,8881,Carrick,Trevor,46,D,"6'2""",186,1994-07-04,22,"Stouffville, ON",Canada,N,3,CAR,Carolina,Hurricanes,0,0
+,3488,Carter,Jeff,77,C,"6'4""",212,1985-01-01,31,"London, ON",Canada,N,28,LAK,Los Angeles,Kings,7,5
 ,4273,Carter,Ryan,18,C,"5'11""",205,1983-08-03,33,"White Bear Lake, MN",USA,N,25,MIN,Minnesota,Wild,0,0
 ,5912,Catenacci,Daniel,43,C,,,,,,,N,15,BUF,Buffalo,Sabres,0,0
+,5307,Ceci,Cody,5,D,"6'3""",209,1993-12-21,22,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,7,1
 ,5613,Chabot,Thomas,72,D,"6'2""",180,1997-01-30,19,"Sainte-Marie, QC",Canada,Y,13,OTT,Ottawa,Senators,1,0
 ,5282,Chaput,Michael,39,C,"6'2""",197,1992-04-09,24,"Ile Bizard, QC",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
-,5285,Chiarot,Ben,7,D,"6'3""",215,1991-05-09,25,"Hamilton, ON",Canada,N,47,WPJ,Winnipeg,Jets,5,0
+,218,Chara,Zdeno,33,D,"6'9""",255,1977-03-18,39,Trencin,Czechoslovakia,N,11,BOS,Boston,Bruins,7,3
+,5285,Chiarot,Ben,7,D,"6'3""",215,1991-05-09,25,"Hamilton, ON",Canada,N,47,WPJ,Winnipeg,Jets,7,0
+,5200,Chiasson,Alex,39,RW,"6'4""",205,1990-10-01,26,"Montreal, QC",Canada,N,23,CGY,Calgary,Flames,9,3
+,388,Chimera,Jason,25,LW,"6'3""",213,1979-05-02,37,"Edmonton, AB",Canada,N,8,NYI,New York,Islanders,8,3
 ,4302,Chipchura,Kyle,24,C,"6'2""",203,1986-02-19,30,"Westlock, AB",Canada,N,30,ARI,Arizona,Coyotes,0,0
 ,9646,Cholowski,Dennis,,D,"6'0""",170,1998-02-15,18,"Langley, BC",Canada,Y,16,DET,Detroit,Red Wings,0,0
 ,4504,Chorney,Taylor,4,D,"6'1""",189,1987-04-27,29,"Thunder Bay, ON",Canada,N,5,WSH,Washington,Capitals,0,0
+,9642,Chychrun,Jakob,6,D,"6'2""",215,1998-03-31,18,"Boca Raton, FL",USA,Y,30,ARI,Arizona,Coyotes,6,3
+,5083,Cizikas,Casey,53,C,"5'11""",189,1991-02-27,25,"Toronto, ON",Canada,N,8,NYI,New York,Islanders,8,3
 ,5901,Claesson,Fredrik,49,D,,,,,,,N,13,OTT,Ottawa,Senators,0,0
 ,4249,Clarkson,David,23,RW,"6'1""",200,1984-03-31,32,"Toronto, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
-,4889,Clifford,Kyle,13,LW,"6'2""",209,1991-01-13,25,"Ayr, ON",Canada,N,28,LAK,Los Angeles,Kings,5,0
+,5448,Clendening,Adam,4,D,,190,,,"Wheatfield, NY",USA,N,9,NYR,New York,Rangers,5,1
+,4889,Clifford,Kyle,13,LW,"6'2""",209,1991-01-13,25,"Ayr, ON",Canada,N,28,LAK,Los Angeles,Kings,6,0
 ,4509,Clune,Rich,25,LW,"5'10""",207,1987-04-25,29,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,4318,Clutterbuck,Cal,15,RW,"5'11""",213,1987-11-18,28,"Welland, ON",Canada,N,8,NYI,New York,Islanders,8,4
+,3683,Coburn,Braydon,55,D,"6'5""",220,1985-02-27,31,"Shaunavon, SK",Canada,N,1,TBL,Tampa Bay,Lightning,7,1
+,4284,Cogliano,Andrew,7,C,"5'10""",181,1987-06-14,29,"Toronto, ON",Canada,N,29,ANA,Anaheim,Ducks,9,4
 ,897,Colaiacovo,Carlo,25,D,"6'1""",200,1983-01-27,33,"Toronto, ON",Canada,N,15,BUF,Buffalo,Sabres,0,0
+,4980,Colborne,Joe,8,C,"6'5""",213,1990-01-30,26,"Calgary, AB",Canada,N,22,COL,Colorado,Avalanche,6,4
+,4905,Cole,Ian,28,D,"6'1""",219,1989-02-21,27,"Ann Arbor, MI",USA,N,10,PIT,Pittsburgh,Penguins,8,1
 ,4580,Collins,Sean,53,C,"5'11""",198,1988-12-29,27,"Saskatoon, SK",Canada,N,5,WSH,Washington,Capitals,0,0
+,4154,Comeau,Blake,14,LW,"6'1""",202,1986-02-18,30,"Meadow Lake, SK",Canada,N,22,COL,Colorado,Avalanche,6,2
 ,5141,Conacher,Cory,89,C,"5'8""",180,1989-12-14,26,"Burlington, ON",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
 ,5835,Condon,Mike,1,G,"6'2""",197,1990-04-27,26,"Needham, MA",USA,N,10,PIT,Pittsburgh,Penguins,1,0
 ,4956,Condra,Erik,22,RW,"5'11""",189,1986-08-06,30,"Trenton, MI",USA,N,1,TBL,Tampa Bay,Lightning,0,0
 ,5278,Connauton,Kevin,44,D,"6'1""",185,,,"Edmonton, AB",Canada,N,30,ARI,Arizona,Coyotes,1,0
 ,5004,Connolly,Brett,10,RW,"6'2""",181,1992-05-02,24,"Campbell River, BC",Canada,N,5,WSH,Washington,Capitals,2,0
+,5612,Connor,Kyle,81,LW,"6'1""",177,1996-12-09,19,"Shelby Township, MI",USA,Y,47,WPJ,Winnipeg,Jets,7,2
 ,5571,Copley,Phoenix,30,G,"6'4""",196,,,"North Pole, AK",USA,N,17,STL,St. Louis,Blues,0,0
 ,5555,Copp,Andrew,9,C,"6'0""",188,1994-07-08,22,"Ann Arbor, MI",USA,N,47,WPJ,Winnipeg,Jets,0,0
 ,4872,Cormier,Patrice,28,C,"6'2""",215,1990-06-14,26,"Moncton, NB",Canada,N,47,WPJ,Winnipeg,Jets,0,0
 ,5217,Corrado,Frank,20,D,"6'0""",190,1993-03-26,23,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,5536,Cousins,Nick,25,C,"5'10""",169,,,"Belleville, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,3
+,4715,Couture,Logan,39,C,"6'1""",200,1989-03-28,27,"Guelph, ON",Canada,N,26,SJS,San Jose,Sharks,8,5
+,4995,Couturier,Sean,14,C,"6'3""",197,1992-12-07,23,"Phoenix, AZ",USA,N,6,PHI,Philadelphia,Flyers,8,4
 ,4789,Cowen,Jared,2,D,"6'5""",230,1991-01-25,25,"Saskatoon, SK",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
-,10100,Cramarossa,Joseph,74,LW,,,,,,,Y,29,ANA,Anaheim,Ducks,3,0
-,3855,Crawford,Corey,50,G,"6'2""",208,1984-12-31,31,"Montreal, QC",Canada,N,20,CHI,Chicago,Blackhawks,5,0
+,5124,Coyle,Charlie,3,RW,"6'3""",221,1992-03-02,24,"E. Weymouth, MA",USA,N,25,MIN,Minnesota,Wild,8,6
+,4684,Cracknell,Adam,27,RW,"6'2""",210,1985-06-15,31,"Prince Albert, SK",Canada,N,27,DAL,Dallas,Stars,7,3
+,10100,Cramarossa,Joseph,74,LW,,,,,,,Y,29,ANA,Anaheim,Ducks,4,0
+,3855,Crawford,Corey,50,G,"6'2""",208,1984-12-31,31,"Montreal, QC",Canada,N,20,CHI,Chicago,Blackhawks,6,0
+,3490,Crosby,Sidney,87,C,"5'11""",200,1987-08-07,29,"Cole Harbour, NS",Canada,N,10,PIT,Pittsburgh,Penguins,2,3
 ,389,Cross,Cory,56,D,,,,,,,N,11,BOS,Boston,Bruins,0,0
 ,5836,Cross,Tommy,56,D,"6'3""",210,,,"Simsbury, CT",USA,N,11,BOS,Boston,Bruins,0,0
 ,5606,Crouse,Lawson,67,LW,"6'4""",210,1997-06-23,19,"Mt. Brydges, ON",Canada,Y,30,ARI,Arizona,Coyotes,5,0
+,257,Cullen,Matt,7,C,"6'1""",200,1976-11-02,39,"Virgina, MN",USA,N,10,PIT,Pittsburgh,Penguins,8,6
 ,5312,Cunningham,Craig,22,RW,"5'10""",184,,,"Trail, BC",Canada,N,30,ARI,Arizona,Coyotes,0,0
+,10077,Czarnik,Austin,27,C,"5'9""",160,1992-12-12,23,"Detroit, MI",USA,Y,11,BOS,Boston,Bruins,3,1
+,5493,Dahlbeck,Klas,6,D,"6'3""",207,1991-07-06,25,Katrineholm,Sweden,N,3,CAR,Carolina,Hurricanes,5,1
+,701,Daley,Trevor,6,D,"5'11""",198,1983-10-09,33,"Toronto, ON",Canada,N,10,PIT,Pittsburgh,Penguins,8,3
+,4805,Dalpe,Zac,27,C,"6'1""",195,,,"Paris, ON",Canada,N,25,MIN,Minnesota,Wild,8,3
+,5487,Danault,Phillip,24,C,"6'0""",201,,,"Victoriaville, QC",Canada,N,14,MTL,Montreal,Canadiens,8,4
 ,3663,Danis,Yann,40,G,,,,,,,N,7,NJD,New Jersey,Devils,0,0
 ,5450,Dano,Marko,56,C,"5'11""",183,,,Eisenstadt,Austria,N,47,WPJ,Winnipeg,Jets,0,0
 ,5475,Darling,Scott,33,G,"6'6""",232,1988-12-22,27,"Lemont, IL",USA,N,20,CHI,Chicago,Blackhawks,2,0
 ,294,Datsyuk,Pavel,13,C,"5'11""",198,1978-07-20,38,Sverdlosk,Russia,N,16,DET,Detroit,Red Wings,0,0
+,5899,Dauphin,Laurent,76,C,,,,,,,N,30,ARI,Arizona,Coyotes,6,2
 ,5498,Davidson,Brandon,88,D,"6'2""",214,1991-08-21,25,"Lethbridge, AB",Canada,N,24,EDM,Edmonton,Oilers,1,0
+,5049,de Haan,Calvin,44,D,"6'1""",187,1991-05-09,25,"Carp, ON",Canada,N,8,NYI,New York,Islanders,8,2
+,5203,DeKeyser,Danny,65,D,"6'3""",190,1990-03-07,26,"Detroit, MI",USA,N,16,DET,Detroit,Red Wings,8,1
 ,5520,De La Rose,Jacob,25,LW,"6'2""",190,1995-05-20,21,Arvika,Sweden,N,14,MTL,Montreal,Canadiens,0,0
 ,8947,De Leo,Chase,77,C,"5'9""",185,1995-10-25,21,"La Mirada, CA",USA,N,47,WPJ,Winnipeg,Jets,0,0
 ,10074,Dell,Aaron,30,G,"6'0""",205,1989-05-04,27,"Airdrie, AB",Canada,Y,26,SJS,San Jose,Sharks,1,0
 ,4695,Del Zotto,Michael,15,D,"6'0""",195,1990-06-24,26,"Stouffville, ON",Canada,N,6,PHI,Philadelphia,Flyers,0,0
 ,5822,DeMelo,Dylan,74,D,"6'0""",205,1993-05-01,23,"London, ON",Canada,N,26,SJS,San Jose,Sharks,0,0
+,4699,Demers,Jason,55,D,"6'1""",195,1988-07-09,28,"Dorval, QC",Canada,N,4,FLO,Florida,Panthers,7,1
+,4739,Desharnais,David,51,C,"5'7""",177,1986-09-14,30,"Laurier-Station, QC",Canada,N,14,MTL,Montreal,Canadiens,8,4
 ,4933,Desjardins,Andrew,11,C,"6'1""",195,1986-07-27,30,"Lively, ON",Canada,N,20,CHI,Chicago,Blackhawks,0,0
-,5341,Deslauriers,Nicolas,44,LW,,,,,,,N,15,BUF,Buffalo,Sabres,5,0
+,5341,Deslauriers,Nicolas,44,LW,,,,,,,N,15,BUF,Buffalo,Sabres,6,0
 ,5046,DesPres,Simon,6,D,"6'4""",214,1991-07-27,25,"Laval, QC",Canada,N,29,ANA,Anaheim,Ducks,1,0
 ,9073,Dickinson,Jason,16,C,"6'2""",184,1995-07-04,21,"Georgetown, ON",Canada,N,27,DAL,Dallas,Stars,0,0
 ,8864,Dietz,Darren,44,D,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
-,5881,Di Giuseppe,Phillipe,34,LW,,,,,,,N,3,CAR,Carolina,Hurricanes,4,0
-,5518,Domingue,Louis,35,G,"6'3""",210,,,"St-Hyacinthe, QC",Canada,N,30,ARI,Arizona,Coyotes,4,0
+,5881,Di Giuseppe,Phillipe,34,LW,,,,,,,N,3,CAR,Carolina,Hurricanes,5,0
+,5103,Dillon,Brenden,4,D,"6'3""",228,1990-11-13,25,"New Westminster, BC",Canada,N,26,SJS,San Jose,Sharks,8,1
+,547,Doan,Shane,19,RW,"6'1""",223,1976-10-10,40,"Halkirk, AB",Canada,N,30,ARI,Arizona,Coyotes,7,3
+,5412,Domi,Max,16,C,"5'9""",197,1995-03-02,21,"Winnipeg, MB",Canada,N,30,ARI,Arizona,Coyotes,7,5
+,5518,Domingue,Louis,35,G,"6'3""",210,,,"St-Hyacinthe, QC",Canada,N,30,ARI,Arizona,Coyotes,5,0
+,5821,Donskoi,Joonas,27,RW,"6'0""",181,1992-04-13,24,Raahe,Finland,N,26,SJS,San Jose,Sharks,8,3
+,4438,Dorsett,Derek,15,RW,"6'0""",192,1986-12-20,29,"Kindersley, SK",Canada,N,21,VAN,Vancouver,Canucks,5,1
+,4510,Doughty,Drew,8,D,"6'1""",213,1989-12-08,26,"London, ON",Canada,N,28,LAK,Los Angeles,Kings,7,4
+,9007,Dowd,Nic,26,C,"6'1""",175,1990-05-27,26,"Huntsville, AL",USA,N,28,LAK,Los Angeles,Kings,5,4
+,10105,Dowling,Justin,37,C,"5'10""",185,1990-10-01,26,"Calgary, AB",Canada,Y,27,DAL,Dallas,Stars,2,1
 ,4348,Downie,Steve,17,RW,"5'11""",191,1987-04-03,29,"Newmarket, ON",Canada,N,30,ARI,Arizona,Coyotes,0,0
-,5540,Driedger,Chris,32,G,"6'3""",200,,,"Winnipeg, MB",Canada,N,13,OTT,Ottawa,Senators,0,0
-,4666,Dubnyk,Devan,40,G,"6'6""",210,1986-05-04,30,"Regina, SK",Canada,N,25,MIN,Minnesota,Wild,5,0
-,5441,Duclair,Anthony,10,LW,"5'11""",185,,,"Pointe-Claire, QC",Canada,N,30,ARI,Arizona,Coyotes,6,0
-,5310,Dumoulin,Brian,8,D,"6'4""",207,1991-09-06,25,"Biddeford, ME",USA,N,10,PIT,Pittsburgh,Penguins,7,0
+,5417,Draisaitl,Leon,29,C,"6'1""",210,1995-10-27,21,Cologne,Germany,N,24,EDM,Edmonton,Oilers,8,6
+,5540,Driedger,Chris,32,G,"6'3""",200,,,"Winnipeg, MB",Canada,N,13,OTT,Ottawa,Senators,1,0
+,5230,Drouin,Jonathan,27,LW,"5'11""",186,1995-03-28,21,"Ste-Agathe, QC",Canada,N,1,TBL,Tampa Bay,Lightning,7,5
+,4245,Dubinsky,Brandon,17,C,"6'1""",210,1986-04-29,30,"Anchorage, AK",USA,N,19,CBJ,Columbus,Blue Jackets,7,1
+,4666,Dubnyk,Devan,40,G,"6'6""",210,1986-05-04,30,"Regina, SK",Canada,N,25,MIN,Minnesota,Wild,6,0
+,4663,Duchene,Matt,9,C,"5'11""",200,1991-01-16,25,"Haliburton, ON",Canada,N,22,COL,Colorado,Avalanche,6,5
+,5441,Duclair,Anthony,10,LW,"5'11""",185,,,"Pointe-Claire, QC",Canada,N,30,ARI,Arizona,Coyotes,7,1
+,5125,Dumba,Matthew,24,D,"6'0""",183,1994-07-25,22,"Regina, SK",Canada,N,25,MIN,Minnesota,Wild,8,4
+,5310,Dumoulin,Brian,8,D,"6'4""",207,1991-09-06,25,"Biddeford, ME",USA,N,10,PIT,Pittsburgh,Penguins,8,0
 ,713,Dupuis,Pascal,9,LW,"6'1""",205,1979-04-07,37,"Laval, QC",Canada,N,10,PIT,Pittsburgh,Penguins,0,0
+,10069,Dvorak,Christian,18,C,"6'1""",196,,,"Frankfort, IL",USA,Y,30,ARI,Arizona,Coyotes,6,3
+,5895,Dzingel,Ryan,18,LW,"6'0""",190,1992-03-09,24,"Wheaton, IL",USA,N,13,OTT,Ottawa,Senators,7,7
 ,5170,Dziurzynski,Dave,59,LW,"6'3""",215,,,"Lloydminster, AB",Canada,N,13,OTT,Ottawa,Senators,0,0
 ,5025,Eakin,Cody,20,C,"6'0""",190,1991-05-24,25,"Winnipeg, MB",Canada,N,27,DAL,Dallas,Stars,0,0
+,3733,Eaves,Patrick,18,RW,"6'0""",187,1984-05-01,32,"Calgary, AB",Canada,N,27,DAL,Dallas,Stars,6,4
+,4505,Eberle,Jordan,14,RW,"5'11""",184,1990-05-15,26,"Regina, SK",Canada,N,24,EDM,Edmonton,Oilers,8,6
+,4099,Edler,Alexander,23,D,"6'3""",215,1986-04-21,30,Ostersund,Sweden,N,21,VAN,Vancouver,Canucks,8,1
+,5823,Edmundson,Joel,6,D,"6'5""",208,1993-06-28,23,"Brandon,  MB",Canada,N,17,STL,St. Louis,Blues,8,1
+,5419,Ehlers,Nicholaj,27,LW,"6'0""",168,1996-02-14,20,Aalborg,Denmark,N,47,WPJ,Winnipeg,Jets,8,3
 ,371,Ehrhoff,Christian,55,D,"6'2""",196,,,Moers,Germany,N,20,CHI,Chicago,Blackhawks,0,0
-,5597,Eichel,Jack,15,C,"6'2""",194,1996-10-28,19,"North Chelmsford, MA",USA,N,15,BUF,Buffalo,Sabres,0,0
+,5597,Eichel,Jack,15,C,"6'2""",194,1996-10-28,20,"North Chelmsford, MA",USA,N,15,BUF,Buffalo,Sabres,0,0
+,5414,Ekblad,Aaron,5,D,"6'4""",216,1996-02-07,20,"Windsor, ON",Canada,N,4,FLO,Florida,Panthers,7,1
+,5022,Ekholm,Mattias,14,D,"6'4""",204,1990-05-24,26,Borlange,Sweden,N,18,NSH,Nashville,Predators,7,1
+,4866,Ekman-Larsson,Oliver,23,D,"6'2""",190,1991-07-17,25,Karlskrona,Sweden,N,30,ARI,Arizona,Coyotes,7,5
 ,113,Elias,Patrik,26,LW,"6'1""",195,1976-04-13,40,Trebic,Czechoslovakia,N,7,NJD,New Jersey,Devils,0,0
-,4305,Elliott,Brian,1,G,"6'2""",209,1985-04-09,31,"Newmarket, ON",Canada,N,23,CGY,Calgary,Flames,5,0
+,4723,Eller,Lars,20,C,"6'2""",209,1989-05-08,27,Rodovre,Denmark,N,5,WSH,Washington,Capitals,6,1
+,4305,Elliott,Brian,1,G,"6'2""",209,1985-04-09,31,"Newmarket, ON",Canada,N,23,CGY,Calgary,Flames,6,0
 ,5040,Elliott,Stefan,7,D,"6'1""",190,1991-01-30,25,"Vancouver, BC",Canada,N,18,NSH,Nashville,Predators,0,0
 ,5928,Ellis,Morgan,85,D,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
+,4869,Ellis,Ryan,4,D,"5'10""",175,1991-01-03,25,"Hamilton, ON",Canada,N,18,NSH,Nashville,Predators,7,2
 ,9077,Elson,Turner,65,LW,,,,,,,N,23,CGY,Calgary,Flames,0,0
+,5017,Emelin,Alexei,74,D,"6'2""",224,1986-04-25,30,Togliatti,Russia,N,14,MTL,Montreal,Canadiens,8,3
+,4725,Engelland,Deryk,29,D,"6'2""",215,1982-04-03,34,"Edmonton, AB",Canada,N,23,CGY,Calgary,Flames,9,2
+,4728,Ennis,Tyler,63,C,"5'9""",169,1989-10-06,27,"Edmonton, AB",Canada,N,15,BUF,Buffalo,Sabres,6,2
 ,4658,Enroth,Jhonas,35,G,"5'10""",166,1988-06-25,28,Stockholm,Sweden,N,12,TOR,Toronto,Maple Leafs,2,0
+,4298,Enstrom,Tobias,39,D,"5'10""",180,1984-11-05,31,Nordingra,Sweden,N,47,WPJ,Winnipeg,Jets,8,2
+,4396,Ericsson,Jonathan,52,D,"6'4""",221,1984-03-02,32,Karlskrona,Sweden,N,16,DET,Detroit,Red Wings,8,2
+,4020,Eriksson,Loui,21,LW,"6'2""",196,1985-07-17,31,Gothenburg,Sweden,N,21,VAN,Vancouver,Canucks,8,4
+,5615,Eriksson-Ek,Joel,14,C,"6'2""",184,1997-01-29,19,Karlstad,Sweden,Y,25,MIN,Minnesota,Wild,4,5
 ,5152,Etem,Emerson,26,RW,"6'1""",212,1992-06-16,24,"Long Beach, CA",USA,N,29,ANA,Anaheim,Ducks,3,0
 ,5455,Everberg,Dennis,45,RW,"6'4""",205,,,Vasteras,Sweden,N,22,COL,Colorado,Avalanche,0,0
+,5434,Fabbri,Robby,15,C,"5'10""",170,1996-01-22,20,"Mississauga, ON",Canada,N,17,STL,St. Louis,Blues,8,3
 ,9643,Fabbro,Dante,,D,"6'0""",189,1998-06-20,18,"Whistler, BC",Canada,Y,18,NSH,Nashville,Predators,0,0
+,5116,Faksa,Radek,12,C,"6'3""",203,1994-01-09,22,Opava,Czech Republic,N,27,DAL,Dallas,Stars,7,2
 ,4517,Falk,Justin,44,D,"6'5""",215,,,"Snowflake, MB",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,5499,Farnham,Bobby,23,LW,"5'10""",188,1989-01-21,27,"North Andover, MA",USA,N,7,NJD,New Jersey,Devils,0,0
-,9049,Fasching,Hudson,52,RW,,,,,,,N,15,BUF,Buffalo,Sabres,3,0
+,9049,Fasching,Hudson,52,RW,,,,,,,N,15,BUF,Buffalo,Sabres,4,0
+,5257,Fast,Jesper,19,RW,"6'0""",185,1991-12-02,24,Nassjo,Sweden,N,9,NYR,New York,Rangers,8,4
+,5009,Faulk,Justin,27,D,"6'0""",215,1992-03-20,24,"South St. Paul, MN",USA,N,3,CAR,Carolina,Hurricanes,7,5
+,4914,Fayne,Mark,5,D,"6'3""",212,1987-05-15,29,"Nashua, NH",USA,N,24,EDM,Edmonton,Oilers,1,1
 ,5288,Fedun,Taylor,58,D,,198,,,"Edmonton, AB",Canada,N,21,VAN,Vancouver,Canucks,0,0
+,3819,Fehr,Eric,16,RW,"6'4""",212,1985-09-07,31,"Winkler, MB",Canada,N,10,PIT,Pittsburgh,Penguins,8,1
 ,408,Ference,Andrew,21,D,"5'11""",189,1979-03-17,37,"Edmonton, AB",Canada,N,24,EDM,Edmonton,Oilers,0,0
+,5478,Ferland,Micheal,79,LW,"6'2""",215,1992-04-20,24,"Swan River, MB",Canada,N,23,CGY,Calgary,Flames,9,5
 ,5350,Ferraro,Landon,29,C,"6'0""",186,,,"Trail, BC",Canada,N,11,BOS,Boston,Bruins,0,0
-,353,Fiddler,Vernon,38,C,"5'11""",205,1980-05-09,36,"Edmonton, AB",Canada,N,7,NJD,New Jersey,Devils,6,0
+,5438,Fiala,Kevin,56,LW,"5'10""",180,,,St. Gallen,Switzerland,N,18,NSH,Nashville,Predators,7,2
+,353,Fiddler,Vernon,38,C,"5'11""",205,1980-05-09,36,"Edmonton, AB",Canada,N,7,NJD,New Jersey,Devils,7,0
+,3813,Filppula,Valtteri,51,C,"6'0""",195,1984-03-20,32,Vantaa,Finland,N,1,TBL,Tampa Bay,Lightning,7,5
+,850,Fisher,Mike,12,C,"6'1""",215,1980-06-05,36,"Peterborough, ON",Canada,N,18,NSH,Nashville,Predators,6,4
 ,3757,Fleischmann,Tomas,12,LW,"6'1""",192,1984-05-16,32,Koprivnice,Czechoslovakia,N,20,CHI,Chicago,Blackhawks,0,0
-,483,Fleury,Marc-Andre,29,G,"6'2""",180,1984-11-28,31,"Sorel, QC",Canada,N,10,PIT,Pittsburgh,Penguins,7,0
-,5368,Folin,Christian,5,D,"6'3""",215,1991-02-09,25,Gothenburg,Sweden,N,25,MIN,Minnesota,Wild,6,0
+,483,Fleury,Marc-Andre,29,G,"6'2""",180,1984-11-28,31,"Sorel, QC",Canada,N,10,PIT,Pittsburgh,Penguins,8,0
+,5177,Flynn,Brian,32,C,"6'1""",180,1988-07-26,28,"Lynnfield, MA",USA,N,14,MTL,Montreal,Canadiens,6,1
+,5055,Foligno,Marcus,82,LW,"6'3""",223,1991-08-10,25,"Buffalo, NY",USA,N,15,BUF,Buffalo,Sabres,6,2
+,4278,Foligno,Nick,71,LW,"6'0""",210,1987-10-31,28,"Buffalo, NY",USA,N,19,CBJ,Columbus,Blue Jackets,7,8
+,5368,Folin,Christian,5,D,"6'3""",215,1991-02-09,25,Gothenburg,Sweden,N,25,MIN,Minnesota,Wild,7,1
 ,5264,Fontaine,Justin,14,RW,"5'10""",177,1987-11-06,28,"Bonneville, AB",Canada,N,25,MIN,Minnesota,Wild,0,0
-,5813,Forbort,Derek,24,D,"6'5""",198,1992-03-04,24,"Duluth, MI",USA,N,28,LAK,Los Angeles,Kings,6,0
+,5813,Forbort,Derek,24,D,"6'5""",198,1992-03-04,24,"Duluth, MI",USA,N,28,LAK,Los Angeles,Kings,7,0
 ,5481,Forsberg,Anton,31,G,"6'2""",176,1992-11-27,23,Harnosand,Sweden,N,19,CBJ,Columbus,Blue Jackets,0,0
+,5210,Forsberg,Filip,9,C,"5'11""",186,1994-08-13,22,Ostervala,Sweden,N,18,NSH,Nashville,Predators,7,5
+,10072,Forsling,Gustav,42,D,"5'11""",186,1996-06-12,20,Linkoping,Sweden,Y,20,CHI,Chicago,Blackhawks,7,1
+,4800,Fowler,Cam,4,D,"6'1""",207,1991-12-05,24,"Windsor, ON",Canada,N,29,ANA,Anaheim,Ducks,9,7
+,4674,Franson,Cody,6,D,"6'5""",213,1987-08-08,29,"Sicamous, BC",Canada,N,15,BUF,Buffalo,Sabres,6,2
 ,3639,Franzen,Johan,93,RW,"6'3""",223,1979-12-23,36,Vetlanda,Sweden,N,16,DET,Detroit,Red Wings,0,0
 ,9655,Frederic,Trent,,C,"6'2""",203,1998-02-11,18,"St. Louis, MO",USA,Y,11,BOS,Boston,Bruins,0,0
 ,5507,Friberg,Max,43,LW,"5'11""",200,1992-11-20,23,Skovde,Sweden,N,29,ANA,Anaheim,Ducks,0,0
 ,5918,Friesen,Alex,56,C,"5'9""",186,1991-01-30,25,"St. Catharines, ON",Canada,N,21,VAN,Vancouver,Canucks,0,0
 ,10084,Frk,Martin,91,RW,"6'1""",194,1993-10-05,23,Pelhrimov,Czechoslovakia,Y,3,CAR,Carolina,Hurricanes,2,0
 ,5843,Froese,Byron,56,C,"6'0""",190,1991-03-12,25,"Winkler, MB",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,4507,Frolik,Michael,67,C,"6'1""",198,1988-02-17,28,Kladno,Czechoslovakia,N,23,CGY,Calgary,Flames,9,5
 ,736,Gaborik,Marian,12,LW,"6'1""",204,1982-02-14,34,Trencin,Czechoslovakia,N,28,LAK,Los Angeles,Kings,0,0
 ,5855,Gabriel,Kurtis,63,RW,"6'4""",212,1993-01-01,23,"Newmarket, ON",Canada,N,25,MIN,Minnesota,Wild,0,0
+,4275,Gagner,Sam,89,C,"5'11""",202,1989-10-10,27,"London, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,6,3
+,5127,Galchenyuk,Alex,27,C,"6'1""",196,1994-02-12,22,"Milwaukee, WI",USA,N,14,MTL,Montreal,Canadiens,8,6
 ,5548,Galiev,Stanislav,49,RW,"6'1""",187,1992-01-17,24,Moscow,Russia,N,5,WSH,Washington,Capitals,0,0
+,5149,Gallagher,Brendan,11,RW,"5'9""",178,1992-05-06,24,"Edmonton, AB",Canada,N,14,MTL,Montreal,Canadiens,8,7
+,5079,Garbutt,Ryan,16,C,,190,,,"Winnipeg, MB",Canada,N,29,ANA,Anaheim,Ducks,9,2
+,5006,Gardiner,Jake,51,D,"6'2""",184,1990-07-04,26,"Minnetonka, MN",USA,N,12,TOR,Toronto,Maple Leafs,7,4
+,4562,Garrison,Jason,5,D,"6'2""",218,1984-11-13,31,"White Rock, BC",Canada,N,1,TBL,Tampa Bay,Lightning,7,2
 ,5509,Gaudet,Tyler,32,C,"6'3""",205,1993-04-04,23,"Hamilton, ON",Canada,N,30,ARI,Arizona,Coyotes,0,0
 ,10097,Gaudreau,Frederick,32,C,,,,,,,Y,18,NSH,Nashville,Predators,1,0
+,5383,Gaudreau,Johnny,13,LW,"5'8""",155,1993-08-13,23,"Carney's Point, NJ",USA,N,23,CGY,Calgary,Flames,9,7
+,5847,Gaunce,Brendan,50,LW,"6'2""",207,1994-03-25,22,"Sudbury, ON",Canada,N,21,VAN,Vancouver,Canucks,8,1
 ,3701,Gaustad,Paul,28,C,"6'5""",223,1982-02-03,34,"Fargo, ND",USA,N,18,NSH,Nashville,Predators,0,0
 ,8928,Gauthier,Frederik,54,C,,,,,,,N,12,TOR,Toronto,Maple Leafs,0,0
 ,9647,Gauthier,Julien,,RW,"6'4""",225,1997-10-15,19,"Pointe-aux-Trembles, QB",Canada,Y,3,CAR,Carolina,Hurricanes,0,0
 ,4839,Gazdic,Luke,20,LW,"6'3""",240,1989-06-25,27,"Toronto, ON",Canada,N,24,EDM,Edmonton,Oilers,0,0
-,5221,Gelinas,Eric,44,RW,"6'4""",215,,,"Vanier, ON",Canada,N,22,COL,Colorado,Avalanche,1,0
+,5221,Gelinas,Eric,44,D,"6'4""",215,1991-05-08,25,"Vanier, ON",Canada,N,22,COL,Colorado,Avalanche,2,0
 ,4555,Gerbe,Nathan,14,C,"5'5""",173,1987-07-24,29,"Oxford, MI",USA,N,9,NYR,New York,Rangers,0,0
+,3623,Getzlaf,Ryan,15,C,"6'4""",221,1985-05-10,31,"Regina, SK",Canada,N,29,ANA,Anaheim,Ducks,8,8
 ,5905,Gibson,Christopher,33,G,,,,,,,N,8,NYI,New York,Islanders,0,0
-,5227,Gibson,John,36,G,"6'3""",206,1993-07-14,23,"Pittsburgh, PA",USA,N,29,ANA,Anaheim,Ducks,7,0
+,5227,Gibson,John,36,G,"6'3""",206,1993-07-14,23,"Pittsburgh, PA",USA,N,29,ANA,Anaheim,Ducks,8,0
+,4217,Gilbert,Tom,14,D,"6'2""",206,1983-01-10,33,"Bloomington, MN",USA,N,28,LAK,Los Angeles,Kings,5,3
+,100,Gionta,Brian,12,RW,"5'7""",176,1979-01-18,37,"Rochester, NY",USA,N,15,BUF,Buffalo,Sabres,6,3
 ,4902,Gionta,Stephen,11,C,"5'7""",185,1983-10-09,33,"Rochester, NY",USA,N,7,NJD,New Jersey,Devils,0,0
+,3861,Giordano,Mark,5,D,"6'0""",200,1983-10-03,33,"Toronto, ON",Canada,N,23,CGY,Calgary,Flames,9,5
+,4223,Girardi,Daniel,5,D,"6'1""",203,1984-04-29,32,"Welland, ON",Canada,N,9,NYR,New York,Rangers,5,2
+,5254,Girgensons,Zemgus,28,C,"6'1""",190,1994-01-05,22,Riga,Latvia,N,15,BUF,Buffalo,Sabres,6,2
+,4394,Giroux,Claude,28,RW,"5'11""",172,1988-01-12,28,"Hearst, ON",Canada,N,6,PHI,Philadelphia,Flyers,8,9
 ,4356,Glass,Tanner,15,LW,"6'1""",210,1983-11-29,32,"Regina, SK",Canada,N,9,NYR,New York,Rangers,0,0
+,5268,Glendening,Luke,41,C,"5'11""",195,1989-04-28,27,"Grand Rapids, MI",USA,N,16,DET,Detroit,Red Wings,8,4
 ,5431,Goldobin,Nikolay,82,RW,"5'11""",180,,,Moscow,Russia,N,26,SJS,San Jose,Sharks,0,0
+,4402,Goligoski,Alex,33,D,"5'11""",181,1985-07-30,31,"Grand Rapids, MN",USA,N,30,ARI,Arizona,Coyotes,7,4
 ,5096,Goloubef,Cody,29,D,"6'1""",190,1989-11-30,26,"Oakville, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,111,Gomez,Scott,23,C,"5'11""",200,,,"Anchorage, AK",USA,N,13,OTT,Ottawa,Senators,0,0
 ,5476,Goodrow,Barclay,89,RW,"6'2""",215,1993-02-26,23,"Toronto, ON",Canada,N,26,SJS,San Jose,Sharks,0,0
-,3722,Gorges,Josh,4,D,"6'1""",201,1984-08-14,32,"Kelowna, BC",Canada,N,15,BUF,Buffalo,Sabres,5,0
+,139,Gordon,Boyd,27,C,,200,1983-10-19,33,"Unity, SK",Canada,N,6,PHI,Philadelphia,Flyers,7,1
+,3722,Gorges,Josh,4,D,"6'1""",201,1984-08-14,32,"Kelowna, BC",Canada,N,15,BUF,Buffalo,Sabres,6,0
 ,5131,Gormley,Brandon,46,D,"6'2""",196,1992-02-18,24,"Murray River, PEI",Canada,N,22,COL,Colorado,Avalanche,0,0
+,5440,Gostisbehere,Shayne,53,D,"5'11""",160,,,"Pembroke Pines, FL",USA,N,6,PHI,Philadelphia,Flyers,8,5
 ,5890,Gourde,Yanni,65,C,"5'9""",167,1991-12-15,24,"Saint-Narcisse, QC",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
+,4688,Grabner,Michael,40,RW,"6'1""",186,1987-10-05,29,Villach,Austria,N,9,NYR,New York,Rangers,8,3
 ,4212,Grabovski,Mikhail,84,C,"5'11""",183,1984-01-31,32,Potsdam,Germany,N,8,NYI,New York,Islanders,0,0
 ,4399,Gragnani,Marc-Andre,38,LW,,,,,,,N,7,NJD,New Jersey,Devils,0,0
 ,5374,Granberg,Petter,8,D,"6'3""",200,,,Gallivare,Sweden,N,18,NSH,Nashville,Predators,0,0
+,5338,Granlund,Markus,60,C,"5'11""",185,,,Oulu,Finland,N,21,VAN,Vancouver,Canucks,8,3
+,5126,Granlund,Mikael,64,C,"5'10""",186,1992-02-26,24,Oulu,Finland,N,25,MIN,Minnesota,Wild,8,3
 ,5302,Grant,Alex,47,D,"6'4""",205,,,"Antigonish, NS",Canada,N,30,ARI,Arizona,Coyotes,0,0
-,5172,Grant,Derek,27,C,"6'3""",206,1990-04-20,26,"Abbotsford, BC",Canada,N,15,BUF,Buffalo,Sabres,5,0
+,5172,Grant,Derek,27,C,"6'3""",206,1990-04-20,26,"Abbotsford, BC",Canada,N,15,BUF,Buffalo,Sabres,6,0
 ,5508,Graovac,Tyler,44,C,"6'5""",200,1993-04-27,23,"Brampton, ON",Canada,N,25,MIN,Minnesota,Wild,0,0
 ,5914,Gravel,Kevin,53,D,,,,,,,N,28,LAK,Los Angeles,Kings,0,0
-,4218,Greene,Andy,6,D,"5'11""",190,1982-10-30,33,"Trenton, MI",USA,N,7,NJD,New Jersey,Devils,6,0
+,925,Green,Mike,25,D,"6'1""",207,1985-10-12,31,"Calgary, AB",Canada,N,16,DET,Detroit,Red Wings,8,7
+,4218,Greene,Andy,6,D,"5'11""",190,1982-10-30,33,"Trenton, MI",USA,N,7,NJD,New Jersey,Devils,7,0
 ,3833,Greene,Matt,2,D,"6'3""",232,1983-05-13,33,"Grand Ledge, MI",USA,N,28,LAK,Los Angeles,Kings,2,0
 ,4946,Greening,Colin,38,LW,"6'2""",217,,,"St. John's, NL",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
 ,4351,Greiss,Thomas,1,G,"6'1""",220,1986-01-29,30,Fussen,Germany,N,8,NYI,New York,Islanders,3,0
 ,5862,Grenier,Alexandre,65,RW,"6'5""",200,,,"Laval, QC",Canada,N,21,VAN,Vancouver,Canucks,0,0
-,5462,Griffith,Seth,53,C,"5'9""",192,1993-01-04,23,"Wallaceburg, ON",USA,N,12,TOR,Toronto,Maple Leafs,0,0
+,5462,Griffith,Seth,33,C,"5'9""",192,1993-01-04,23,"Wallaceburg, ON",USA,N,12,TOR,Toronto,Maple Leafs,1,0
+,5108,Grigorenko,Mikhail,25,C,"6'3""",209,1994-05-16,22,Khabarovsk,Russia,N,22,COL,Colorado,Avalanche,6,3
 ,5480,Grimaldi,Rocco,23,C,"5'6""",160,1993-02-08,23,"Anaheim, CA",USA,N,4,FLO,Florida,Panthers,0,0
 ,4146,Grossmann,Niklas,8,D,"6'4""",230,1985-01-22,31,Stockholm,Sweden,N,23,CGY,Calgary,Flames,2,0
 ,5176,Grubauer,Philipp,31,G,"6'1""",184,,,Rosenheim,Germany,N,5,WSH,Washington,Capitals,1,0
-,5171,Gryba,Eric,62,D,"6'4""",222,1988-04-14,28,"Saskatoon, SK",Canada,N,24,EDM,Edmonton,Oilers,5,0
-,5185,Gudas,Radko,3,D,"6'0""",204,,,Prague,Czechoslovakia,N,6,PHI,Philadelphia,Flyers,1,0
+,5171,Gryba,Eric,62,D,"6'4""",222,1988-04-14,28,"Saskatoon, SK",Canada,N,24,EDM,Edmonton,Oilers,6,0
+,5185,Gudas,Radko,3,D,"6'0""",204,,,Prague,Czechoslovakia,N,6,PHI,Philadelphia,Flyers,2,0
+,4988,Gudbranson,Erik,44,D,"6'5""",216,1992-01-07,24,"Ottawa, ON",Canada,N,21,VAN,Vancouver,Canucks,8,1
 ,4256,Guenin,Nate,5,D,"6'2""",210,1982-12-10,33,"Aliquippa, PA",USA,N,22,COL,Colorado,Avalanche,0,0
 ,4729,Gunnarsson,Carl,4,D,"6'2""",196,1986-11-09,29,Orebro,Sweden,N,17,STL,St. Louis,Blues,4,0
 ,4963,Gustafsson,Erik,52,D,,,,,,,N,20,CHI,Chicago,Blackhawks,0,0
 ,4687,Gustavsson,Jonas,50,G,"6'3""",192,1984-10-24,32,Danderyd,Sweden,N,24,EDM,Edmonton,Oilers,1,0
-,203,Hainsey,Ron,65,D,"6'3""",210,1981-03-24,35,"Bolton, CT",USA,N,3,CAR,Carolina,Hurricanes,6,0
-,4235,Halak,Jaroslav,41,G,"5'10""",186,1985-05-13,31,Bratislava,Czechoslovakia,N,8,NYI,New York,Islanders,4,0
+,5038,Hagelin,Carl,62,LW,"5'11""",186,,,Sodertalje,Sweden,N,10,PIT,Pittsburgh,Penguins,8,1
+,203,Hainsey,Ron,65,D,"6'3""",210,1981-03-24,35,"Bolton, CT",USA,N,3,CAR,Carolina,Hurricanes,7,0
+,4235,Halak,Jaroslav,41,G,"5'10""",186,1985-05-13,31,Bratislava,Czechoslovakia,N,8,NYI,New York,Islanders,5,0
+,4790,Haley,Michael,38,C,"5'10""",205,1986-03-30,30,"Guelph, ON",Canada,N,26,SJS,San Jose,Sharks,3,1
 ,4565,Halischuk,Matt,15,RW,"6'0""",180,1988-06-01,28,"Toronto, ON",Canada,N,47,WPJ,Winnipeg,Jets,0,0
+,4846,Hall,Taylor,9,LW,"6'1""",195,1991-11-14,24,"Calgary, AB",Canada,N,7,NJD,New Jersey,Devils,7,7
+,355,Hamhuis,Dan,2,D,"6'1""",209,1982-12-13,33,"Smithers, BC",Canada,N,27,DAL,Dallas,Stars,7,2
+,4994,Hamilton,Dougie,27,D,"6'5""",199,,,"Toronto, ON",Canada,N,23,CGY,Calgary,Flames,9,6
 ,5273,Hamilton,Freddie,25,C,"6'1""",195,,,"Toronto, ON",Canada,N,23,CGY,Calgary,Flames,2,0
-,5335,Hammond,Andrew,30,G,"6'1""",216,1988-02-11,28,"White Rock, BC",Canada,N,13,OTT,Ottawa,Senators,1,0
+,5335,Hammond,Andrew,30,G,"6'1""",216,1988-02-11,28,"White Rock, BC",Canada,N,13,OTT,Ottawa,Senators,2,0
+,4915,Hamonic,Travis,3,D,"6'1""",206,1990-08-16,26,"St. Malo, MB",Canada,N,8,NYI,New York,Islanders,8,4
+,5600,Hanifin,Noah,5,D,"6'3""",205,1997-01-25,19,"Boston, MA",USA,N,3,CAR,Carolina,Hurricanes,7,6
 ,8966,Hanley,Joel,71,D,"6'0""",193,1991-06-08,25,"Keswick, ON",Canada,N,14,MTL,Montreal,Canadiens,0,0
 ,5876,Hannikainen,Markus,33,LW,"6'2""",189,1993-03-26,23,Helsinki,Finland,N,19,CBJ,Columbus,Blue Jackets,0,0
+,4320,Hansen,Jannik,36,RW,"6'1""",195,1986-03-15,30,Herlev,Denmark,N,21,VAN,Vancouver,Canucks,8,3
+,4282,Hanzal,Martin,11,C,"6'6""",230,1987-02-20,29,Pisek,Czechoslovakia,N,30,ARI,Arizona,Coyotes,7,3
+,10081,Harper,Shane,38,RW,"5'11""",193,1989-02-01,27,"Valencia, CA",USA,Y,4,FLO,Florida,Panthers,7,3
 ,9056,Harpur,Ben,67,D,,,,,,,N,13,OTT,Ottawa,Senators,0,0
 ,5501,Harrington,Scott,36,D,"6'2""",201,1993-03-10,23,"Kingston, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
+,5522,Hartman,Ryan,38,RW,"5'11""",191,,,"Hilton Head Isl, SC",USA,N,20,CHI,Chicago,Blackhawks,6,2
+,356,Hartnell,Scott,43,LW,"6'2""",210,1982-04-18,34,"Regina, SK",Canada,N,19,CBJ,Columbus,Blue Jackets,7,5
 ,5926,Hathaway,Garnet,64,RW,,,,,,,N,23,CGY,Calgary,Flames,0,0
+,5301,Haula,Erik,56,LW,"5'11""",192,1991-03-23,25,Pori,Finland,N,25,MIN,Minnesota,Wild,4,2
 ,688,Havlat,Martin,29,RW,"6'2""",210,1981-04-19,35,Mlada Boleslav,Czech Republic,N,17,STL,St. Louis,Blues,0,0
 ,5058,Hayes,Jimmy,11,RW,"6'6""",221,1989-11-21,26,"Dorchester, MA",USA,N,11,BOS,Boston,Bruins,7,0
+,5461,Hayes,Kevin,13,RW,"6'5""",225,1992-05-08,24,"Boston, MA",USA,N,9,NYR,New York,Rangers,8,3
+,4685,Hedman,Victor,77,D,"6'6""",233,1990-12-18,25,Ornskoldsvik,Sweden,N,1,TBL,Tampa Bay,Lightning,7,5
 ,10076,Heinen,Danton,43,C,"6'1""",185,1995-06-05,21,"Langley, BC",Canada,Y,11,BOS,Boston,Bruins,5,0
 ,5485,Helgeson,Seth,39,D,"6'4""",220,1990-10-08,26,"Faribault, MN",USA,N,7,NJD,New Jersey,Devils,0,0
 ,5281,Hellberg,Magnus,45,G,"6'5""",200,1991-04-04,25,Uppsala,Sweden,N,9,NYR,New York,Rangers,0,0
-,5873,Hellebuyck,Connor,37,G,"6'4""",207,1993-05-19,23,"Commerce, MI",USA,N,47,WPJ,Winnipeg,Jets,3,0
+,5873,Hellebuyck,Connor,37,G,"6'4""",207,1993-05-19,23,"Commerce, MI",USA,N,47,WPJ,Winnipeg,Jets,4,0
+,4404,Helm,Darren,43,C,"6'0""",192,1987-01-21,29,"Winnipeg, MB",Canada,N,16,DET,Detroit,Red Wings,8,7
 ,392,Hemsky,Ales,83,RW,"6'0""",185,1983-08-13,33,Pardubice,Czech Republic,N,27,DAL,Dallas,Stars,1,0
 ,4639,Hendricks,Matt,23,C,"6'0""",211,1981-06-17,35,"Blaine, MN",USA,N,24,EDM,Edmonton,Oilers,0,0
+,4983,Henrique,Adam,14,C,"6'0""",195,1990-02-06,26,"Brantford, ON",Canada,N,7,NJD,New Jersey,Devils,7,2
+,5255,Hertl,Tomas,48,C,"6'2""",210,1993-11-12,22,Praha,Czechoslovakia,N,26,SJS,San Jose,Sharks,8,5
+,4511,Hickey,Thomas,14,D,"5'11""",190,1989-02-08,27,"Calgary, AB",Canada,N,8,NYI,New York,Islanders,8,2
 ,574,Higgins,Christopher,20,LW,"6'0""",205,1983-06-02,33,"Smithtown, NY",USA,N,21,VAN,Vancouver,Canucks,0,0
 ,4274,Hiller,Jonas,1,G,"6'2""",192,1982-02-12,34,Felben Wellhausen,Switzerland,N,23,CGY,Calgary,Flames,0,0
 ,5841,Hinostroza,Vince,48,C,"5'9""",181,1994-04-03,22,"Bartlett, IL",USA,N,20,CHI,Chicago,Blackhawks,4,0
+,4401,Hjalmarsson,Niklas,4,D,"6'3""",207,1987-06-06,29,Eksjo,Sweden,N,20,CHI,Chicago,Blackhawks,7,2
 ,4553,Hodgson,Cody,11,C,,194,1990-02-18,26,"Toronto, ON",Canada,N,18,NSH,Nashville,Predators,0,0
+,4426,Hoffman,Mike,68,C,"5'11""",176,1989-11-24,26,"Kitchener, ON",Canada,N,13,OTT,Ottawa,Senators,7,4
+,4664,Holden,Nick,22,D,"6'4""",210,1987-05-15,29,"St. Albert, AB",Canada,N,9,NYR,New York,Rangers,8,2
+,4794,Holland,Peter,24,C,"6'2""",194,1991-01-14,25,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,6,1
 ,5874,Holloway,Bud,52,C,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
 ,4863,Holtby,Braden,70,G,"6'2""",203,1989-09-16,27,"Lloydminster, SK",Canada,N,5,WSH,Washington,Capitals,5,0
+,4906,Holzer,Korbinian,5,D,"6'3""",205,,,Munich,Germany,N,29,ANA,Anaheim,Ducks,3,1
 ,393,Horcoff,Shawn,22,C,"6'1""",208,1978-09-17,38,"Trail, BC",Canada,N,29,ANA,Anaheim,Ducks,0,0
+,4523,Hornqvist,Patric,72,RW,"5'11""",189,1987-01-01,29,Sollentuna,Sweden,N,10,PIT,Pittsburgh,Penguins,8,6
+,5233,Horvat,Bo,53,C,"6'0""",206,1995-04-05,21,"London, ON",Canada,N,21,VAN,Vancouver,Canucks,8,3
+,219,Hossa,Marian,81,RW,"6'1""",210,1979-01-12,37,Stara Lubovna,Czechoslovakia,N,20,CHI,Chicago,Blackhawks,7,5
 ,3793,Howard,Jimmy,35,G,"6'0""",218,1984-03-26,32,"Syracuse, NY",USA,N,16,DET,Detroit,Red Wings,2,0
 ,9653,Howden,Brett,,C,"6'2""",193,1998-03-29,18,"Oakbank, MB",Canada,Y,1,TBL,Tampa Bay,Lightning,0,0
 ,5120,Howden,Quinton,42,C,,,,,,,N,4,FLO,Florida,Panthers,0,0
@@ -735,68 +431,127 @@ Date/Time of Update: 2016-10-27 10:01:16 AM,#Player ID,#LastName,#FirstName,#Jer
 ,637,Hudler,Jiri,22,RW,"5'10""",186,1984-01-04,32,Olomouc,Czechoslovakia,N,27,DAL,Dallas,Stars,2,0
 ,5883,Hudon,Charles,54,LW,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
 ,5320,Hunt,Brad,24,D,"5'9""",187,,,"Maple Ridge, BC",Canada,N,24,EDM,Edmonton,Oilers,0,0
-,5366,Hutchinson,Michael,34,G,"6'3""",202,1990-03-02,26,"Barrie, ON",Canada,N,47,WPJ,Winnipeg,Jets,3,0
+,4331,Hunwick,Matt,2,D,"5'11""",190,1985-05-21,31,"Warren, MI",USA,N,12,TOR,Toronto,Maple Leafs,6,1
+,5366,Hutchinson,Michael,34,G,"6'3""",202,1990-03-02,26,"Barrie, ON",Canada,N,47,WPJ,Winnipeg,Jets,4,0
+,5825,Hutton,Ben,27,D,"6'2""",183,1993-04-20,23,"Prescott, ON",Canada,N,21,VAN,Vancouver,Canucks,8,1
 ,5224,Hutton,Carter,40,G,"6'1""",195,1985-12-19,30,"Thunder Bay, ON",Canada,N,17,STL,St. Louis,Blues,2,0
-,5145,Irwin,Matthew,52,D,"6'2""",210,1987-11-29,28,"Brentwood Bay, BC",Canada,N,11,BOS,Boston,Bruins,0,0
+,5562,Hyman,Zach,11,C,"6'0""",197,,,"Toronto, ON",Canada,N,12,TOR,Toronto,Maple Leafs,7,1
+,411,Iginla,Jarome,12,RW,"6'1""",210,1977-07-01,39,"Edmonton, AB",Canada,N,22,COL,Colorado,Avalanche,6,1
+,5145,Irwin,Matthew,52,D,"6'2""",210,1987-11-29,28,"Brentwood Bay, BC",Canada,N,18,NSH,Nashville,Predators,1,0
 ,533,Jackman,Barret,5,D,,203,1981-03-05,35,"Trail, BC",Canada,N,18,NSH,Nashville,Predators,0,0
 ,846,Jackman,Tim,18,RW,"6'2""",225,1981-11-14,34,"Minot, ND",USA,N,29,ANA,Anaheim,Ducks,0,0
+,143,Jagr,Jaromir,68,RW,"6'3""",230,1972-02-15,44,Kladno,Czechoslovakia,N,4,FLO,Florida,Panthers,7,4
 ,5827,Janmark,Mattias,13,C,"6'1""",190,1992-12-08,23,Danderyd,Sweden,N,27,DAL,Dallas,Stars,0,0
+,5352,Jarnkrok,Calle,19,C,"5'11""",156,1991-09-25,25,Gavle,Sweden,N,18,NSH,Nashville,Predators,7,1
 ,10083,Jarry,Tristan,35,G,"6'2""",194,1995-04-29,21,"Surrey, BC",Canada,Y,10,PIT,Pittsburgh,Penguins,0,0
+,5212,Jaskin,Dmitrij,23,RW,"6'2""",196,,,Omsk,Russia,N,17,STL,St. Louis,Blues,6,1
 ,4600,Jeffrey,Dustin,37,C,"5'11""",205,1988-02-27,28,"Sarnia, ON",Canada,N,30,ARI,Arizona,Coyotes,0,0
+,5245,Jenner,Boone,38,C,"6'2""",204,1993-06-15,23,"Dorchester, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,7,1
 ,9654,Johansen,Lucas,,D,"6'1""",174,1997-11-16,18,"Port Moody, BC",Canada,Y,5,WSH,Washington,Capitals,0,0
+,5010,Johansen,Ryan,92,C,"6'3""",203,1992-07-31,24,"Vancouver, BC",Canada,N,18,NSH,Nashville,Predators,7,4
+,4882,Johansson,Marcus,90,C,"6'1""",205,1990-10-06,26,Landskrona,Sweden,N,5,WSH,Washington,Capitals,6,4
+,5573,Johns,Stephen,28,D,"6'3""",229,,,"Ellwood City, PA",USA,N,27,DAL,Dallas,Stars,5,1
 ,4753,Johnson,Chad,31,G,"6'3""",205,,,"Saskatoon, SK",Canada,N,23,CGY,Calgary,Flames,3,0
-,4254,Johnson,Jack,7,D,"6'1""",231,1987-01-13,29,"Indianapolis, IN",USA,N,19,CBJ,Columbus,Blue Jackets,5,0
+,4268,Johnson,Erik,6,D,"6'4""",232,1988-03-21,28,"Bloomington, MN",USA,N,22,COL,Colorado,Avalanche,6,3
+,4254,Johnson,Jack,7,D,"6'1""",231,1987-01-13,29,"Indianapolis, IN",USA,N,19,CBJ,Columbus,Blue Jackets,7,0
+,5187,Johnson,Tyler,9,C,"5'9""",182,1990-07-29,26,"Spokane, WA",USA,N,1,TBL,Tampa Bay,Lightning,7,3
 ,9081,Johnston,Ross,52,LW,"6'4""",225,1994-02-18,22,"Charlottetown, PE",Canada,N,8,NYI,New York,Islanders,0,0
 ,9067,Johnston,Ryan,89,D,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
+,3637,Jokinen,Jussi,36,LW,"5'11""",198,1983-04-01,33,Kalajoki,Finland,N,4,FLO,Florida,Panthers,4,2
+,5472,Jokipakka,Jyrki,3,D,"6'3""",205,,,Tampere,Finland,N,23,CGY,Calgary,Flames,7,4
 ,4355,Jones,David,12,RW,"6'2""",210,,,"Guelph, ON",Canada,N,25,MIN,Minnesota,Wild,0,0
-,5122,Jones,Martin,31,G,"6'4""",185,1990-01-10,26,"Vancouver, BC",Canada,N,26,SJS,San Jose,Sharks,6,0
+,5122,Jones,Martin,31,G,"6'4""",185,1990-01-10,26,"Vancouver, BC",Canada,N,26,SJS,San Jose,Sharks,7,0
 ,9650,Jones,Max,,LW,"6'3""",205,1998-02-17,18,"Rochester, MI",USA,Y,29,ANA,Anaheim,Ducks,0,0
+,5243,Jones,Seth,3,D,"6'4""",205,1994-10-03,22,"Arlington, TX",USA,N,19,CBJ,Columbus,Blue Jackets,7,3
+,5468,Jooris,Josh,86,C,"6'0""",180,1990-07-14,26,"Burlington, ON",Canada,N,9,NYR,New York,Rangers,5,1
 ,4815,Jordan,Michal,47,D,"6'1""",195,1990-07-17,26,Zlin,Czech Republic,N,3,CAR,Carolina,Hurricanes,0,0
+,4893,Josefson,Jacob,16,C,"6'0""",190,1991-03-02,25,Stockholm,Sweden,N,7,NJD,New Jersey,Devils,3,1
+,5042,Josi,Roman,59,D,"6'1""",192,1990-06-01,26,Bern,Switzerland,N,18,NSH,Nashville,Predators,7,4
 ,9636,Jost,Tyson,,C,"5'11""",191,1998-03-17,18,"Kelowna, BC",Canada,Y,22,COL,Colorado,Avalanche,0,0
 ,9631,Juolevi,Olli,,D,"6'3""",179,1998-05-05,18,Helsinki,Finland,Y,21,VAN,Vancouver,Canucks,0,0
 ,5311,Jurco,Tomas,26,RW,"6'1""",203,1992-12-28,23,Kosice,Slovakia,N,16,DET,Detroit,Red Wings,0,0
-,5828,Kalinin,Sergey,51,C,"6'3""",201,1991-03-17,25,Omsk,Russia,N,7,NJD,New Jersey,Devils,2,0
+,4766,Kadri,Nazem,43,C,"6'0""",188,1990-10-06,26,"London, ON",Canada,N,12,TOR,Toronto,Maple Leafs,7,5
+,5828,Kalinin,Sergey,51,C,"6'3""",201,1991-03-17,25,Omsk,Russia,N,7,NJD,New Jersey,Devils,3,0
 ,4920,Kampfer,Steven,3,D,"5'11""",192,1988-09-24,28,"Ann Arbor, MI",USA,N,4,FLO,Florida,Panthers,0,0
 ,4656,Kane,Evander,9,LW,"6'2""",195,1991-08-02,25,"Vancouver, BC",Canada,N,15,BUF,Buffalo,Sabres,1,0
+,4265,Kane,Patrick,88,RW,"5'11""",181,1988-11-19,27,"Buffalo, NY",USA,N,20,CHI,Chicago,Blackhawks,8,9
 ,5428,Kapanen,Kasperi,37,RW,,178,,,Kuopio,Finland,N,12,TOR,Toronto,Maple Leafs,0,0
+,4660,Karlsson,Erik,65,D,"6'0""",180,1990-05-31,26,Landsbro,Sweden,N,13,OTT,Ottawa,Senators,7,8
+,5497,Karlsson,Melker,68,C,"6'0""",180,1990-07-18,26,Lycksele,Sweden,N,26,SJS,San Jose,Sharks,8,1
+,5459,Karlsson,William,25,C,"6'0""",185,,,Marsta,Sweden,N,19,CBJ,Columbus,Blue Jackets,7,2
 ,9076,Kasdorf,Jason,33,G,,,,,,,N,15,BUF,Buffalo,Sabres,0,0
+,5039,Kassian,Zack,44,RW,"6'3""",214,,,"Windsor, ON",Canada,N,24,EDM,Edmonton,Oilers,8,4
 ,5021,Kearns,Bracken,38,C,,,,,,,N,8,NYI,New York,Islanders,0,0
+,3715,Keith,Duncan,2,D,"6'1""",200,1983-07-16,33,"Winnipeg, MB",Canada,N,20,CHI,Chicago,Blackhawks,8,7
 ,9633,Keller,Clayton,,C,"5'10""",168,1998-07-29,18,"Swansea, IL",USA,Y,30,ARI,Arizona,Coyotes,0,0
-,10073,Kempny,Michal,6,D,"6'0""",194,1990-09-08,26,Hodonin,Czechoslovakia,Y,20,CHI,Chicago,Blackhawks,6,0
+,930,Kelly,Chris,22,C,"6'0""",198,1980-11-11,35,"Toronto, ON",Canada,N,13,OTT,Ottawa,Senators,7,2
+,10073,Kempny,Michal,6,D,"6'0""",194,1990-09-08,26,Hodonin,Czechoslovakia,Y,20,CHI,Chicago,Blackhawks,7,0
 ,5807,Kemppainen,Joonas,41,LW,"6'3""",223,1988-04-07,28,Liija,Finland,N,11,BOS,Boston,Bruins,0,0
 ,5517,Kenins,Ronalds,41,LW,"6'0""",201,1991-02-28,25,Riga,Latvia,N,21,VAN,Vancouver,Canucks,0,0
 ,4317,Kennedy,Tyler,48,C,"5'11""",185,,,"Sault Ste. Marie, ON",Canada,N,7,NJD,New Jersey,Devils,0,0
 ,5861,Keranen,Michael,36,LW,,,,,,,N,25,MIN,Minnesota,Wild,0,0
 ,5846,Kero,Tanner,67,C,"6'0""",185,1992-07-24,24,"Southfield, MI",USA,N,20,CHI,Chicago,Blackhawks,0,0
+,787,Kesler,Ryan,17,C,"6'2""",202,1984-08-31,32,"Livonia, MI",USA,N,29,ANA,Anaheim,Ducks,9,4
+,4008,Kessel,Phil,81,RW,,202,1987-10-02,29,"Madison, WI",USA,N,10,PIT,Pittsburgh,Penguins,8,7
 ,5875,Khaira,Jujhar,54,LW,"6'3""",210,1994-08-14,22,"Surrey, BC",Canada,N,24,EDM,Edmonton,Oilers,0,0
 ,5378,Khokhlachev,Alex,76,C,"5'11""",184,1993-09-09,23,Moscow,Russia,N,11,BOS,Boston,Bruins,0,0
 ,4763,Khudobin,Anton,35,G,"5'11""",203,1986-05-07,30,Ust-Kamenogorsk,Russia,N,11,BOS,Boston,Bruins,2,0
+,5165,Killorn,Alex,17,C,"6'2""",205,1989-09-14,27,"Halifax, NS",Canada,N,1,TBL,Tampa Bay,Lightning,7,7
 ,4665,Kindl,Jakub,46,D,"6'3""",216,,,Sumperk,Czechoslovakia,N,4,FLO,Florida,Panthers,0,0
-,5180,Kinkaid,Keith,1,G,"6'2""",190,1989-07-04,27,"Farmingville, NY",USA,N,7,NJD,New Jersey,Devils,0,0
-,3804,Klein,Kevin,8,D,"6'1""",199,1984-12-13,31,"Kitchener, ON",Canada,N,9,NYR,New York,Rangers,4,0
+,4913,King,Dwight,74,LW,"6'4""",232,1989-07-05,27,"Meadowlake, SK",Canada,N,28,LAK,Los Angeles,Kings,7,1
+,5180,Kinkaid,Keith,1,G,"6'2""",190,1989-07-04,27,"Farmingville, NY",USA,N,7,NJD,New Jersey,Devils,1,0
+,5001,Klefbom,Oscar,77,D,"6'3""",210,,,Karlstad,Sweden,N,24,EDM,Edmonton,Oilers,8,2
+,3804,Klein,Kevin,8,D,"6'1""",199,1984-12-13,31,"Kitchener, ON",Canada,N,9,NYR,New York,Rangers,5,0
+,5484,Klingberg,John,3,D,"6'2""",180,1992-08-14,24,Gothenburg,Sweden,N,27,DAL,Dallas,Stars,7,3
 ,4822,Klinkhammer,Rob,12,C,"6'3""",220,1986-08-12,30,"Lethbridge, AB",Canada,N,24,EDM,Edmonton,Oilers,0,0
 ,5340,Knight,Corban,53,C,"6'2""",195,,,"Oliver, BC",Canada,N,4,FLO,Florida,Panthers,0,0
 ,5542,Koekkoek,Slater,29,D,"6'2""",184,,,"Winchester, ON",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
+,3763,Koivu,Mikko,9,C,"6'3""",222,1983-03-12,33,Turku,Finland,N,25,MIN,Minnesota,Wild,8,4
+,5140,Komarov,Leo,47,C,"5'10""",187,1987-01-23,29,Narva,Estonia,N,12,TOR,Toronto,Maple Leafs,7,2
+,5619,Konecny,Travis,11,C,"5'10""",175,1997-03-11,19,"London, ON",Canada,N,6,PHI,Philadelphia,Flyers,8,7
+,4033,Kopitar,Anze,11,C,"6'3""",224,1987-08-24,29,Jesenice,Slovenia,N,28,LAK,Los Angeles,Kings,7,6
+,4425,Korpikoski,Lauri,38,LW,"6'1""",205,1986-07-28,30,Turku,Finland,N,27,DAL,Dallas,Stars,7,2
 ,5887,Korpisalo,Joonas,70,G,,,,,,,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,5931,Kosmachuk,Scott,72,RW,,,,,,,N,47,WPJ,Winnipeg,Jets,0,0
 ,4431,Kostka,Michael,21,D,"6'1""",210,,,"Etobicoke, ON",Canada,N,13,OTT,Ottawa,Senators,0,0
+,5104,Kreider,Chris,20,LW,"6'3""",226,1991-04-30,25,"Boxford, MA",USA,N,9,NYR,New York,Rangers,5,7
+,4224,Krejci,David,46,C,"6'0""",188,1986-04-28,30,Sternberk,Czechoslovakia,N,11,BOS,Boston,Bruins,7,3
 ,819,Kronwall,Niklas,55,D,"6'0""",190,1981-01-12,35,Stockholm,Sweden,N,16,DET,Detroit,Red Wings,0,0
 ,5098,Krug,Torey,47,D,"5'9""",180,1991-04-12,25,"Livonia, MI",USA,N,11,BOS,Boston,Bruins,7,0
+,4823,Kruger,Marcus,16,C,"6'0""",181,1990-05-27,26,Stockholm,Sweden,N,20,CHI,Chicago,Blackhawks,8,2
+,5300,Kucherov,Nikita,86,RW,"5'11""",171,1993-06-17,23,Moscow,Russia,N,1,TBL,Tampa Bay,Lightning,7,7
 ,5168,Kuemper,Darcy,35,G,"6'5""",207,1990-05-05,26,"Saskatoon, SK",Canada,N,25,MIN,Minnesota,Wild,2,0
+,5907,Kuhnhackl,Tom,34,RW,,,,,,,N,10,PIT,Pittsburgh,Penguins,8,1
 ,9053,Kukan,Dean,46,D,"6'2""",198,1993-07-08,23,Volketswil,Czech Republic,N,19,CBJ,Columbus,Blue Jackets,0,0
-,4706,Kulikov,Dmitry,77,D,"6'1""",205,1990-10-29,25,Lipetsk,Russia,N,15,BUF,Buffalo,Sabres,4,0
+,5554,Kulak,Brett,61,D,"6'1""",190,1994-01-06,22,"Edmonton, AB",Canada,N,23,CGY,Calgary,Flames,3,1
+,4549,Kulemin,Nikolai,86,LW,"5'11""",225,1986-07-14,30,Magnitogorsk,Russia,N,8,NYI,New York,Islanders,6,1
+,4706,Kulikov,Dmitry,77,D,"6'1""",205,1990-10-29,26,Lipetsk,Russia,N,15,BUF,Buffalo,Sabres,5,0
 ,9641,Kunin,Luke,,C,"6'0""",193,1997-12-04,18,"Chesterfield, MO",USA,Y,25,MIN,Minnesota,Wild,0,0
+,898,Kunitz,Chris,14,LW,"6'0""",195,1979-09-26,37,"Regina, SK",Canada,N,10,PIT,Pittsburgh,Penguins,8,3
+,5344,Kuznetsov,Evgeny,92,C,"6'0""",172,1992-05-19,24,Chelyabinsk,Russia,N,5,WSH,Washington,Capitals,6,3
 ,5654,Kylington,Oliver,58,D,"6'0""",181,,,Stockholm,Sweden,N,23,CGY,Calgary,Flames,0,0
 ,5137,Lack,Eddie,31,G,"6'4""",187,1988-01-05,28,Norrt?lje,Sweden,N,3,CAR,Carolina,Hurricanes,3,0
+,3658,Ladd,Andrew,16,LW,"6'3""",205,1985-12-12,30,"Maple Ridge, BC",Canada,N,8,NYI,New York,Islanders,8,1
 ,928,Laich,Brooks,23,C,"6'2""",210,,,"Wawota, SK",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,9628,Laine,Patrik,29,RW,"6'4""",206,1998-12-04,17,Tampere,Finland,Y,47,WPJ,Winnipeg,Jets,8,8
+,5018,Lander,Anton,51,C,"6'0""",186,1991-04-24,25,Sundsvall,Sweden,N,24,EDM,Edmonton,Oilers,7,2
+,4986,Landeskog,Gabriel,92,LW,"6'0""",204,1992-11-23,23,Stockholm,Sweden,N,22,COL,Colorado,Avalanche,6,3
+,10160,Lappin,Nick,36,RW,"6'1""",174,1992-11-01,23,"Geneva, IL",USA,Y,7,NJD,New Jersey,Devils,1,0
+,5829,Larkin,Dylan,71,LW,"6'1""",190,1996-07-30,20,"Waterford, MI",USA,N,16,DET,Detroit,Red Wings,8,3
+,4788,Larsen,Philip,63,D,"6'1""",185,1989-12-07,26,Esbjerg,Denmark,N,21,VAN,Vancouver,Canucks,8,3
+,4989,Larsson,Adam,6,D,"6'3""",205,1992-11-12,23,Skelleftea,Sweden,N,24,EDM,Edmonton,Oilers,8,2
 ,5622,Larsson,Jacob,51,D,"6'2""",190,1997-04-29,19,Ljungby,Sweden,Y,29,ANA,Anaheim,Ducks,4,0
+,5174,Larsson,Johan,22,LW,"5'11""",206,1992-07-25,24,Lau,Sweden,N,15,BUF,Buffalo,Sabres,6,2
 ,5250,Latta,Michael,46,C,"6'0""",209,1991-05-25,25,"Kitchener, ON",Canada,N,28,LAK,Los Angeles,Kings,0,0
 ,5139,Laughton,Scott,21,C,"6'1""",177,1994-05-30,22,"Oakville, ON",Canada,N,6,PHI,Philadelphia,Flyers,0,0
 ,5454,Lazar,Curtis,27,C,"6'0""",196,1995-02-02,21,"Salmon Arm, BC",Canada,N,13,OTT,Ottawa,Senators,0,0
 ,443,Lecavalier,Vincent,44,C,"6'4""",215,1980-04-21,36,"Ile Bizard, QC",Canada,N,28,LAK,Los Angeles,Kings,0,0
+,4834,Leddy,Nick,2,D,"6'0""",191,1991-03-20,25,"Eden Prairie, MN",USA,N,8,NYI,New York,Islanders,7,2
+,5199,Lee,Anders,27,C,"6'2""",225,1990-07-03,26,"Edina, MN",USA,N,8,NYI,New York,Islanders,8,1
 ,359,Legwand,David,17,C,"6'2""",205,1980-08-17,36,"Detroit, MI",USA,N,15,BUF,Buffalo,Sabres,0,0
+,10064,Lehkonen,Artturi,62,LW,"6'0""",174,1995-07-04,21,Piikkio,Finland,Y,14,MTL,Montreal,Canadiens,8,3
 ,4867,Lehner,Robin,40,G,"6'5""",225,1991-07-24,25,Gothenburg,Sweden,N,15,BUF,Buffalo,Sabres,4,0
-,5386,Lehtera,Jori,12,C,"6'2""",210,1987-12-23,28,Helsinki,Finland,N,17,STL,St. Louis,Blues,3,0
+,5386,Lehtera,Jori,12,C,"6'2""",210,1987-12-23,28,Helsinki,Finland,N,17,STL,St. Louis,Blues,4,0
 ,994,Lehtonen,Kari,32,G,"6'4""",210,1983-11-16,32,Helsinki,Finland,N,27,DAL,Dallas,Stars,4,0
 ,5857,Leier,Taylor,58,LW,,,,,,,N,6,PHI,Philadelphia,Flyers,0,0
 ,507,Leighton,Michael,49,G,,,,,,,N,20,CHI,Chicago,Blackhawks,0,0
@@ -805,276 +560,522 @@ Date/Time of Update: 2016-10-27 10:01:16 AM,#Player ID,#LastName,#FirstName,#Jer
 ,5399,Lerg,Bryan,11,LW,"5'10""",175,1986-01-20,30,"Livonia, MI",USA,N,26,SJS,San Jose,Sharks,0,0
 ,9057,Lernout,Brett,36,D,,,,,,,N,14,MTL,Montreal,Canadiens,0,0
 ,5258,Lessio,Lucas,53,LW,"6'1""",212,,,"Maple, ON",Canada,N,14,MTL,Montreal,Canadiens,0,0
-,4597,Lewis,Trevor,22,C,"6'1""",199,1987-01-08,29,"Salt Lake City, UT",USA,N,28,LAK,Los Angeles,Kings,6,0
+,4030,Letang,Kris,58,D,"6'0""",201,1987-04-24,29,"Montreal, QC",Canada,N,10,PIT,Pittsburgh,Penguins,4,2
+,4730,Letestu,Mark,55,C,"5'11""",195,1985-02-04,31,"Elk Point, AB",Canada,N,24,EDM,Edmonton,Oilers,8,4
+,4597,Lewis,Trevor,22,C,"6'1""",199,1987-01-08,29,"Salt Lake City, UT",USA,N,28,LAK,Los Angeles,Kings,7,0
+,517,Liles,John-Michael,26,D,"5'10""",185,,,"Indianapolis, IN",USA,N,11,BOS,Boston,Bruins,7,2
 ,4887,Lindback,Anders,29,G,"6'6""",210,,,G?vle,Sweden,N,30,ARI,Arizona,Coyotes,0,0
-,5533,Lindberg,Oscar,24,C,"6'1""",195,1991-10-29,24,Skelleftea,Sweden,N,9,NYR,New York,Rangers,2,0
+,5533,Lindberg,Oscar,24,C,"6'1""",195,1991-10-29,25,Skelleftea,Sweden,N,9,NYR,New York,Rangers,3,0
 ,9054,Lindberg,Tobias,46,RW,,,,,,,N,12,TOR,Toronto,Maple Leafs,0,0
 ,5471,Lindbohm,Petteri,48,D,"6'3""",198,1993-09-23,23,Helsinki,Finland,N,17,STL,St. Louis,Blues,0,0
-,5910,Lindell,Esa,23,D,,,,,,,N,27,DAL,Dallas,Stars,3,0
+,5910,Lindell,Esa,23,D,,,,,,,N,27,DAL,Dallas,Stars,4,0
 ,9072,Lindgren,Charlie,40,G,"6'2""",190,1993-12-18,22,"Lakeville, MN",USA,Y,14,MTL,Montreal,Canadiens,0,0
+,5260,Lindholm,Elias,16,C,"6'1""",192,1994-12-02,21,Boden,Sweden,N,3,CAR,Carolina,Hurricanes,7,1
 ,5228,Lindholm,Hampus,47,D,"6'3""",197,1994-09-20,22,Helsingborg,Sweden,N,29,ANA,Anaheim,Ducks,0,0
 ,5909,Lipon,J.C.,46,LW,"6'0""",180,1993-07-10,23,"Regina, SK",Canada,N,47,WPJ,Winnipeg,Jets,0,0
+,4297,Little,Bryan,18,C,"5'11""",185,1987-11-12,28,"Edmonton, AB",Canada,N,47,WPJ,Winnipeg,Jets,1,1
 ,5920,Loov,Viktor,55,D,,,,,,,N,12,TOR,Toronto,Maple Leafs,0,0
+,4583,Lovejoy,Ben,12,D,"6'2""",205,1984-02-20,32,"Canaan, NH",USA,N,7,NJD,New Jersey,Devils,7,1
+,5456,Lowry,Adam,17,LW,"6'5""",207,1993-03-29,23,"St. Louis, MO",USA,N,47,WPJ,Winnipeg,Jets,8,1
 ,9629,Luc-Dubois,Pierre,,LW,"6'3""",202,1998-02-04,18,"Ste. Agathe-des-Mont, QB",Canada,Y,19,CBJ,Columbus,Blue Jackets,0,0
-,3647,Lundqvist,Henrik,30,G,"6'1""",188,1982-03-02,34,Are,Sweden,N,9,NYR,New York,Rangers,6,0
-,272,Luongo,Roberto,1,G,"6'3""",217,1979-04-04,37,"Montreal, QC",Canada,N,4,FLO,Florida,Panthers,4,0
+,4299,Lucic,Milan,27,LW,"6'4""",220,1988-06-07,28,"Vancouver, BC",Canada,N,24,EDM,Edmonton,Oilers,8,7
+,3647,Lundqvist,Henrik,30,G,"6'1""",188,1982-03-02,34,Are,Sweden,N,9,NYR,New York,Rangers,7,1
+,272,Luongo,Roberto,1,G,"6'3""",217,1979-04-04,37,"Montreal, QC",Canada,N,4,FLO,Florida,Panthers,5,1
 ,63,Lupul,Joffrey,19,LW,"6'1""",206,1983-09-23,33,"Fort Saskatchewan, MB",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
-,10091,Lyubimov,Roman,13,LW,"6'2""",207,1992-01-06,24,Tver,Russia,Y,6,PHI,Philadelphia,Flyers,4,0
-,5259,Maatta,Olli,3,D,"6'2""",206,1994-08-22,22,Jyvasklya,Finland,N,10,PIT,Pittsburgh,Penguins,7,0
+,10091,Lyubimov,Roman,13,LW,"6'2""",207,1992-01-06,24,Tver,Russia,Y,6,PHI,Philadelphia,Flyers,5,0
+,5259,Maatta,Olli,3,D,"6'2""",206,1994-08-22,22,Jyvasklya,Finland,N,10,PIT,Pittsburgh,Penguins,8,0
 ,3631,MacArthur,Clarke,16,LW,"6'0""",191,1985-04-06,31,"Lloydminster, AB",Canada,N,13,OTT,Ottawa,Senators,0,0
+,4630,MacDonald,Andrew,47,D,"6'0""",185,1986-09-07,30,"Judique, NS",Canada,N,6,PHI,Philadelphia,Flyers,8,2
+,879,MacKenzie,Derek,17,C,"5'11""",181,1981-06-11,35,"Sudbury, ON",Canada,N,4,FLO,Florida,Panthers,7,2
+,5231,MacKinnon,Nathan,29,C,"6'0""",182,1995-09-01,21,"Halifax, NS",Canada,N,22,COL,Colorado,Avalanche,6,5
+,5697,Malgin,Denis,62,C,"5'9""",176,1997-01-18,19,Olten,Switzerland,Y,4,FLO,Florida,Panthers,7,1
+,3652,Malkin,Evgeni,71,C,"6'3""",195,1986-07-31,30,Magnitogorsk,Russia,N,10,PIT,Pittsburgh,Penguins,8,8
 ,5048,Malone,Brad,24,C,"6'2""",207,1989-05-20,27,"Miramichi, NB",Canada,N,3,CAR,Carolina,Hurricanes,0,0
+,5087,Manning,Brandon,23,D,"6'1""",195,,,"Prince George, BC",Canada,N,6,PHI,Philadelphia,Flyers,8,5
+,5477,Manson,Josh,42,D,"6'3""",217,,,"Prince Albert, SK",Canada,N,29,ANA,Anaheim,Ducks,9,1
 ,5413,Mantha,Anthony,39,RW,"6'4""",217,,,"Longueuil, QC",Canada,N,16,DET,Detroit,Red Wings,0,0
+,4692,Marchand,Brad,63,LW,"5'9""",183,1988-05-11,28,"Hammonds Plains, NS",Canada,N,11,BOS,Boston,Bruins,7,10
+,5322,Marchenko,Alexey,53,D,"6'3""",210,1992-01-02,24,Moscow,Russia,N,16,DET,Detroit,Red Wings,8,3
+,5473,Marchessault,Jonathan,81,C,"5'8""",184,1990-12-27,25,"Cap-Rouge, QC",Canada,N,4,FLO,Florida,Panthers,7,10
+,5305,Marincin,Martin,52,D,"6'5""",200,1992-02-18,24,Kosice,Czechoslovakia,N,12,TOR,Toronto,Maple Leafs,4,1
+,206,Markov,Andrei,79,D,"6'0""",201,1978-12-20,37,Voskresensk,Russia,N,14,MTL,Montreal,Canadiens,8,4
 ,4874,Markstrom,Jacob,25,G,"6'6""",196,1990-01-31,26,G?vle,Sweden,N,21,VAN,Vancouver,Canucks,4,0
-,4767,Martin,Matthew,15,LW,"6'3""",206,1989-05-08,27,"Windsor, ON",Canada,N,12,TOR,Toronto,Maple Leafs,6,0
+,376,Marleau,Patrick,12,C,"6'2""",220,1979-09-15,37,"Aneroid, SK",Canada,N,26,SJS,San Jose,Sharks,8,3
+,5599,Marner,Mitchell,16,C,"5'11""",160,1997-05-05,19,"Markham, ON",Canada,Y,12,TOR,Toronto,Maple Leafs,7,6
+,4854,Maroon,Patrick,19,LW,"6'3""",230,,,"St. Louis, MO",USA,N,24,EDM,Edmonton,Oilers,8,2
+,4767,Martin,Matthew,15,LW,"6'3""",206,1989-05-08,27,"Windsor, ON",Canada,N,12,TOR,Toronto,Maple Leafs,7,0
+,97,Martin,Paul,7,D,"6'1""",200,1981-03-05,35,"Minneapolis, MN",USA,N,26,SJS,San Jose,Sharks,8,1
+,4512,Martinez,Alec,27,D,"6'1""",206,1987-07-26,29,"Rochester Hills, MI",USA,N,28,LAK,Los Angeles,Kings,7,7
+,5495,Martinook,Jordan,48,LW,"6'0""",202,1992-07-25,24,"Brandon, MB",Canada,N,30,ARI,Arizona,Coyotes,7,5
+,5854,Martinsen,Andreas,27,LW,"6'3""",220,1990-06-13,26,Berum,Norway,N,22,COL,Colorado,Avalanche,6,1
 ,4930,Mashinter,Brandon,53,LW,"6'4""",235,,,"Bradford, ON",Canada,N,20,CHI,Chicago,Blackhawks,0,0
+,4439,Mason,Steve,35,G,"6'4""",217,1988-05-29,28,"Oakville, ON",Canada,N,6,PHI,Philadelphia,Flyers,7,1
+,5921,Matheson,Michael,19,D,,,,,,,N,4,FLO,Florida,Panthers,7,4
 ,1086,Matteau,Stefan,21,LW,"6'2""",220,,,"Chicago, IL",USA,N,14,MTL,Montreal,Canadiens,0,0
+,9627,Matthews,Auston,34,C,"6'2""",210,1997-12-09,18,"Scottsdale, AZ",USA,Y,12,TOR,Toronto,Maple Leafs,7,10
+,4353,Matthias,Shawn,16,C,"6'4""",223,,,"Mississauga, ON",Canada,N,47,WPJ,Winnipeg,Jets,8,3
 ,5364,Mayfield,Scott,42,D,"6'5""",218,1992-12-10,23,"St. Louis, MO",USA,N,8,NYI,New York,Islanders,0,0
 ,5291,Mazanec,Marek,39,G,"6'4""",187,1991-07-18,25,Pisek,Czech Republic,Y,18,NSH,Nashville,Predators,3,0
 ,9640,McAvoy,Charles,,D,"6'0""",208,1997-12-21,18,"Long Beach, NY",USA,Y,11,BOS,Boston,Bruins,0,0
 ,4773,McBain,Jamie,21,D,"6'1""",181,1988-02-25,28,"Edina, MN",USA,N,30,ARI,Arizona,Coyotes,3,0
-,5824,McCann,Jared,90,C,"6'0""",179,1996-05-31,20,"Stratford, ON",Canada,N,4,FLO,Florida,Panthers,6,0
+,5362,McCabe,Jake,29,D,"6'0""",195,1993-10-12,23,"Eau Claire, WI",USA,N,15,BUF,Buffalo,Sabres,6,1
+,5824,McCann,Jared,90,C,"6'0""",179,1996-05-31,20,"Stratford, ON",Canada,N,4,FLO,Florida,Panthers,7,0
 ,5893,McCarron,Michael,34,RW,"6'6""",231,1995-03-07,21,"Macomb Township, MI",USA,N,14,MTL,Montreal,Canadiens,0,0
 ,4755,McCarthy,John,17,LW,"5'11""",195,1986-08-09,30,"Boston, MA",USA,N,26,SJS,San Jose,Sharks,0,0
-,3707,McClement,Jay,18,C,"6'1""",205,1983-03-02,33,"Kingston, ON",Canada,N,3,CAR,Carolina,Hurricanes,6,0
+,3707,McClement,Jay,18,C,"6'1""",205,1983-03-02,33,"Kingston, ON",Canada,N,3,CAR,Carolina,Hurricanes,7,0
 ,5844,McCormick,Max,89,LW,"5'11""",174,1992-05-01,24,"De Pere, WI",USA,N,13,OTT,Ottawa,Senators,0,0
+,5576,McDavid,Connor,97,C,"6'1""",195,1997-01-13,19,"Richmond Hill, ON",Canada,N,24,EDM,Edmonton,Oilers,8,12
+,4852,McDonagh,Ryan,27,D,"6'1""",213,1989-06-13,27,"St. Paul, MN",USA,N,9,NYR,New York,Rangers,8,7
 ,4741,McDonald,Colin,36,RW,"6'3""",210,,,"Wethersfield, CT",USA,N,6,PHI,Philadelphia,Flyers,0,0
 ,4310,McElhinney,Curtis,30,G,"6'2""",193,1983-05-23,33,"London, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,5916,McFarland,John,45,LW,,,,,,,N,4,FLO,Florida,Panthers,0,0
 ,5839,McGinn,Brock,23,LW,"5'11""",172,1994-02-02,22,"Fergus, ON",Canada,N,3,CAR,Carolina,Hurricanes,0,0
+,4564,McGinn,Jamie,88,LW,"6'1""",210,,,"Fergus, ON",Canada,N,30,ARI,Arizona,Coyotes,2,2
 ,5148,McGinn,Tye,44,LW,"6'2""",205,1990-07-29,26,"Fergus, ON",Canada,N,1,TBL,Tampa Bay,Lightning,0,0
 ,5308,McIlrath,Dylan,6,D,"6'5""",230,1992-04-20,24,"Winnipeg, MB",Canada,N,9,NYR,New York,Rangers,1,0
 ,10095,McIntyre,Zane,31,G,"6'2""",206,1992-08-20,24,"Grand Forks, ND",USA,Y,11,BOS,Boston,Bruins,2,0
+,5331,McKegg,Greg,41,C,"6'0""",191,,,"St. Thomas, ON",Canada,N,4,FLO,Florida,Panthers,7,2
+,5470,McKenzie,Curtis,11,LW,"6'2""",210,,,"Golden, BC",Canada,N,27,DAL,Dallas,Stars,5,2
 ,4342,McLeod,Cody,55,LW,"6'2""",210,1984-06-26,32,"Binscarth, MB",Canada,N,22,COL,Colorado,Avalanche,3,0
 ,9638,McLeod,Michael,,C,"6'2""",188,1998-02-03,18,"Mississauga, ON",Canada,Y,7,NJD,New Jersey,Devils,0,0
+,5041,McNabb,Brayden,3,D,"6'4""",208,1991-01-21,25,"Davidson, SK",Canada,N,28,LAK,Los Angeles,Kings,7,2
 ,5114,McNeill,Mark,41,C,,,,,,,N,20,CHI,Chicago,Blackhawks,0,0
 ,4698,McQuaid,Adam,54,D,"6'4""",197,1986-10-12,30,"Charlottetown, PEI",Canada,N,11,BOS,Boston,Bruins,2,0
 ,5818,Medvedev,Evgeny,82,D,"6'3""",198,1982-08-27,34,Chelyabinsk,Russia,N,6,PHI,Philadelphia,Flyers,0,0
-,5279,Megna,Jayson,46,C,"6'1""",195,1990-02-01,26,"Fort Lauderdale, FL",USA,N,21,VAN,Vancouver,Canucks,1,0
+,5279,Megna,Jayson,46,C,"6'1""",195,1990-02-01,26,"Fort Lauderdale, FL",USA,N,21,VAN,Vancouver,Canucks,2,0
 ,5316,Melchiori,Julian,71,D,"6'5""",214,,,"Richmond Hill, ON",Canada,N,47,WPJ,Winnipeg,Jets,0,0
 ,5299,Merrill,Jon,7,D,"6'3""",205,1992-02-03,24,"Oklahama City, OK",USA,N,7,NJD,New Jersey,Devils,0,0
 ,5885,Mersch,Michael,49,C,,,,,,,N,28,LAK,Los Angeles,Kings,0,0
+,4240,Methot,Marc,3,D,"6'3""",231,1985-06-21,31,"Ottawa, ON",Canada,N,13,OTT,Ottawa,Senators,7,2
+,379,Michalek,Milan,18,RW,"6'2""",216,,,Jindrichuv Hradec,Czech Republic,N,12,TOR,Toronto,Maple Leafs,5,2
 ,895,Michalek,Zbynek,4,D,"6'2""",210,1982-12-23,33,Jindrichuv Hradec,Czechoslovakia,N,30,ARI,Arizona,Coyotes,0,0
 ,5023,Miele,Andy,22,C,"5'8""",175,1988-04-15,28,"Grosse Pointe Woods, MI",USA,N,6,PHI,Philadelphia,Flyers,0,0
 ,5436,Milano,Sonny,22,LW,"6'0""",183,,,"Massapequa, NY",USA,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,5402,Miller,Andrew,58,C,"5'10""",178,1988-09-18,28,"Bloomfield Hills, MI",USA,N,24,EDM,Edmonton,Oilers,0,0
+,5563,Miller,Colin,6,D,"6'1""",201,,,"Sault Ste. Marie, ON",Canada,N,11,BOS,Boston,Bruins,7,1
+,4261,Miller,Drew,20,LW,"6'2""",178,1984-02-17,32,"Dover, NJ",USA,N,16,DET,Detroit,Red Wings,8,2
+,5161,Miller,J.T.,10,C,"6'1""",205,1993-03-14,23,"East Palestine, OH",USA,N,9,NYR,New York,Rangers,8,6
 ,5298,Miller,Kevan,86,D,"6'2""",210,1987-11-15,28,"Los Angeles, CA",USA,N,11,BOS,Boston,Bruins,0,0
-,178,Miller,Ryan,30,G,"6'2""",168,1980-07-17,36,"East Lansing, MI",USA,N,21,VAN,Vancouver,Canucks,3,0
-,4550,Mitchell,John,7,C,"6'1""",204,1985-01-22,31,"Oakville, ON",Canada,N,22,COL,Colorado,Avalanche,0,0
+,178,Miller,Ryan,30,G,"6'2""",168,1980-07-17,36,"East Lansing, MI",USA,N,21,VAN,Vancouver,Canucks,4,0
+,4550,Mitchell,John,7,C,"6'1""",204,1985-01-22,31,"Oakville, ON",Canada,N,22,COL,Colorado,Avalanche,1,0
+,4283,Mitchell,Torrey,17,RW,"5'11""",190,1985-01-30,31,"Greenfield Park, QC",Canada,N,14,MTL,Montreal,Canadiens,8,4
 ,1,Mitchell,Willie,33,D,"6'3""",210,1977-04-23,39,"Port Mcneill, BC",Canada,N,4,FLO,Florida,Panthers,0,0
 ,29,Moen,Travis,27,LW,"6'2""",218,1982-04-06,34,"Stewart Valley, SK",Canada,N,27,DAL,Dallas,Stars,0,0
+,5242,Monahan,Sean,23,C,"6'2""",187,1994-10-12,22,"Brampton, ON",Canada,N,23,CGY,Calgary,Flames,9,4
+,4645,Montoya,Al,35,G,"6'2""",203,1985-02-13,31,"Chicago, IL",USA,N,14,MTL,Montreal,Canadiens,4,1
+,733,Moore,Dominic,28,C,"6'0""",192,1980-08-03,36,"Thornhill, ON",Canada,N,11,BOS,Boston,Bruins,7,2
+,4959,Moore,John,2,D,"6'3""",202,,,"Winnetka, IL",USA,N,7,NJD,New Jersey,Devils,7,2
+,5930,Morrissey,Joshua,44,D,,,,,,,N,47,WPJ,Winnipeg,Jets,8,2
 ,5132,Morrow,Joe,45,D,,,,,,,N,11,BOS,Boston,Bruins,2,0
+,10070,Motte,Tyler,64,C,"5'9""",188,1995-03-10,21,"St. Clair, MI",USA,Y,20,CHI,Chicago,Blackhawks,8,4
 ,5529,Mouillierat,Kael,22,LW,"6'0""",188,,,"Edmonton, AB",Canada,N,10,PIT,Pittsburgh,Penguins,0,0
+,4322,Moulson,Matt,26,LW,"6'1""",200,1983-11-01,32,"North York, ON",Canada,N,15,BUF,Buffalo,Sabres,6,4
 ,8958,Mozik,Vojtech,53,D,"6'2""",196,1992-12-26,23,Prague,Czech Republic,N,7,NJD,New Jersey,Devils,0,0
-,5163,Mrazek,Petr,34,G,"6'2""",183,1992-02-14,24,Ostrava,Czech Republic,N,16,DET,Detroit,Red Wings,5,0
+,5163,Mrazek,Petr,34,G,"6'2""",183,1992-02-14,24,Ostrava,Czech Republic,N,16,DET,Detroit,Red Wings,6,0
 ,5446,Mueller,Mirco,41,D,"6'3""",205,1995-03-21,21,Winterthur,Switzerland,N,26,SJS,San Jose,Sharks,0,0
+,5293,Murphy,Connor,5,D,"6'4""",212,1993-03-26,23,"Dublin, OH",USA,N,30,ARI,Arizona,Coyotes,7,3
 ,4996,Murphy,Ryan,7,D,"5'11""",185,1993-03-31,23,"Aurora, ON",Canada,N,3,CAR,Carolina,Hurricanes,0,0
-,5894,Murray,Matthew,30,G,,,,,,,N,10,PIT,Pittsburgh,Penguins,0,0
+,5894,Murray,Matthew,30,G,,,,,,,N,10,PIT,Pittsburgh,Penguins,1,0
 ,5115,Murray,Ryan,27,D,"6'1""",205,1993-09-27,23,"White City, SK",Canada,N,19,CBJ,Columbus,Blue Jackets,2,0
-,4888,Muzzin,Jake,6,D,"6'3""",215,1989-02-21,27,"Woodstock, ON",Canada,N,28,LAK,Los Angeles,Kings,6,0
+,4888,Muzzin,Jake,6,D,"6'3""",215,1989-02-21,27,"Woodstock, ON",Canada,N,28,LAK,Los Angeles,Kings,7,1
+,4659,Myers,Tyler,57,D,"6'8""",219,1990-02-01,26,"Houston, TX",USA,N,47,WPJ,Winnipeg,Jets,8,2
 ,5915,Nakladal,Jakub,14,D,"6'2""",212,1987-12-30,28,Hradec Kr?lov?,Czech Republic,N,3,CAR,Carolina,Hurricanes,2,0
+,5136,Namestnikov,Vladislav,90,C,"5'11""",171,1992-11-22,23,Zhukovskiy,Russia,N,1,TBL,Tampa Bay,Lightning,7,4
+,319,Nash,Rick,61,LW,"6'4""",213,1984-06-16,32,"Brampton, ON",Canada,N,9,NYR,New York,Rangers,8,5
 ,4810,Nash,Riley,20,C,"6'1""",191,1989-05-09,27,"Consort, AB",Canada,N,11,BOS,Boston,Bruins,7,0
+,4501,Neal,James,18,LW,"6'2""",208,1987-09-03,29,"Whitby, ON",Canada,N,18,NSH,Nashville,Predators,7,1
+,221,Neil,Chris,25,RW,"6'1""",215,1979-06-18,37,"Flesherton, ON",Canada,N,13,OTT,Ottawa,Senators,7,1
+,5226,Nelson,Brock,29,C,"6'3""",196,1991-10-15,25,"Warroad, MN",USA,N,8,NYI,New York,Islanders,8,7
 ,9050,Nelson,Casey,34,D,,,,,,,N,15,BUF,Buffalo,Sabres,1,0
-,5361,Nemeth,Patrik,15,D,"6'3""",230,,,Stockholm,Sweden,N,27,DAL,Dallas,Stars,4,0
+,5361,Nemeth,Patrik,15,D,"6'3""",230,,,Stockholm,Sweden,N,27,DAL,Dallas,Stars,5,0
 ,5076,Ness,Aaron,55,D,"5'10""",182,,,"Roseau, MN",USA,N,5,WSH,Washington,Capitals,0,0
-,5510,Nesterov,Nikita,89,D,"6'0""",183,1993-03-28,23,Chelyabinsk,Russia,N,1,TBL,Tampa Bay,Lightning,6,0
+,5510,Nesterov,Nikita,89,D,"6'0""",183,1993-03-28,23,Chelyabinsk,Russia,N,1,TBL,Tampa Bay,Lightning,7,0
+,5407,Nestrasil,Andrej,15,C,"6'2""",210,1991-02-22,25,Prague,Czech Republic,N,3,CAR,Carolina,Hurricanes,3,1
 ,4626,Neuvirth,Michal,30,G,"6'1""",209,,,Usti nad Labem,Czechoslovakia,N,6,PHI,Philadelphia,Flyers,3,0
 ,5247,Nichushkin,Valeri,43,RW,"6'4""",205,1995-03-04,21,Chelyabinsk,Russia,N,27,DAL,Dallas,Stars,0,0
-,4493,Niemi,Antti,31,G,"6'2""",210,1983-08-29,33,Vantaa,Finland,N,27,DAL,Dallas,Stars,3,0
+,4868,Niederreiter,Nino,22,RW,"6'2""",209,1992-08-09,24,Chur,Switzerland,N,25,MIN,Minnesota,Wild,8,4
+,4211,Nielsen,Frans,51,C,"6'1""",180,1984-04-24,32,Herning,Denmark,N,16,DET,Detroit,Red Wings,8,4
+,4493,Niemi,Antti,31,G,"6'2""",210,1983-08-29,33,Vantaa,Finland,N,27,DAL,Dallas,Stars,4,0
 ,5256,Nieto,Matthew,83,LW,"5'11""",190,1992-11-05,23,"Long Beach, CA",USA,N,26,SJS,San Jose,Sharks,5,0
 ,4904,Nikitin,Nikita,86,D,"6'4""",223,1986-06-16,30,Omsk,Russia,N,24,EDM,Edmonton,Oilers,0,0
-,5033,Nilsson,Anders,31,G,"6'5""",227,,,Lulea,Sweden,N,15,BUF,Buffalo,Sabres,1,0
+,5033,Nilsson,Anders,31,G,"6'5""",227,,,Lulea,Sweden,N,15,BUF,Buffalo,Sabres,2,0
+,4300,Niskanen,Matt,2,D,"6'0""",209,1986-12-06,29,"Virginia, MN",USA,N,5,WSH,Washington,Capitals,6,4
 ,5544,Noesen,Stefan,64,RW,"6'2""",205,,,"Plano, TX",USA,N,29,ANA,Anaheim,Ducks,0,0
 ,5077,Nolan,Jordan,71,C,"6'3""",225,1989-06-23,27,"St. Catherines, ON",Canada,N,28,LAK,Los Angeles,Kings,3,0
+,5251,Nordstrom,Joakim,42,C,"6'1""",160,1992-02-25,24,Stockholm,Sweden,N,3,CAR,Carolina,Hurricanes,7,2
 ,5896,Nosek,Tomas,83,LW,,,,,,,N,16,DET,Detroit,Red Wings,0,0
-,5784,Nutivaara,Markus,65,D,"6'1""",185,1994-06-06,22,Oulu,Finland,Y,19,CBJ,Columbus,Blue Jackets,5,0
+,4993,Nugent-Hopkins,Ryan,93,C,"6'1""",185,1993-04-12,23,"Burnaby, BC",Canada,N,24,EDM,Edmonton,Oilers,8,4
+,5464,Nurse,Darnell,25,D,"6'4""",205,1995-02-04,21,"Hamilton, ON",Canada,N,24,EDM,Edmonton,Oilers,8,3
+,5784,Nutivaara,Markus,65,D,"6'1""",185,1994-06-06,22,Oulu,Finland,Y,19,CBJ,Columbus,Blue Jackets,7,0
 ,9634,Nylander,Alexander,,LW,"6'1""",179,1998-03-02,18,Sodertalje,Sweden,Y,15,BUF,Buffalo,Sabres,0,0
+,5418,Nylander,William,29,C,"6'0""",190,,,"Calgary, AB",Canada,Y,12,TOR,Toronto,Maple Leafs,7,9
+,5026,Nyquist,Gustav,14,C,"5'11""",185,1989-09-01,27,Halmstad,Sweden,N,16,DET,Detroit,Red Wings,8,8
 ,3688,Nystrom,Eric,24,LW,"6'1""",193,,,"Syosset, NY",USA,N,18,NSH,Nashville,Predators,0,0
 ,4932,O'Brien,Jim,36,C,"6'3""",195,1989-01-29,27,"Maplewood, MN",USA,N,7,NJD,New Jersey,Devils,0,0
 ,5816,O'Connor,Matt,29,G,"6'5""",205,,,"Toronto, ON",Canada,N,13,OTT,Ottawa,Senators,0,0
+,4031,Oduya,Johnny,47,D,"6'0""",190,1981-10-01,35,Stockholm,Sweden,N,27,DAL,Dallas,Stars,7,2
 ,5531,Oesterle,Jordan,82,D,"6'0""",182,,,"Dearborn Heights, MI",USA,N,24,EDM,Edmonton,Oilers,0,0
 ,10078,O'Gara,Rob,44,D,"6'4""",27,1993-06-06,23,"Massapequa, NY",USA,Y,11,BOS,Boston,Bruins,3,0
+,4406,Okposo,Kyle,21,RW,"6'0""",212,1988-04-16,28,"St. Paul, MN",USA,N,15,BUF,Buffalo,Sabres,5,4
 ,5156,Oleksiak,Jamie,5,D,"6'7""",250,1992-12-21,23,"Toronto, ON",Canada,N,27,DAL,Dallas,Stars,2,0
 ,5865,Olofsson,Gustav,23,D,,,,,,,N,25,MIN,Minnesota,Wild,0,0
 ,5060,Olsen,Dylan,34,D,"6'2""",223,1991-01-03,25,"Salt Lake City, UT",USA,N,4,FLO,Florida,Panthers,0,0
 ,5832,O'Neill,Brian,18,RW,"5'9""",175,1988-06-01,28,"Yardley, PA",USA,N,7,NJD,New Jersey,Devils,0,0
 ,4631,O'Reilly,Cal,19,C,"6'0""",188,1986-09-30,30,"Toronto, ON",Canada,N,15,BUF,Buffalo,Sabres,0,0
+,4703,O'Reilly,Ryan,90,LW,,200,1991-02-07,25,"Clinton, ON",Canada,N,15,BUF,Buffalo,Sabres,6,6
+,5036,Orlov,Dmitry,9,D,"6'0""",210,1991-07-23,25,Novokuznetsk,Russia,N,5,WSH,Washington,Capitals,6,2
+,479,Orpik,Brooks,44,D,"6'2""",219,1980-09-26,36,"San Francisco, CA",USA,N,5,WSH,Washington,Capitals,6,2
 ,5337,Ortio,Joni,37,G,"6'1""",185,1991-04-16,25,Turku,Finland,N,23,CGY,Calgary,Flames,0,0
+,4547,Oshie,T.J.,77,RW,"5'11""",189,1986-12-23,29,"Everett, WA",USA,N,5,WSH,Washington,Capitals,6,2
+,71,Ott,Steve,29,C,"6'0""",189,1982-08-19,34,"Summerside, PEI",Canada,N,16,DET,Detroit,Red Wings,5,1
+,5272,Ouellet,Xavier,61,D,"6'1""",200,,,Bayonne,France,N,16,DET,Detroit,Red Wings,4,1
+,3495,Ovechkin,Alex,8,LW,"6'3""",230,1985-09-17,31,Moscow,Russia,N,5,WSH,Washington,Capitals,6,5
+,4865,Paajarvi,Magnus,56,LW,"6'3""",208,,,Norrkoping,Sweden,N,17,STL,St. Louis,Blues,3,1
+,4603,Pacioretty,Max,67,LW,"6'2""",217,1988-11-20,27,"New Canaan, CT",USA,N,14,MTL,Montreal,Canadiens,8,7
+,5207,Pageau,Jean-Gabriel,44,C,"5'9""",175,1992-11-11,23,Ottawa,Canada,N,13,OTT,Ottawa,Senators,7,2
 ,3825,Paille,Daniel,12,LW,"6'0""",200,,,"Welland, ON",Canada,N,9,NYR,New York,Rangers,0,0
 ,5483,Pakarinen,Iiro,26,RW,"6'1""",215,1991-08-25,25,Loviisa,Finland,N,24,EDM,Edmonton,Oilers,0,0
+,5178,Palat,Ondrej,18,LW,"6'0""",180,1991-03-28,25,Frydek-Mistek,Czechoslovakia,N,1,TBL,Tampa Bay,Lightning,7,4
 ,5556,Paliotta,Michael,36,D,"6'3""",207,,,"Westport, CT",USA,N,19,CBJ,Columbus,Blue Jackets,0,0
+,4796,Palmieri,Kyle,21,RW,"5'11""",195,1991-02-01,25,"Smithtown, NY",USA,N,7,NJD,New Jersey,Devils,7,4
+,5811,Panarin,Artemi,72,LW,"5'11""",170,1991-10-30,24,Korkino,Russia,N,20,CHI,Chicago,Blackhawks,8,7
+,5167,Panik,Richard,14,RW,"6'1""",208,,,Martin,Slovakia,N,20,CHI,Chicago,Blackhawks,8,9
+,5370,Paquette,Cedric,13,C,"6'1""",198,1993-08-13,23,"Gaspe, QC",Canada,N,1,TBL,Tampa Bay,Lightning,7,2
+,5826,Parayko,Colton,55,D,"6'5""",214,1993-05-12,23,"St. Albert, AB",Canada,N,17,STL,St. Louis,Blues,8,3
 ,4433,Pardy,Adam,6,D,"6'4""",220,,,"Bonavista, NL",Canada,N,24,EDM,Edmonton,Oilers,0,0
+,4231,Parenteau,Pierre-Alexandre,11,RW,"6'0""",193,1983-03-24,33,"Hull, QC",Canada,N,7,NJD,New Jersey,Devils,7,4
+,3502,Parise,Zach,11,LW,"5'11""",197,1984-07-28,32,"Minneapolis, MN",USA,N,25,MIN,Minnesota,Wild,8,6
+,5437,Pastrnak,David,88,RW,"6'0""",167,1996-05-25,20,Havirov,Czech Republic,N,11,BOS,Boston,Bruins,7,8
+,5184,Pateryn,Greg,8,D,"6'2""",214,1990-06-20,26,"Sterling Heights, MI",USA,N,14,MTL,Montreal,Canadiens,6,2
 ,5919,Paul,Nick,13,RW,,,,,,,N,13,OTT,Ottawa,Senators,0,0
 ,4321,Pavelec,Ondrej,31,G,"6'3""",220,1987-08-31,29,Kladno,Czechoslovakia,N,47,WPJ,Winnipeg,Jets,0,0
+,4136,Pavelski,Joe,8,C,"5'11""",190,1984-07-11,32,"Plover, WI",USA,N,26,SJS,San Jose,Sharks,8,9
+,5292,Pearson,Tanner,70,LW,"6'0""",193,1992-08-10,24,"Kitchener, ON",Canada,N,28,LAK,Los Angeles,Kings,5,6
 ,5879,Pedan,Andrey,29,D,"6'5""",213,1993-07-03,23,Kaunas,Lithuania,N,21,VAN,Vancouver,Canucks,0,0
 ,5856,Pelech,Adam,50,D,"6'3""",210,1994-08-16,22,"Toronto, ON",Canada,N,8,NYI,New York,Islanders,0,0
 ,5166,Peluso,Anthony,14,RW,"6'3""",235,1989-04-18,27,"North York, ON",Canada,N,47,WPJ,Winnipeg,Jets,0,0
 ,5443,Percy,Stuart,50,D,"6'1""",187,,,"Oakville, ON",Canada,N,12,TOR,Toronto,Maple Leafs,0,0
+,4720,Perreault,Mathieu,85,C,"5'10""",185,1988-01-05,28,"Drummondville, QC",Canada,N,47,WPJ,Winnipeg,Jets,8,3
+,4307,Perron,David,57,LW,"6'0""",205,,,"Sherbrooke, QC",Canada,N,17,STL,St. Louis,Blues,8,4
+,3626,Perry,Corey,10,RW,"6'3""",212,1985-05-16,31,"Peterborough, ON",Canada,N,29,ANA,Anaheim,Ducks,9,6
+,5845,Pesce,Brett,22,D,"6'3""",200,1994-11-15,21,"Tarrytown, NY",USA,N,3,CAR,Carolina,Hurricanes,7,2
 ,5430,Petan,Nicolas,19,C,"5'9""",165,1995-03-22,21,"Delta, BC",Canada,N,47,WPJ,Winnipeg,Jets,0,0
 ,4764,Peters,Justin,40,G,"6'1""",210,1986-08-30,30,"Blyth, ON",Canada,N,30,ARI,Arizona,Coyotes,2,0
-,3661,Phaneuf,Dion,2,D,"6'3""",214,,,"Edmonton, AB",Canada,N,13,OTT,Ottawa,Senators,6,0
+,5213,Petrovic,Alex,6,D,"6'4""",206,1992-03-03,24,"Edmonton, AB",Canada,N,4,FLO,Florida,Panthers,7,2
+,4929,Petry,Jeff,26,D,"6'3""",195,1987-12-09,28,"Ann Arbor, MI",USA,N,14,MTL,Montreal,Canadiens,7,6
+,3661,Phaneuf,Dion,2,D,"6'3""",214,,,"Edmonton, AB",Canada,N,13,OTT,Ottawa,Senators,7,1
 ,5467,Pickard,Calvin,31,G,"6'1""",200,,,"Moncton, NB",Canada,N,22,COL,Colorado,Avalanche,1,0
 ,9048,Pietila,Blake,56,LW,,,,,,,N,7,NJD,New Jersey,Devils,0,0
+,4548,Pietrangelo,Alex,27,D,"6'3""",201,1990-01-18,26,"King City, ON",Canada,N,17,STL,St. Louis,Blues,8,4
+,4828,Pirri,Brandon,73,C,"6'3""",183,,,"Toronto, ON",Canada,N,9,NYR,New York,Rangers,8,6
+,5274,Pitlick,Tyler,15,RW,"6'2""",192,1991-11-01,24,"Minneapolis, MN",USA,Y,24,EDM,Edmonton,Oilers,8,3
+,864,Plekanec,Tomas,14,C,"5'11""",196,1982-10-31,33,Kladno,Czechoslovakia,N,14,MTL,Montreal,Canadiens,8,3
 ,5820,Plotnikov,Sergei,61,C,"6'2""",203,,,Komeomolsk-na-Amure,Russia,N,30,ARI,Arizona,Coyotes,0,0
+,10079,Point,Brayden,21,C,"5'10""",166,1996-03-13,20,"Calgary, AB",Canada,Y,1,TBL,Tampa Bay,Lightning,7,3
 ,5532,Poirier,Emile,28,LW,"6'1""",185,,,"Montreal, QC",Canada,N,23,CGY,Calgary,Flames,0,0
+,4052,Polak,Roman,46,D,"6'0""",236,,,Ostrava,Czech Republic,N,12,TOR,Toronto,Maple Leafs,4,1
+,855,Pominville,Jason,29,RW,"6'0""",185,1982-11-30,33,"Repentigny, QC",Canada,N,25,MIN,Minnesota,Wild,8,3
 ,4557,Porter,Chris,7,LW,"6'1""",206,1984-05-29,32,"Toronto, ON",Canada,N,25,MIN,Minnesota,Wild,0,0
 ,4539,Porter,Kevin,11,C,"5'9""",191,1986-03-12,30,"Detroit, MI",USA,N,10,PIT,Pittsburgh,Penguins,0,0
 ,4967,Postma,Paul,4,D,"6'3""",195,1989-02-22,27,"Red Deer, AB",Canada,N,47,WPJ,Winnipeg,Jets,5,0
 ,4467,Potter,Corey,,D,"6'3""",204,1984-01-05,32,"Lansing, MI",USA,N,18,NSH,Nashville,Predators,0,0
+,3694,Pouliot,Benoit,67,LW,"6'3""",197,1986-09-29,30,"Alfred, ON",Canada,N,24,EDM,Edmonton,Oilers,8,4
 ,5502,Pouliot,Derrick,51,D,"6'0""",208,,,"Estevan, SK",Canada,N,10,PIT,Pittsburgh,Penguins,1,0
-,4294,Price,Carey,31,G,"6'3""",212,1987-08-16,29,"Anahim Lake, BC",Canada,N,14,MTL,Montreal,Canadiens,3,0
-,5523,Prince,Shane,11,C,"5'11""",190,1992-11-16,23,"Rochester, NY",USA,N,8,NYI,New York,Islanders,2,0
-,4785,Prosser,Nate,39,D,"6'2""",203,,,"Elk River, MN",USA,N,25,MIN,Minnesota,Wild,3,0
-,5094,Prout,Dalton,47,D,"6'3""",219,1990-03-13,26,"LaSalle, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,3,0
+,4294,Price,Carey,31,G,"6'3""",212,1987-08-16,29,"Anahim Lake, BC",Canada,N,14,MTL,Montreal,Canadiens,4,0
+,5523,Prince,Shane,11,C,"5'11""",190,1992-11-16,23,"Rochester, NY",USA,N,8,NYI,New York,Islanders,3,2
+,4785,Prosser,Nate,39,D,"6'2""",203,,,"Elk River, MN",USA,N,25,MIN,Minnesota,Wild,4,1
+,5094,Prout,Dalton,47,D,"6'3""",219,1990-03-13,26,"LaSalle, ON",Canada,N,19,CBJ,Columbus,Blue Jackets,5,0
+,5602,Provorov,Ivan,9,D,"6'1""",201,1997-01-13,19,Yaroslavl,Russia,Y,6,PHI,Philadelphia,Flyers,8,5
 ,4097,Prust,Brandon,9,LW,"6'2""",195,1984-03-16,32,"London, ON",Canada,N,21,VAN,Vancouver,Canucks,0,0
-,5530,Puempel,Matt,26,LW,"6'1""",205,1993-01-24,23,"Windsor, ON",Canada,N,13,OTT,Ottawa,Senators,2,0
+,5530,Puempel,Matt,26,LW,"6'1""",205,1993-01-24,23,"Windsor, ON",Canada,N,13,OTT,Ottawa,Senators,3,0
+,9630,Puljujarvi,Jesse,98,RW,"6'4""",203,1998-05-07,18,,,Y,24,EDM,Edmonton,Oilers,6,2
+,5346,Pulkkinen,Teemu,17,LW,"5'11""",183,1992-01-02,24,Vantaa,Finland,N,25,MIN,Minnesota,Wild,8,1
 ,5815,Pulock,Ryan,6,D,"6'1""",211,,,"Grandview, MB",Canada,N,8,NYI,New York,Islanders,1,0
 ,4357,Purcell,Teddy,9,RW,"6'3""",203,,,"St. John's, NL",Canada,N,28,LAK,Los Angeles,Kings,2,0
+,4722,Pyatt,Tom,10,LW,"5'11""",188,1987-02-14,29,"Thunder Bay, ON",Canada,Y,13,OTT,Ottawa,Senators,7,3
+,5192,Pysyk,Mark,13,D,"6'1""",200,1992-01-11,24,"Sherwood Park, AB",Canada,N,4,FLO,Florida,Panthers,7,1
 ,4333,Quick,Jonathan,32,G,"6'1""",220,1986-01-21,30,"Milford, CT",USA,N,28,LAK,Los Angeles,Kings,1,0
-,3784,Quincey,Kyle,22,D,"6'2""",207,1985-08-12,31,"Kitchener, ON",Canada,N,7,NJD,New Jersey,Devils,6,0
+,3784,Quincey,Kyle,22,D,"6'2""",207,1985-08-12,31,"Kitchener, ON",Canada,N,7,NJD,New Jersey,Devils,7,0
+,9080,Quine,Alan,10,C,,,,,,,N,8,NYI,New York,Islanders,6,1
+,5296,Raanta,Antti,32,G,,182,,,Rauma,Finland,N,9,NYR,New York,Rangers,2,1
+,4100,Radulov,Alexander,47,RW,"6'1""",200,1986-07-05,30,Nizhny Tagil,Russia,N,14,MTL,Montreal,Canadiens,8,5
+,5267,Raffl,Michael,12,LW,"6'0""",195,1988-12-01,27,Villach,Austria,N,6,PHI,Philadelphia,Flyers,3,1
 ,5144,Rakell,Rickard,67,RW,"6'1""",191,1993-05-05,23,Sundbyberg,Sweden,N,29,ANA,Anaheim,Ducks,0,0
 ,5553,Ramage,John,55,D,,200,,,"Mississauga, ON",USA,N,19,CBJ,Columbus,Blue Jackets,0,0
 ,4147,Ramo,Karri,31,G,"6'2""",201,1986-07-01,30,Asikkala,Finland,N,23,CGY,Calgary,Flames,0,0
 ,5837,Randell,Tyler,64,RW,"6'1""",191,,,"Brampton, ON",USA,N,11,BOS,Boston,Bruins,0,0
-,5605,Rantanen,Mikko,96,RW,"6'4""",211,1996-10-29,19,Nousiainen,Finland,N,22,COL,Colorado,Avalanche,0,0
+,5605,Rantanen,Mikko,96,RW,"6'4""",211,1996-10-29,20,Nousiainen,Finland,N,22,COL,Colorado,Avalanche,1,0
+,4326,Rask,Tuukka,40,G,"6'2""",185,1987-03-10,29,Savonlinna,Finland,N,11,BOS,Boston,Bruins,3,2
+,5458,Rask,Victor,49,C,"6'2""",200,1993-03-01,23,Leksand,Sweden,N,3,CAR,Carolina,Hurricanes,7,9
+,5882,Rasmussen,Dennis,70,C,,,,,,,N,20,CHI,Chicago,Blackhawks,6,1
 ,5372,Rattie,Ty,18,RW,"6'0""",178,1993-02-05,23,"Calgary, AB",Canada,N,17,STL,St. Louis,Blues,1,0
-,5923,Rau,Kyle,92,C,"5'8""",178,1992-10-24,24,"Hoffman Estates, IL",USA,N,4,FLO,Florida,Panthers,2,0
+,5923,Rau,Kyle,92,C,"5'8""",178,1992-10-24,24,"Hoffman Estates, IL",USA,N,4,FLO,Florida,Panthers,3,0
 ,4301,Raymond,Mason,39,LW,"6'0""",185,1985-09-17,31,"Cochrane, AB",Canada,N,29,ANA,Anaheim,Ducks,4,0
-,4892,Reaves,Ryan,75,RW,"6'1""",224,1987-01-20,29,"Winnipeg, MB",Canada,N,17,STL,St. Louis,Blues,7,0
+,5005,Read,Matt,24,RW,"5'10""",185,1986-06-14,30,"Ilderton, ON",Canada,N,6,PHI,Philadelphia,Flyers,8,5
+,4892,Reaves,Ryan,75,RW,"6'1""",224,1987-01-20,29,"Winnipeg, MB",Canada,N,17,STL,St. Louis,Blues,8,0
 ,5155,Redmond,Zach,22,D,"6'2""",205,,,"Traverse City, MI",USA,N,14,MTL,Montreal,Canadiens,0,0
 ,5574,Regner,Brent,37,C,"5'11""",189,,,"Westlock, AB",Canada,N,4,FLO,Florida,Panthers,0,0
 ,5814,Reilly,Mike,4,D,"6'2""",196,,,"Chicago, IL",USA,N,25,MIN,Minnesota,Wild,2,0
 ,4862,Reimer,James,34,G,"6'2""",208,,,"Morweena, MB",Canada,N,4,FLO,Florida,Panthers,2,0
 ,5129,Reinhart,Griffin,8,D,"6'4""",217,1994-01-24,22,"North Vancouver, BC",Canada,N,24,EDM,Edmonton,Oilers,0,0
+,5416,Reinhart,Sam,23,C,"6'1""",185,1995-11-06,20,"North Vancouver, BC",Canada,N,15,BUF,Buffalo,Sabres,6,2
 ,5496,Rendulic,Borna,71,RW,"6'2""",200,1992-03-25,24,Zagreb,Croatia,N,22,COL,Colorado,Avalanche,0,0
+,440,Ribeiro,Mike,63,C,"6'0""",177,1980-02-10,36,"Montreal, QC",Canada,N,18,NSH,Nashville,Predators,7,4
 ,444,Richards,Brad,17,C,"6'0""",196,1980-05-02,36,"Murray Harbour, PE",Canada,N,16,DET,Detroit,Red Wings,0,0
 ,3489,Richards,Mike,10,C,"5'11""",200,,,"Kenora, ON",Canada,N,5,WSH,Washington,Capitals,0,0
+,3789,Richardson,Brad,15,RW,"6'0""",197,1985-02-04,31,"Belleville, ON",Canada,N,30,ARI,Arizona,Coyotes,7,6
+,5482,Rieder,Tobias,8,C,"5'11""",185,1993-01-10,23,Landshut,Germany,N,30,ARI,Arizona,Coyotes,7,3
+,5261,Rielly,Morgan,44,D,"6'1""",205,1994-03-09,22,"Vancouver, BC",Canada,N,12,TOR,Toronto,Maple Leafs,7,4
 ,4985,Rinaldo,Zac,36,RW,"5'11""",169,1990-06-15,26,"Mississauga, ON",Canada,N,11,BOS,Boston,Bruins,0,0
-,3810,Rinne,Pekka,35,G,"6'5""",204,1982-11-03,33,Kempele,Finland,N,18,NSH,Nashville,Predators,4,0
+,3810,Rinne,Pekka,35,G,"6'5""",204,1982-11-03,33,Kempele,Finland,N,18,NSH,Nashville,Predators,5,0
+,5253,Ristolainen,Rasmus,55,D,"6'4""",207,1994-10-27,22,Turku,Finland,N,15,BUF,Buffalo,Sabres,6,6
+,5511,Ritchie,Brett,25,RW,"6'3""",220,,,"Orangeville, ON",Canada,N,27,DAL,Dallas,Stars,7,3
+,5432,Ritchie,Nick,37,LW,"6'2""",226,,,"Orangeville, ON",Canada,N,29,ANA,Anaheim,Ducks,9,3
 ,9066,Robinson,Buddy,55,RW,,,,,,,N,13,OTT,Ottawa,Senators,0,0
 ,9075,Rodrigues,Evan,71,LW,,,,,,,N,15,BUF,Buffalo,Sabres,0,0
-,1042,Rozsival,Michal,32,D,"6'1""",212,1978-09-03,38,Vlasim,Czechoslovakia,N,20,CHI,Chicago,Blackhawks,1,0
+,5157,Roussel,Antoine,21,LW,"6'0""",180,1989-11-21,26,Roubaix,France,N,27,DAL,Dallas,Stars,7,3
+,1042,Rozsival,Michal,32,D,"6'1""",212,1978-09-03,38,Vlasim,Czechoslovakia,N,20,CHI,Chicago,Blackhawks,2,0
 ,9648,Rubtsov,German,,C,"6'2""",178,1998-06-27,18,Chekhov,Russia,Y,6,PHI,Philadelphia,Flyers,0,0
 ,5209,Ruhwedel,Chad,5,D,"5'11""",181,,,"San Diego, CA",USA,N,15,BUF,Buffalo,Sabres,0,0
 ,4990,Rundblad,David,5,D,"6'2""",195,1990-10-08,26,Lycksele,Sweden,N,20,CHI,Chicago,Blackhawks,0,0
-,5500,Rust,Bryan,17,RW,"5'11""",192,1992-05-11,24,"Pontiac, MI",USA,N,10,PIT,Pittsburgh,Penguins,4,0
+,4295,Russell,Kris,4,D,"5'10""",173,1987-05-02,29,"Caroline, AB",Canada,N,24,EDM,Edmonton,Oilers,8,3
+,5500,Rust,Bryan,17,RW,"5'11""",192,1992-05-11,24,"Pontiac, MI",USA,N,10,PIT,Pittsburgh,Penguins,5,0
 ,31,Ruutu,Tuomo,15,LW,"6'0""",205,1983-02-16,33,Vantaa,Finland,N,7,NJD,New Jersey,Devils,0,0
+,4270,Ryan,Bobby,9,RW,"6'2""",200,1987-03-17,29,"Cherry Hill, NJ",USA,N,13,OTT,Ottawa,Senators,7,4
 ,5810,Ryan,Derek,33,C,"5'10""",170,1986-12-29,29,"Spokane, WA",USA,N,3,CAR,Carolina,Hurricanes,0,0
 ,5489,Rychel,Kerby,21,LW,"6'1""",205,1994-10-07,22,"Torrance, CA",USA,N,12,TOR,Toronto,Maple Leafs,0,0
+,5014,Saad,Brandon,20,LW,"6'1""",202,1992-10-27,24,"Pittsburgh, PA",USA,N,19,CBJ,Columbus,Blue Jackets,7,5
 ,5512,Salomaki,Miikka,20,RW,"5'11""",198,,,Raahe,Finland,N,18,NSH,Nashville,Predators,2,0
 ,5314,Samuelsson,Philip,25,D,"6'2""",194,,,Leksand,Sweden,N,30,ARI,Arizona,Coyotes,0,0
 ,10082,Sanford,Zachary,82,C,"6'3""",185,1994-11-09,21,"Salem, MA",USA,Y,5,WSH,Washington,Capitals,4,0
 ,9078,Santini,Steven,38,D,,,,,,,N,7,NJD,New Jersey,Devils,0,0
 ,4608,Santorelli,Mike,25,C,"6'0""",189,1985-12-14,30,"Vancouver, BC",Canada,N,29,ANA,Anaheim,Ducks,0,0
 ,5877,Saros,Juuse,74,G,"5'10""",179,1995-04-19,21,Forssa,Finland,N,18,NSH,Nashville,Predators,1,0
-,4911,Scandella,Marco,6,D,"6'3""",210,1990-02-23,26,"Montreal, QC",Canada,N,25,MIN,Minnesota,Wild,6,0
-,4552,Schenn,Luke,2,D,"6'2""",229,1989-11-02,26,"Saskatoon, SK",Canada,N,30,ARI,Arizona,Coyotes,6,0
-,4623,Schlemko,David,5,D,"6'1""",190,1987-05-07,29,"Edmonton, AB",Canada,N,26,SJS,San Jose,Sharks,7,0
+,5013,Savard,David,58,D,"6'2""",219,1990-10-22,26,"St. Hyacinthe, QC",Canada,N,19,CBJ,Columbus,Blue Jackets,7,2
+,4535,Sbisa,Luca,5,D,"6'2""",198,1990-01-30,26,Ozieri,Italy,N,21,VAN,Vancouver,Canucks,8,1
+,4911,Scandella,Marco,6,D,"6'3""",210,1990-02-23,26,"Montreal, QC",Canada,N,25,MIN,Minnesota,Wild,7,1
+,4948,Sceviour,Colton,7,C,"6'0""",196,1989-04-20,27,"Red Deer, AB",Canada,N,4,FLO,Florida,Panthers,7,3
+,5488,Schaller,Tim,59,C,"6'2""",206,1990-11-16,25,"Merrimack, NH",USA,N,11,BOS,Boston,Bruins,5,2
+,5003,Scheifele,Mark,55,C,"6'2""",195,1993-03-15,23,"Kitchener, ON",Canada,N,47,WPJ,Winnipeg,Jets,8,8
+,4712,Schenn,Brayden,10,LW,"6'1""",190,1991-08-22,25,"Saskatoon, SK",Canada,N,6,PHI,Philadelphia,Flyers,5,5
+,4552,Schenn,Luke,2,D,"6'2""",229,1989-11-02,26,"Saskatoon, SK",Canada,N,30,ARI,Arizona,Coyotes,7,0
+,4623,Schlemko,David,5,D,"6'1""",190,1987-05-07,29,"Edmonton, AB",Canada,N,26,SJS,San Jose,Sharks,8,2
+,10071,Schmaltz,Nick,8,C,"6'0""",177,1996-02-23,20,"Madison, WI",USA,Y,20,CHI,Chicago,Blackhawks,8,1
+,5269,Schmidt,Nate,88,D,"6'0""",194,1991-07-16,25,"St. Cloud, MN",USA,N,5,WSH,Washington,Capitals,6,1
 ,9074,Schneider,Cole,10,LW,,,,,,,N,15,BUF,Buffalo,Sabres,0,0
 ,4575,Schneider,Cory,35,G,"6'2""",195,1986-03-18,30,"Marblehead, MA",USA,N,7,NJD,New Jersey,Devils,6,0
 ,5150,Schroeder,Jordan,10,C,"5'8""",175,1990-09-29,26,"Lakeville, MN",USA,N,25,MIN,Minnesota,Wild,0,0
 ,4184,Schultz,Jeff,55,D,"6'6""",230,1986-02-25,30,"Calgary, AB",Canada,N,28,LAK,Los Angeles,Kings,0,0
+,5118,Schultz,Justin,4,D,"6'2""",185,,,"Kelowna, BC",Canada,N,10,PIT,Pittsburgh,Penguins,8,2
+,609,Schultz,Nick,55,D,"5'11""",203,1982-08-25,34,"Strasbourg, SK",Canada,N,6,PHI,Philadelphia,Flyers,6,3
+,5088,Schwartz,Jaden,17,LW,"5'10""",190,1992-06-25,24,"Wikcox, SK",Canada,N,17,STL,St. Louis,Blues,4,1
 ,4520,Scott,John,22,LW,"5'8""",259,,,"Edmonton, AB",Canada,N,14,MTL,Montreal,Canadiens,0,0
 ,5027,Scrivens,Ben,40,G,"6'2""",192,,,"Spruce Grove, AB",Canada,N,14,MTL,Montreal,Canadiens,0,0
 ,934,Scuderi,Robert,7,D,"6'1""",216,,,"Syosset, NY",USA,N,28,LAK,Los Angeles,Kings,0,0
-,10094,Sedlak,Luks,45,C,"6'0""",203,1993-02-25,23,Cesk? Budejovice,Czech Republic,Y,19,CBJ,Columbus,Blue Jackets,3,0
+,3634,Seabrook,Brent,7,D,"6'3""",221,1985-04-20,31,"Richmond, BC",Canada,N,20,CHI,Chicago,Blackhawks,8,6
+,438,Sedin,Daniel,22,LW,"6'1""",187,1980-09-26,36,Ornskoldsvik,Sweden,N,21,VAN,Vancouver,Canucks,8,4
+,439,Sedin,Henrik,33,C,"6'2""",188,1980-09-26,36,Ornskoldsvik,Sweden,N,21,VAN,Vancouver,Canucks,8,5
+,10094,Sedlak,Luks,45,C,"6'0""",203,1993-02-25,23,Cesk? Budejovice,Czech Republic,Y,19,CBJ,Columbus,Blue Jackets,5,2
+,4875,Seguin,Tyler,91,C,"6'1""",182,1992-01-31,24,"Brampton, ON",Canada,N,27,DAL,Dallas,Stars,7,7
+,858,Seidenberg,Dennis,4,D,"6'1""",210,1981-07-18,35,Schwenningen,Germany,N,8,NYI,New York,Islanders,8,2
 ,5429,Sekac,Jiri,36,LW,"6'2""",195,,,Kladno,Czech Republic,N,30,ARI,Arizona,Coyotes,0,0
+,4157,Sekera,Andrej,2,D,,201,1986-06-08,30,Bojnice,Czechoslovakia,N,24,EDM,Edmonton,Oilers,8,3
 ,5193,Selleck,Eric,42,LW,"6'2""",208,,,"Brockville, ON",Canada,N,30,ARI,Arizona,Coyotes,0,0
 ,622,Semin,Alexander,13,RW,"6'2""",209,1984-03-03,32,Krasnoyarsk,Russia,N,14,MTL,Montreal,Canadiens,0,0
 ,9635,Sergachev,Mikhail,22,D,"6'3""",215,1998-06-25,18,Nizhnekamsk,Russia,Y,14,MTL,Montreal,Canadiens,3,0
 ,4731,Sestito,Tom,25,LW,"6'5""",228,,,"Rome, NY",USA,N,10,PIT,Pittsburgh,Penguins,5,0
+,4316,Setoguchi,Devin,10,RW,"6'0""",205,1987-01-01,29,"Taber, AB",Canada,N,28,LAK,Los Angeles,Kings,7,2
+,5453,Severson,Damon,28,D,"6'2""",205,1994-08-07,22,"Brandon, MB",Canada,N,7,NJD,New Jersey,Devils,7,4
+,5154,Sgarbossa,Michael,48,C,"5'11""",180,,,"Campbellville, ON",Canada,N,29,ANA,Anaheim,Ducks,4,1
+,838,Sharp,Patrick,10,LW,"6'1""",199,1981-12-27,34,"Winnipeg, MB",Canada,N,27,DAL,Dallas,Stars,4,1
+,4901,Shattenkirk,Kevin,22,D,"5'11""",207,1989-01-29,27,"New Rochelle, NY",USA,N,17,STL,St. Louis,Blues,8,6
+,5061,Shaw,Andrew,65,C,"5'10""",180,1991-07-20,25,"Belleville, ON",Canada,N,14,MTL,Montreal,Canadiens,8,2
 ,5848,Shaw,Logan,48,RW,"6'3""",205,1992-10-05,24,"Glace Bay, NS",Canada,N,4,FLO,Florida,Panthers,0,0
+,5100,Sheahan,Riley,15,C,"6'3""",222,1991-12-07,24,"St. Catherines, ON",Canada,N,16,DET,Detroit,Red Wings,8,1
+,5892,Sheary,Conor,43,LW,"5'8""",174,1992-06-08,24,"Winchester, MA",USA,N,10,PIT,Pittsburgh,Penguins,4,3
 ,5860,Shinkaruk,Hunter,49,C,"5'10""",181,1994-10-13,22,"Calgary, AB",Canada,N,23,CGY,Calgary,Flames,0,0
+,5850,Shore,Devin,17,C,"6'1""",205,1994-07-19,22,"Ajax, ON",Canada,N,27,DAL,Dallas,Stars,7,6
 ,5121,Shore,Drew,22,C,"6'3""",205,,,"Denver, CO",USA,N,23,CGY,Calgary,Flames,0,0
+,5514,Shore,Nick,21,C,"6'1""",188,1992-09-26,24,"Denver, CO",USA,N,28,LAK,Los Angeles,Kings,7,1
 ,5809,Sieloff,Patrick,50,D,"6'1""",200,,,"Ann Arbor, MI",USA,N,23,CGY,Calgary,Flames,0,0
+,5106,Silfverberg,Jakob,33,RW,"6'1""",200,1990-10-13,26,Gavle,Sweden,N,29,ANA,Anaheim,Ducks,9,3
 ,5294,Sill,Zach,23,C,,202,,,"Truro, NS",Canada,N,5,WSH,Washington,Capitals,0,0
+,4514,Simmonds,Wayne,17,RW,"6'2""",183,1988-08-26,28,"Scarborough, ON",Canada,N,6,PHI,Philadelphia,Flyers,8,7
 ,5732,Simon,Dominik,49,C,"5'11""",176,1994-08-08,22,Prague,Czech Republic,N,10,PIT,Pittsburgh,Penguins,0,0
 ,5319,Sislo,Mike,46,RW,"5'11""",195,1988-01-20,28,"Superior, WI",USA,N,7,NJD,New Jersey,Devils,0,0
-,5330,Sissons,Colton,10,C,,,,,,,N,18,NSH,Nashville,Predators,5,0
-,4349,Skille,Jack,9,RW,"5'11""",216,1987-05-19,29,"Madison, WI",USA,N,21,VAN,Vancouver,Canucks,4,0
+,5330,Sissons,Colton,10,C,,,,,,,N,18,NSH,Nashville,Predators,6,0
+,4349,Skille,Jack,9,RW,"5'11""",216,1987-05-19,29,"Madison, WI",USA,N,21,VAN,Vancouver,Canucks,5,0
+,4876,Skinner,Jeff,53,LW,"5'11""",200,1992-05-16,24,"Toronto, ON",Canada,N,3,CAR,Carolina,Hurricanes,6,9
+,5891,Skjei,Brady,76,D,"6'3""",206,1994-03-26,22,"Lakeville, MN",USA,N,9,NYR,New York,Rangers,8,2
+,5866,Slavin,Jaccob,74,D,,,,,,,N,3,CAR,Carolina,Hurricanes,7,2
+,5812,Slepyshev,Anton,42,LW,"6'2""",218,1994-05-13,22,Penza,Russia,N,24,EDM,Edmonton,Oilers,3,1
 ,3627,Smid,Ladislav,15,D,"6'3""",209,1986-02-01,30,Frydlant,Czechoslovakia,N,23,CGY,Calgary,Flames,0,0
-,4829,Smith,Ben,18,RW,"5'11""",198,1988-07-11,28,"Avon, CT",USA,N,12,TOR,Toronto,Maple Leafs,5,0
-,5032,Smith,Brendan,2,D,"6'2""",198,1989-02-08,27,"Toronto, ON",Canada,N,16,DET,Detroit,Red Wings,7,0
-,10096,Smith,Gemel,46,C,"5'10""",190,1994-04-16,22,"Toronto, ON",Canada,Y,27,DAL,Dallas,Stars,2,0
+,4829,Smith,Ben,18,RW,"5'11""",198,1988-07-11,28,"Avon, CT",USA,N,12,TOR,Toronto,Maple Leafs,6,0
+,5032,Smith,Brendan,2,D,"6'2""",198,1989-02-08,27,"Toronto, ON",Canada,N,16,DET,Detroit,Red Wings,8,0
+,5012,Smith,Craig,15,C,"6'1""",202,1989-09-05,27,"Madison, WI",USA,N,18,NSH,Nashville,Predators,6,2
+,10096,Smith,Gemel,46,C,"5'10""",190,1994-04-16,22,"Toronto, ON",Canada,Y,27,DAL,Dallas,Stars,3,0
 ,3486,Smith,Mike,41,G,"6'4""",215,1982-03-22,34,"Kingston, ON",Canada,N,30,ARI,Arizona,Coyotes,2,0
+,5092,Smith,Reilly,18,RW,,185,1991-04-01,25,"Toronto, ON",Canada,N,4,FLO,Florida,Panthers,7,2
 ,4602,Smith,Trevor,23,C,"6'1""",195,1985-02-08,31,"Ottawa, ON",Canada,N,18,NSH,Nashville,Predators,1,0
+,4574,Smith,Zack,15,C,"6'2""",212,1988-04-05,28,"Maple Creek, SK",Canada,N,13,OTT,Ottawa,Senators,7,3
+,5007,Smith-Pelly,Devante,25,RW,"6'0""",225,1992-06-14,24,"Scarborough, ON",Canada,N,7,NJD,New Jersey,Devils,7,2
+,5215,Soderberg,Carl,34,C,"6'3""",216,1985-10-12,31,Malm?,Sweden,N,22,COL,Colorado,Avalanche,6,3
+,10085,Sorensen,Nick,59,RW,"6'1""",182,1994-10-23,22,Farevejle,Denmark,Y,29,ANA,Anaheim,Ducks,5,1
 ,5925,Soshnikov,Nikita,41,RW,"5'11""",185,1993-10-14,23,Nizhny Tagil,Russia,N,12,TOR,Toronto,Maple Leafs,0,0
 ,4749,Spaling,Nick,16,C,"6'1""",201,,,"Palmerston, ON",Canada,N,26,SJS,San Jose,Sharks,0,0
 ,5878,Sparks,Garret,31,G,"6'2""",200,1993-06-28,23,"Elmhurst, IL",USA,N,12,TOR,Toronto,Maple Leafs,0,0
 ,5662,Speers,Blake,74,C,"5'11""",181,1997-01-02,19,"Sault Ste. Marie, ON",Canada,Y,7,NJD,New Jersey,Devils,3,0
+,228,Spezza,Jason,90,C,"6'3""",220,1983-06-13,33,"Toronto, ON",Canada,N,27,DAL,Dallas,Stars,5,3
+,5112,Spooner,Ryan,51,C,"5'11""",181,1992-01-30,24,"Ottawa, ON",Canada,N,11,BOS,Boston,Bruins,6,2
 ,5640,Sprong,Daniel,41,RW,"6'0""",183,1997-03-17,19,Amsterdam,Netherlands,N,10,PIT,Pittsburgh,Penguins,0,0
+,5377,Sproul,Ryan,48,D,"6'4""",206,1993-01-13,23,"Mississauga, ON",USA,Y,16,DET,Detroit,Red Wings,4,2
+,4918,Spurgeon,Jared,46,D,"5'9""",185,1989-11-29,26,"Edmonton, AB",Canada,N,25,MIN,Minnesota,Wild,4,2
+,247,Staal,Eric,12,C,"6'4""",205,,,"Thunder Bay, ON",Canada,N,25,MIN,Minnesota,Wild,8,6
+,4029,Staal,Jordan,11,C,"6'4""",220,1988-09-10,28,"Thunder Bay, ON",Canada,N,3,CAR,Carolina,Hurricanes,7,3
+,4292,Staal,Marc,18,D,"6'4""",207,,,"Thunder Bay, ON",Canada,N,9,NYR,New York,Rangers,8,2
+,4101,Stafford,Drew,12,RW,"6'2""",214,1985-10-30,30,"Milwaukee, WI",USA,N,47,WPJ,Winnipeg,Jets,6,1
+,590,Stajan,Matt,18,C,"6'1""",192,1983-12-19,32,"Mississauga, ON",Canada,N,23,CGY,Calgary,Flames,9,4
+,4690,Stalberg,Viktor,25,LW,"6'3""",209,1986-01-17,30,Gothenburg,Sweden,N,3,CAR,Carolina,Hurricanes,6,1
 ,4947,Stalock,Alex,32,G,"6'0""",190,1987-07-28,29,"St. Paul, MN",USA,N,26,SJS,San Jose,Sharks,0,0
+,4457,Stamkos,Steven,91,C,"6'0""",190,,,"Markham, ON",Canada,N,1,TBL,Tampa Bay,Lightning,7,9
 ,9644,Stanley,Logan,,D,"6'7""",220,1998-05-26,18,"Waterloo, ON",Canada,Y,47,WPJ,Winnipeg,Jets,0,0
 ,4835,Stanton,Ryan,20,D,"6'2""",196,,,"St. Albert, AB",Canada,N,5,WSH,Washington,Capitals,0,0
-,10108,Stecher,Troy,51,D,"5'10""",190,1994-04-07,22,"Richmond, BC",Canada,Y,21,VAN,Vancouver,Canucks,1,0
+,4019,Stastny,Paul,26,C,"6'0""",205,1985-12-27,30,"Quebec City, QC",Canada,N,17,STL,St. Louis,Blues,8,7
+,10108,Stecher,Troy,51,D,"5'10""",190,1994-04-07,22,"Richmond, BC",Canada,Y,21,VAN,Vancouver,Canucks,2,0
 ,9656,Steel,Sam,,C,"5'11""",177,1998-02-03,18,"Sherwood Park, AB",Canada,Y,29,ANA,Anaheim,Ducks,0,0
+,3713,Steen,Alexander,20,LW,"5'11""",212,1984-03-01,32,"Winnipeg, MB",Canada,N,17,STL,St. Louis,Blues,8,7
+,3720,Stempniak,Lee,21,RW,"5'11""",196,,,"West Seneca, NY",USA,N,3,CAR,Carolina,Hurricanes,7,6
+,4885,Stepan,Derek,21,C,"6'0""",196,1990-06-18,26,"Hastings, MN",USA,N,9,NYR,New York,Rangers,8,5
 ,5838,Stephenson,Chandler,18,C,"5'11""",191,1994-04-22,22,"Saskatoon, SK",Canada,N,5,WSH,Washington,Capitals,0,0
+,4579,Stewart,Chris,7,RW,"6'2""",231,1987-10-30,28,"Toronto, ON",Canada,N,25,MIN,Minnesota,Wild,8,5
 ,695,Stoll,Jarret,19,C,"6'1""",212,,,"Melville, SK",Canada,N,25,MIN,Minnesota,Wild,0,0
+,5105,Stone,Mark,61,RW,"6'2""",205,1992-05-13,24,"Winnipeg, MB",Canada,N,13,OTT,Ottawa,Senators,7,5
+,5081,Stone,Michael,26,D,"6'3""",210,1990-06-07,26,"Winnipeg, MA",Canada,N,30,ARI,Arizona,Coyotes,4,3
+,4750,Stoner,Clayton,3,D,"6'4""",216,1985-02-19,31,"Port Mcneill, BC",Canada,N,29,ANA,Anaheim,Ducks,6,2
 ,4595,Strachan,Tyson,28,D,"6'3""",215,,,"Melfort, SK",Canada,N,25,MIN,Minnesota,Wild,0,0
 ,4962,Strait,Brian,37,D,"6'1""",200,1988-01-04,28,"Waltham, MA",USA,N,47,WPJ,Winnipeg,Jets,0,0
+,4311,Stralman,Anton,6,D,"5'11""",190,,,Tibro,Sweden,N,1,TBL,Tampa Bay,Lightning,7,3
 ,5164,Street,Ben,10,C,"5'11""",185,1987-02-13,29,"Coquitlam, BC",Canada,N,22,COL,Colorado,Avalanche,0,0
+,3665,Streit,Mark,32,D,"5'11""",191,1977-12-11,38,Bern,Switzerland,N,6,PHI,Philadelphia,Flyers,8,6
+,5598,Strome,Dylan,20,C,"6'3""",185,1997-03-07,19,"Mississauga, ON",Canada,Y,30,ARI,Arizona,Coyotes,3,1
+,4997,Strome,Ryan,18,C,"6'1""",188,1993-07-11,23,"Mississauga, ON",Canada,N,8,NYI,New York,Islanders,8,5
 ,672,Stuart,Brad,17,D,"6'2""",215,1979-11-06,36,"Rocky Mountain House, AB",Canada,N,22,COL,Colorado,Avalanche,0,0
-,3629,Stuart,Mark,5,D,"6'2""",213,1984-04-27,32,"Rochester, MN",USA,N,47,WPJ,Winnipeg,Jets,2,0
+,3629,Stuart,Mark,5,D,"6'2""",213,1984-04-27,32,"Rochester, MN",USA,N,47,WPJ,Winnipeg,Jets,4,0
 ,5528,Subban,Malcolm,70,G,"6'2""",200,1993-12-21,22,"Toronto, ON",Canada,Y,11,BOS,Boston,Bruins,1,0
+,4671,Subban,P.K.,76,D,"6'0""",217,1989-05-13,27,"Toronto, ON",Canada,N,18,NSH,Nashville,Predators,7,5
 ,4940,Summers,Chris,55,D,"6'2""",209,,,"Ann Arbor, MI",USA,N,9,NYR,New York,Rangers,0,0
 ,5819,Sundqvist,Oskar,40,C,"6'3""",209,,,Boden,Sweden,N,10,PIT,Pittsburgh,Penguins,0,0
+,5195,Sustr,Andrej,62,D,"6'8""",225,1990-11-29,25,Plzen,Czech Republic,N,1,TBL,Tampa Bay,Lightning,7,2
+,3714,Suter,Ryan,20,D,"6'1""",200,1985-01-21,31,"Madison, WI",USA,N,25,MIN,Minnesota,Wild,8,9
+,4490,Sutter,Brandon,20,C,"6'3""",183,1989-02-14,27,"Huntington, NY",USA,N,21,VAN,Vancouver,Canucks,8,5
 ,5466,Sutter,Brody,48,C,"6'5""",203,,,"Viking, AB",Canada,N,3,CAR,Carolina,Hurricanes,0,0
 ,5830,Svedberg,Viktor,43,D,"6'9""",234,1991-05-24,25,Goteborg,Sweden,N,20,CHI,Chicago,Blackhawks,0,0
-,5277,Talbot,Cam,33,G,"6'3""",205,1987-07-05,29,"Caledonia, ON",Canada,N,24,EDM,Edmonton,Oilers,7,0
+,5277,Talbot,Cam,33,G,"6'3""",205,1987-07-05,29,"Caledonia, ON",Canada,N,24,EDM,Edmonton,Oilers,8,0
 ,3710,Talbot,Maxime,25,RW,"5'11""",190,1984-02-11,32,"Lemoyne, QC",Canada,N,11,BOS,Boston,Bruins,0,0
-,9068,Tanev,Brandon,13,LW,,,,,,,N,47,WPJ,Winnipeg,Jets,6,0
+,9068,Tanev,Brandon,13,LW,,,,,,,N,47,WPJ,Winnipeg,Jets,8,0
+,4939,Tanev,Christopher,8,D,"6'2""",185,1989-12-20,26,"Toronto, ON",Canada,N,21,VAN,Vancouver,Canucks,6,1
 ,4792,Tangradi,Eric,49,LW,"6'4""",221,,,"Philadelphia, PA",USA,N,16,DET,Detroit,Red Wings,0,0
 ,526,Tanguay,Alex,40,LW,"6'1""",194,1979-11-21,36,"Ste-Justine, QC",Canada,N,30,ARI,Arizona,Coyotes,0,0
 ,4880,Taormina,Matt,20,D,"5'10""",182,1986-10-20,30,"Warren, MI",USA,N,1,TBL,Tampa Bay,Lightning,0,0
+,5135,Tarasenko,Vladimir,91,RW,"6'0""",219,1991-12-13,24,Yaroslavl,Russia,N,17,STL,St. Louis,Blues,8,8
+,4864,Tatar,Tomas,21,LW,"5'10""",186,1990-12-01,25,Ilava,Czechoslovakia,N,16,DET,Detroit,Red Wings,8,2
+,4680,Tavares,John,91,C,"6'1""",205,1990-09-20,26,"Mississauga, ON",Canada,N,8,NYI,New York,Islanders,8,6
 ,5198,Tennyson,Matt,80,D,"6'2""",205,1990-04-23,26,"Pleasanton, CA",USA,N,26,SJS,San Jose,Sharks,0,0
+,5355,Teravainen,Teuvo,86,C,"5'11""",169,1994-09-11,22,Helsinki,Finland,N,3,CAR,Carolina,Hurricanes,7,3
 ,4813,Terry,Chris,25,LW,"5'10""",195,1989-04-07,27,"Brampton, ON",Canada,N,3,CAR,Carolina,Hurricanes,0,0
+,5900,Theodore,Shea,53,D,,,,,,,N,29,ANA,Anaheim,Ducks,4,1
 ,5175,Thomas,Christian,38,LW,"5'9""",170,,,"Toronto, ON",Canada,N,30,ARI,Arizona,Coyotes,0,0
 ,4072,Thompson,Nate,44,C,"6'0""",212,1984-10-05,32,"Anchorage, AK",USA,N,29,ANA,Anaheim,Ducks,0,0
 ,5906,Thompson,Paul,45,RW,,,,,,,N,7,NJD,New Jersey,Devils,0,0
 ,9652,Thompson,Tage,,C,"6'5""",185,1997-10-30,18,"Oyster Bay, NY",USA,Y,17,STL,St. Louis,Blues,0,0
-,3801,Thorburn,Chris,22,C,"6'3""",230,1983-06-03,33,"Sault Ste. Marie, ON",Canada,N,47,WPJ,Winnipeg,Jets,2,0
+,3801,Thorburn,Chris,22,C,"6'3""",230,1983-06-03,33,"Sault Ste. Marie, ON",Canada,N,47,WPJ,Winnipeg,Jets,4,0
+,82,Thornton,Joe,19,C,"6'4""",220,1979-07-02,37,"London, ON",Canada,N,26,SJS,San Jose,Sharks,8,6
 ,911,Thornton,Shawn,22,LW,"6'2""",217,1977-06-23,39,"Oshawa, ON",Canada,N,4,FLO,Florida,Panthers,0,0
+,5447,Tierney,Chris,50,C,"6'0""",195,1994-07-01,22,"Keswick, ON",Canada,N,26,SJS,San Jose,Sharks,8,1
 ,4540,Tikhonov,Viktor,9,RW,"6'2""",189,1988-05-12,28,Riga,Latvia,N,30,ARI,Arizona,Coyotes,0,0
 ,5189,Tinordi,Jarred,28,D,"6'6""",205,,,"Millersville, MD",USA,N,30,ARI,Arizona,Coyotes,0,0
+,9632,Tkachuk,Matthew,19,LW,"6'1""",195,1997-12-11,18,"Scottsdale, AZ",USA,Y,23,CGY,Calgary,Flames,7,3
 ,4313,Tlusty,Jiri,9,C,"6'0""",209,1988-03-16,28,Slany,Czech Republic,N,7,NJD,New Jersey,Devils,0,0
-,4759,Tokarski,Dustin,35,G,"6'0""",197,1989-09-16,27,"Humboldt, SK",Canada,N,14,MTL,Montreal,Canadiens,0,0
+,4262,Toews,Jonathan,19,C,"6'2""",208,1988-04-29,28,"Winnipeg, MB",Canada,N,20,CHI,Chicago,Blackhawks,8,3
+,5191,Toffoli,Tyler,73,RW,"6'1""",196,1992-04-24,24,"Toronto, ON",Canada,N,28,LAK,Los Angeles,Kings,7,6
+,4759,Tokarski,Dustin,30,G,"6'0""",197,1989-09-16,27,"Humboldt, SK",Canada,N,29,ANA,Anaheim,Ducks,1,0
 ,9055,Tolchinsky,Sergey,61,LW,,,,,,,N,3,CAR,Carolina,Hurricanes,0,0
-,364,Tootoo,Jordin,22,RW,"5'9""",195,1983-02-02,33,"Churchill, MB",Canada,N,20,CHI,Chicago,Blackhawks,7,0
+,364,Tootoo,Jordin,22,RW,"5'9""",195,1983-02-02,33,"Churchill, MB",Canada,N,20,CHI,Chicago,Blackhawks,8,0
 ,5924,Treutle,Niklas,60,G,"6'2""",185,1991-04-29,25,Nuremburg,Germany,N,30,ARI,Arizona,Coyotes,0,0
+,5342,Trocheck,Vincent,21,C,"5'10""",182,1993-07-11,23,"Pittsburgh, PA",USA,N,4,FLO,Florida,Panthers,7,3
 ,5317,Trotman,Zach,62,D,"6'3""",219,1990-08-26,26,"Carmel, IN",USA,N,28,LAK,Los Angeles,Kings,0,0
 ,5232,Trouba,Jacob,8,D,"6'2""",187,1994-02-26,22,Rochester,USA,N,47,WPJ,Winnipeg,Jets,0,0
 ,8911,Tryamkin,Nikita,88,C,,,,,,,N,21,VAN,Vancouver,Canucks,0,0
 ,9651,Tufte,Riley,,LW,"6'5""",205,1998-04-10,18,"Ham Lake, MN",USA,Y,27,DAL,Dallas,Stars,0,0
+,4420,Turris,Kyle,7,C,"6'1""",191,1989-08-14,27,"New Westminster, BC",Canada,N,13,OTT,Ottawa,Senators,7,5
+,936,Tyutin,Fedor,51,D,"6'2""",212,1983-07-19,33,Izhevsk,Russia,N,22,COL,Colorado,Avalanche,4,2
 ,5842,Ullmark,Linus,35,G,"6'3""",198,1993-07-31,23,Lugnvik,Sweden,N,15,BUF,Buffalo,Sabres,0,0
 ,3750,Umberger,R.J.,20,LW,"6'2""",220,1982-05-03,34,"Pittsburgh, PA",USA,N,6,PHI,Philadelphia,Flyers,0,0
+,723,Upshall,Scottie,10,RW,"6'0""",200,,,"Fort McMurray, AB",Canada,N,17,STL,St. Louis,Blues,7,2
 ,8865,Valiev,Ranit,29,D,,,,,,,N,12,TOR,Toronto,Maple Leafs,0,0
+,4969,Vande Velde,Chris,76,C,"6'2""",190,1987-03-15,29,"Moorhead, MN",USA,N,6,PHI,Philadelphia,Flyers,8,1
+,3632,Vanek,Thomas,62,LW,"6'0""",217,1984-01-19,32,Vienna,Austria,N,16,DET,Detroit,Red Wings,7,8
+,4683,van Riemsdyk,James,25,LW,"6'3""",200,1989-05-04,27,"Middletown, NJ",USA,N,12,TOR,Toronto,Maple Leafs,7,5
 ,5460,van Riemsdyk,Trevor,57,D,"6'2""",188,1991-07-24,25,"Middletown, NJ",USA,N,20,CHI,Chicago,Blackhawks,2,0
-,4592,Varlamov,Semyon,1,G,"6'2""",209,1988-04-27,28,Samara,Russia,N,22,COL,Colorado,Avalanche,4,0
+,4592,Varlamov,Semyon,1,G,"6'2""",209,1988-04-27,28,Samara,Russia,N,22,COL,Colorado,Avalanche,5,0
 ,5328,Varone,Philip,81,C,"5'10""",185,,,"Vaughan, ON",Canada,N,13,OTT,Ottawa,Senators,3,0
 ,5420,Vasilevskiy,Andrei,88,G,"6'3""",210,1994-07-25,22,Tyumen,Russia,N,1,TBL,Tampa Bay,Lightning,2,0
+,5158,Vatanen,Sami,45,D,"5'10""",183,1991-06-03,25,Jyvaskyla,Finland,N,29,ANA,Anaheim,Ducks,9,6
 ,5851,Vatrano,Frank,72,C,"5'9""",201,1994-03-14,22,"East Longmeadow, MA",USA,N,11,BOS,Boston,Bruins,0,0
+,231,Vermette,Antoine,50,C,"6'1""",198,1982-07-20,34,"St. Agapit, QC",Canada,N,29,ANA,Anaheim,Ducks,9,3
 ,5864,Vermin,Joel,47,RW,"5'11""",192,1992-02-05,24,Bern,Switzerland,N,1,TBL,Tampa Bay,Lightning,0,0
+,4346,Versteeg,Kris,10,LW,"5'11""",183,1986-05-13,30,"Lethbridge, AB",Canada,N,23,CGY,Calgary,Flames,9,4
+,10062,Vesey,Jimmy,26,LW,"6'2""",201,1993-05-26,23,"Boston, MA",USA,Y,9,NYR,New York,Rangers,8,5
 ,5290,Vey,Linden,7,RW,"6'0""",189,1991-07-17,25,"Wakaw, SK",Canada,N,21,VAN,Vancouver,Canucks,0,0
-,5423,Virtanen,Jake,18,RW,"6'1""",208,1996-08-17,20,"New Westminster, BC",Canada,N,21,VAN,Vancouver,Canucks,5,0
+,5423,Virtanen,Jake,18,RW,"6'1""",208,1996-08-17,20,"New Westminster, BC",Canada,N,21,VAN,Vancouver,Canucks,6,0
 ,4952,Vitale,Joe,14,LW,"5'11""",205,1985-08-20,31,"St. Louis, MO",USA,N,16,DET,Detroit,Red Wings,0,0
-,3500,Ward,Cam,30,G,"6'1""",185,1984-02-29,32,"Saskatoon, SK",Canada,N,3,CAR,Carolina,Hurricanes,3,0
-,5315,Warsofsky,David,5,D,"5'9""",170,1990-05-30,26,"Marshfield, MA",USA,N,10,PIT,Pittsburgh,Penguins,2,0
-,5204,Watson,Austin,51,LW,"6'4""",204,1992-01-13,24,"Ann Arbor, MI",USA,N,18,NSH,Nashville,Predators,2,0
+,4021,Vlasic,Marc-Edouard,44,D,"6'1""",205,1987-03-30,29,"Montreal, QC",Canada,N,26,SJS,San Jose,Sharks,8,3
+,4497,Voracek,Jakub,93,RW,"6'2""",214,1989-08-15,27,Kladno,Czechoslovakia,N,6,PHI,Philadelphia,Flyers,8,8
+,250,Vrbata,Radim,17,RW,"6'1""",194,1981-06-13,35,Mlada Boleslav,Czech Republic,N,30,ARI,Arizona,Coyotes,7,5
+,5469,Wagner,Chris,21,RW,"6'0""",202,,,"Walpole, MA",USA,N,29,ANA,Anaheim,Ducks,9,2
+,3500,Ward,Cam,30,G,"6'1""",185,1984-02-29,32,"Saskatoon, SK",Canada,N,3,CAR,Carolina,Hurricanes,4,0
+,4182,Ward,Joel,42,RW,"6'1""",226,1980-12-02,35,"North York, ON",Canada,N,26,SJS,San Jose,Sharks,8,1
+,5315,Warsofsky,David,5,D,"5'9""",170,1990-05-30,26,"Marshfield, MA",USA,N,10,PIT,Pittsburgh,Penguins,3,0
+,5204,Watson,Austin,51,LW,"6'4""",204,1992-01-13,24,"Ann Arbor, MI",USA,N,18,NSH,Nashville,Predators,3,0
 ,5831,Weal,Jordan,19,RW,"5'9""",179,,,"Saskatoon, SK",Canada,N,6,PHI,Philadelphia,Flyers,0,0
 ,4314,Weber,Mike,6,D,"6'2""",211,,,"Pittsburgh, PA",USA,N,5,WSH,Washington,Capitals,0,0
+,3846,Weber,Shea,6,D,"6'4""",233,1985-08-14,31,"Sicamous, BC",Canada,N,14,MTL,Montreal,Canadiens,8,9
+,4607,Weber,Yannick,7,D,"5'11""",200,1988-09-23,28,Morges,Switzerland,N,18,NSH,Nashville,Predators,6,1
 ,8952,Wedgewood,Scott,31,G,,,,,,,N,7,NJD,New Jersey,Devils,0,0
-,4851,Weise,Dale,22,RW,"6'2""",210,,,"Winnipeg, MB",Canada,N,6,PHI,Philadelphia,Flyers,4,0
+,4851,Weise,Dale,22,RW,"6'2""",210,,,"Winnipeg, MB",Canada,N,6,PHI,Philadelphia,Flyers,5,1
 ,5101,Welsh,Jeremy,46,C,,,,,,,N,17,STL,St. Louis,Blues,0,0
-,4721,White,Ryan,25,C,"6'0""",201,1988-03-17,28,"Brandon, MB",Canada,N,30,ARI,Arizona,Coyotes,5,0
+,5449,Wennberg,Alexander,10,C,"6'1""",190,,,Stockholm,Sweden,N,19,CBJ,Columbus,Blue Jackets,7,7
+,5603,Werenski,Zach,8,D,"6'2""",214,1997-07-19,19,"Grosse Pointe, MI",USA,Y,19,CBJ,Columbus,Blue Jackets,7,6
+,4430,Wheeler,Blake,26,RW,"6'5""",205,1986-08-31,30,"Robbinsdale, MN",USA,N,47,WPJ,Winnipeg,Jets,8,6
+,4721,White,Ryan,25,C,"6'0""",201,1988-03-17,28,"Brandon, MB",Canada,N,30,ARI,Arizona,Coyotes,6,1
+,5817,Wideman,Chris,6,D,"5'10""",174,1990-07-01,26,"St. Louis, MI",USA,N,13,OTT,Ottawa,Senators,7,3
+,3672,Wideman,Dennis,6,D,"6'0""",200,1983-03-20,33,"Kitchener, ON",Canada,N,23,CGY,Calgary,Flames,6,4
+,4971,Wiercioch,Patrick,28,D,"6'5""",205,1990-09-12,26,"Burnaby, BC",Canada,N,22,COL,Colorado,Avalanche,6,5
 ,5911,Will,Roman,35,G,"6'1""",194,1992-05-22,24,Plzen,Czech Republic,N,22,COL,Colorado,Avalanche,0,0
+,196,Williams,Justin,14,RW,"6'1""",188,1981-10-04,35,"Cobourg, ON",Canada,N,5,WSH,Washington,Capitals,6,1
+,4676,Wilson,Colin,33,LW,"6'1""",216,1989-10-20,27,"Greenwich, CT",USA,N,18,NSH,Nashville,Predators,7,2
 ,5351,Wilson,Garrett,28,LW,"6'2""",199,1991-03-16,25,"Barrie, ON",Canada,N,4,FLO,Florida,Panthers,0,0
+,5492,Wilson,Scott,23,C,"5'11""",183,1992-04-24,24,"Oakville, ON",Canada,N,10,PIT,Pittsburgh,Penguins,8,3
 ,5225,Wilson,Tom,43,RW,"6'4""",210,1994-03-29,22,"Toronto, ON",Canada,N,5,WSH,Washington,Capitals,6,0
+,4879,Wingels,Tommy,57,C,"6'0""",200,1988-04-12,28,"Evanston, IL",USA,N,26,SJS,San Jose,Sharks,8,1
+,4281,Winnik,Daniel,26,C,"6'2""",207,,,"Toronto, ON",Canada,N,5,WSH,Washington,Capitals,6,2
 ,3865,Wisniewski,James,21,D,"5'11""",203,1984-02-21,32,"Canton, MI",USA,N,3,CAR,Carolina,Hurricanes,0,0
 ,5515,Witkowski,Luke,53,D,"6'2""",200,,,"Holland, MI",USA,N,1,TBL,Tampa Bay,Lightning,0,0
 ,9079,Wood,Miles,44,LW,,,,,,,N,7,NJD,New Jersey,Devils,2,0
 ,5504,Woods,Brendan,56,LW,"6'4""",210,,,"Humboldt, SK",Canada,N,3,CAR,Carolina,Hurricanes,0,0
 ,5343,Wotherspoon,Tyler,26,D,"6'1""",203,,,"Burnaby, BC",Canada,N,23,CGY,Calgary,Flames,0,0
+,5119,Yakupov,Nail,64,RW,"5'11""",184,1993-10-06,23,Nizhnekamsk,Russia,N,17,STL,St. Louis,Blues,8,4
+,4051,Yandle,Keith,3,D,"6'1""",190,1986-09-09,30,"Boston, MA",USA,N,4,FLO,Florida,Panthers,7,2
+,5601,Zacha,Pavel,37,C,"6'3""",210,,,Brno,Czech Republic,N,7,NJD,New Jersey,Devils,7,3
+,5270,Zadorov,Nikita,16,D,"6'5""",220,1995-04-16,21,Moscow,Russia,N,22,COL,Colorado,Avalanche,6,2
+,10057,Zaitsev,Nikita,22,D,"6'2""",196,1991-10-29,25,Moscow,Russia,Y,12,TOR,Toronto,Maple Leafs,7,5
+,4032,Zajac,Travis,19,C,"6'3""",205,1985-05-13,31,"Winnipeg, MB",Canada,N,7,NJD,New Jersey,Devils,7,5
 ,5376,Zalewski,Michael,40,LW,"6'2""",205,,,"New Hartford, NY",USA,N,21,VAN,Vancouver,Canucks,0,0
 ,5133,Zatkoff,Jeff,37,G,"6'2""",179,1987-06-09,29,"Detroit, MI",USA,N,28,LAK,Los Angeles,Kings,3,0
+,309,Zetterberg,Henrik,40,LW,"5'11""",197,1980-10-09,36,Njurunda,Sweden,N,16,DET,Detroit,Red Wings,8,4
+,5000,Zibanejad,Mika,93,C,"6'1""",200,1993-04-18,23,Stockholm,Sweden,N,9,NYR,New York,Rangers,8,8
 ,367,Zidlicky,Marek,28,D,"5'11""",190,1977-02-03,39,Most,Czechoslovakia,N,8,NYI,New York,Islanders,0,0
 ,5020,Zolnierczyk,Harrison,26,LW,"5'11""",185,,,"Toronto, ON",Canada,N,18,NSH,Nashville,Predators,1,0
 ,152,Zubrus,Dainius,9,C,"6'5""",225,,,Elektrenai,Lithuania,N,26,SJS,San Jose,Sharks,0,0
+,4927,Zuccarello,Mats,36,LW,"5'7""",179,1987-09-01,29,Oslo,Norway,N,9,NYR,New York,Rangers,8,7
+,5093,Zucker,Jason,16,LW,"5'11""",186,1992-01-16,24,"Newport Beach, CA",USA,N,25,MIN,Minnesota,Wild,8,6
