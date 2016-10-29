@@ -1,5 +1,5 @@
 ---
-title: "Sandbox"
+title: "Andy vs Adam NHL Bet"
 author: "Andy Czerwonka"
 date: "October 28, 2016"
 output: html_document
