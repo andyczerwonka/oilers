@@ -10,27 +10,28 @@ players <- subset(
   (X.LastName == "McDavid" & X.FirstName == "Connor") | (X.LastName == "Gaudreau" & X.FirstName == "Johnny")
   )
 names(players) <- c("Lastname", "Firstname", "Games", "Points")
+sortedPlayers <- players[order(players$Lastname, decreasing=TRUE),]
 
 #team data
 teamstats <- read.csv("./data/teamstats.csv")
 teams <- subset(
-  teamstats[, c(5,6,8,16,28)], 
+  teamstats[, c(5,6,8,13,25)], 
   X.Team.Name == "Oilers" | X.Team.Name == "Flames"
 )
 names(teams) <- c("City", "Team", "Games", "Points", "Goals")
-sortedTeam <- teams[order(teams$Team),]
-wombat <- with(teams, teams[-order(Team),])
+sortedTeams <- teams[order(teams$Team, decreasing=TRUE),]
 
 
 # create a new table with Andy & Adam rows
 betFrame <- data.frame(
   Who = c("Andy","Adam"),
-  Team  = teams[, 2],
-  Player  = players[, 1],
-  Games = teams[, 3],
-  Player.Points = players[, 4],
-  Team.Points = teams[, 4],
-  Team.Goals = teams[, 5]
+  Team  = sortedTeams[, 2],
+  Team.Games = sortedTeams[, 3],
+  Team.Points = sortedTeams[, 4],
+  Team.Goals = sortedTeams[, 5],
+  Player  = sortedPlayers[, 1],
+  Player.Points = sortedPlayers[, 4],
+  Games.Missed = sortedTeams[, 3] - sortedPlayers[, 3]
   )
 
 
