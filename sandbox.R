@@ -4,22 +4,20 @@ setwd("~/work/oilers")
 # options(stringsAsFactors = F) 
 
 #player data
-playerstats <- read.csv("./data/playerstats.csv")
+playersRaw <- read.csv("./data/playerstats.csv")
 players <- subset(
-  playerstats[, c(3,4,18,19)], 
+  playersRaw[, c(3,4,18,19)], 
   (X.LastName == "McDavid" & X.FirstName == "Connor") | (X.LastName == "Gaudreau" & X.FirstName == "Johnny")
   )
-names(players) <- c("Lastname", "Firstname", "Games", "Points")
-players <- players[order(players$Lastname, decreasing=TRUE),]
+players <- players[order(players$X.LastName, decreasing=TRUE),]
 
 #team data
-teamstats <- read.csv("./data/teamstats.csv")
+teamsRaw <- read.csv("./data/teamstats.csv")
 teams <- subset(
-  teamstats[, c(5,6,8,13,25)], 
+  teamsRaw[, c(5,6,8,13,25)], 
   X.Team.Name == "Oilers" | X.Team.Name == "Flames"
 )
-names(teams) <- c("City", "Team", "Games", "Points", "Goals")
-teams <- teams[order(teams$Team, decreasing=TRUE),]
+teams <- teams[order(teams$X.Team.Name, decreasing=TRUE),]
 
 
 # create a new table with Andy & Adam rows
