@@ -10,50 +10,64 @@ runtime: shiny
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This R Markdown document is made interactive using Shiny. Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately. 
+Hey Adam, I think you screwed me again with the goals
 
-To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
+## This is a title
 
-## Inputs and Outputs
-
-You can embed Shiny inputs and outputs in your document. Outputs are automatically updated whenever inputs change.  This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny `renderPlot` function. The `selectInput` and `sliderInput` functions create the input widgets used to drive the plot.
 
 ```{r eruptions, echo=FALSE}
-inputPanel(
-  selectInput("n_breaks", label = "Number of bins:",
-              choices = c(10, 20, 35, 50), selected = 20),
-  
-  sliderInput("bw_adjust", label = "Bandwidth adjustment:",
-              min = 0.2, max = 2, value = 1, step = 0.2)
+
+setwd("~/work/oilers")
+
+#player data
+playersRaw <- read.csv("./data/playerstats.csv")
+players <- subset(
+  playersRaw[, c(3,4,18,19)], 
+  (X.LastName == "McDavid" & X.FirstName == "Connor") | (X.LastName == "Gaudreau" & X.FirstName == "Johnny")
+  )
+players <- players[order(players$X.LastName, decreasing=TRUE),]
+
+#team data
+teamsRaw <- read.csv("./data/teamstats.csv")
+teams <- subset(
+  teamsRaw[, c(5,6,8,13,25)], 
+  X.Team.Name == "Oilers" | X.Team.Name == "Flames"
 )
+teams <- teams[order(teams$X.Team.Name, decreasing=TRUE),]
+
+
+# create a new table with Andy & Adam rows
+totalPoints <- teams[, 4] + teams[, 5] + players[, 4]
+gamesMissed <- teams[, 3] - players[, 3]
+betStats <- data.frame(
+  Who = c("Andy","Adam"),
+  Team  = teams[, 2],
+  Team.Games = teams[, 3],
+  Team.Points = teams[, 4],
+  Team.Goals = teams[, 5],
+  Player  = players[, 1],
+  Player.Points = players[, 4],
+  Games.Missed = gamesMissed,
+  Total = totalPoints
+  )
+
+library(ggplot2)
 
 renderPlot({
-  hist(faithful$eruptions, probability = TRUE, breaks = as.numeric(input$n_breaks),
-       xlab = "Duration (minutes)", main = "Geyser eruption duration")
-  
-  dens <- density(faithful$eruptions, adjust = input$bw_adjust)
-  lines(dens, col = "blue")
+  ggplot(data=betStats, aes(x=Team, y=Team.Points, fill=Team)) +  geom_bar(stat="identity")
 })
+
+renderPlot({
+  ggplot(data=betStats, aes(x=Team, y=Team.Goals, fill=Team)) +  geom_bar(stat="identity")
+})
+
+renderPlot({
+  ggplot(data=betStats, aes(x=Player, y=Player.Points, fill=Player)) +  geom_bar(stat="identity")
+})
+
+ renderTable(betStats)
 ```
 
-## Embedded Application
-
-It's also possible to embed an entire Shiny application within an R Markdown document using the `shinyAppDir` function. This example embeds a Shiny application located in another directory:
-
-```{r tabsets, echo=FALSE}
-shinyAppDir(
-  system.file("examples/06_tabsets", package = "shiny"),
-  options = list(
-    width = "100%", height = 550
-  )
-)
-```
-
-Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
-
-You can also use the `shinyApp` function to define an application inline rather then in an external directory.
-
-In all of R code chunks above the `echo = FALSE` attribute is used. This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.
 
 
 

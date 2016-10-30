@@ -1,8 +1,6 @@
 
 setwd("~/work/oilers")
 
-# options(stringsAsFactors = F) 
-
 #player data
 playersRaw <- read.csv("./data/playerstats.csv")
 players <- subset(
@@ -34,6 +32,13 @@ betStats <- data.frame(
   Games.Missed = gamesMissed,
   Total = totalPoints
   )
+
+library(ggplot2)
+
+g <- ggplot(data=betStats, aes(x=Team, y=Team.Points, fill=Team)) +  geom_bar(stat="identity")
+print(g)
+
+
 
 
 

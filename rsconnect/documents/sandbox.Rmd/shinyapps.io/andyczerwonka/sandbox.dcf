@@ -1,9 +1,10 @@
 name: sandbox
+title:
 account: andyczerwonka
 server: shinyapps.io
 appId: 134469
-bundleId: 599555
+bundleId: 600619
 url: https://andyczerwonka.shinyapps.io/sandbox/
-when: 1477675366.24698
+when: 1477837927.04893
 asMultiple: FALSE
 asStatic: FALSE
