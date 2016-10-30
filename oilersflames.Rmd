@@ -46,7 +46,7 @@ betStats <- data.frame(
 ```
 
 
-#### Rules
+### Rules
 1. McDavid v Gaudreau Total Points
 2. Oilers v Flames Total Points
 3. Oilers v Flames Total Goals
@@ -77,5 +77,5 @@ renderPlot({
   ggplot(data=betStats, aes(x=Team, y=Team.Goals, fill=Team)) +  geom_bar(stat="identity")
 })
 ```
-
+Stats provided by [MySportsFeeds](https://www.mysportsfeeds.com/)
 
