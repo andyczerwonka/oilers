@@ -1,22 +1,23 @@
-
-setwd("~/work/oilers")
+# setup auth
+library(curl)
+h <- new_handle()
+handle_setheaders(h, "Authorization" = "Basic YW5keWN6ZXJ3b25rYTpwb2xvbmlh")
 
 #player data
-playersRaw <- read.csv("./data/playerstats.csv")
+players <- read.csv(curl("https://www.mysportsfeeds.com/api/feed/pull/nhl/2016-2017-regular/cumulative_player_stats.csv?playerstats=Pts", handle = h))
 players <- subset(
-  playersRaw[, c(3,4,18,19)], 
+  players[, c(3,4,18,19)], 
   (X.LastName == "McDavid" & X.FirstName == "Connor") | (X.LastName == "Gaudreau" & X.FirstName == "Johnny")
   )
 players <- players[order(players$X.LastName, decreasing=TRUE),]
 
 #team data
-teamsRaw <- read.csv("./data/teamstats.csv")
+teams <- read.csv(curl("https://www.mysportsfeeds.com/api/feed/pull/nhl/2016-2017/conference_team_standings.csv", handle = h))
 teams <- subset(
-  teamsRaw[, c(5,6,8,13,25)], 
+  teams[, c(5,6,8,13,25)], 
   X.Team.Name == "Oilers" | X.Team.Name == "Flames"
 )
 teams <- teams[order(teams$X.Team.Name, decreasing=TRUE),]
-
 
 # create a new table with Andy & Adam rows
 totalPoints <- teams[, 4] + teams[, 5] + players[, 4]
@@ -32,14 +33,6 @@ betStats <- data.frame(
   Games.Missed = gamesMissed,
   Total = totalPoints
   )
-
-library(ggplot2)
-
-g <- ggplot(data=betStats, aes(x=Team, y=Team.Points, fill=Team)) +  geom_bar(stat="identity")
-print(g)
-
-
-
 
 
 
